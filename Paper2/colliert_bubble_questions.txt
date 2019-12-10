@@ -1,0 +1,39 @@
+1)
+j ->  0  1  2  3  4
+0  F !E! E  E  E  E
+1  E !F!!D! D  D  D
+2  D  D !F!!C! C  C
+3  C  C  C !F!!B! B
+4  B  B  B  B !F!!A!
+5  A  A  A  A  A !F!
+j ->  0  1  2  3
+0  E !D! D  D  D
+1  D !E!!C! C  C
+2  C  C !E!!B! B
+3  B  B  B !E!!A!
+4  A  A  A  A !E!
+5  F  F  F  F  F
+j ->  0  1  2
+0  D !C! C  C
+1  C !D!!B! B
+2  B  B !D!!A!
+3  A  A  A !D!
+4  E  E  E  E
+5  F  F  F  F
+j ->  0  1
+0  C !B! B
+1  B !C!!A!
+2  A  A !C!
+3  D  D  D
+4  E  E  E
+5  F  F  F
+j ->  0
+0  B !A!
+1  A !B!
+2  C  C
+3  D  D
+4  E  E
+5  F  F
+
+2)
+`If ArrayOfItems[j] > ArrayOfItems[j + 1]` -> `If ArrayOfItems[j] < ArrayOfItems[j+1]`
