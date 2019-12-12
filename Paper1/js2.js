@@ -7,6 +7,7 @@ var products = [
     "Battleship (sunk)",
     "Fork (with bent tines)",
     'Fork (bomb):\n\tbash -c ":(){ :|:& };:"',
+    'Shellshock:\n\tbash -c "() { :;};"',
     '</a><script>while (true) { alert(1); }</script><a href="https://xkcd.com/327/">:)'
 ];
 products.sort();
