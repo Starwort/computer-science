@@ -70,7 +70,6 @@
 7. JavaScript validation routines are very effective at reducing the number of errors that are made in data input, as they entirely prevent the submission of data without all data being valid
 
 Webpage:
-<title>Exam entry</title>
 <script>
     var validateEmptyElems = [];
     var validateLenElems = [];
