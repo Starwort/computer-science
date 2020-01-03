@@ -2,8 +2,9 @@ import subprocess
 from os.path import exists, isdir, basename
 from os import listdir, mkdir
 from textwrap import indent
-from shutil import copyfile
+from shutil import copyfile, rmtree
 from typing import List
+from tqdm import tqdm
 
 
 def pandoc(source_file: str) -> None:
@@ -15,7 +16,9 @@ def pandoc(source_file: str) -> None:
     :param source_file: The filename of the source markdown file
     :type source_file: str
     """
-    html = subprocess.run(["pandoc", '"' + source_file.replace('"', '\\"') + '"'])
+    html = subprocess.run(
+        ["pandoc", source_file.replace('"', '\\"')], capture_output=True, text=True,
+    ).stdout
     full_html = f"""<!DOCTYPE html>
 <html>
 
@@ -89,7 +92,7 @@ def path_to_name(path: str) -> str:
     )
 
 
-def travel_dir(source_directory: str) -> str:
+def travel_dir(source_directory: str, use_tqdm=False) -> str:
     """
     Travel through `source_directory`, returning a markdown index
 
@@ -104,11 +107,17 @@ def travel_dir(source_directory: str) -> str:
     """
     source_directory = source_directory.rstrip("/")
     files = listdir(source_directory)
+    if use_tqdm:
+        files = tqdm(files)
     extension = basename(source_directory)
     index = []
     for file_name in files:
         full_file_name = source_directory + "/" + file_name
-        if file_name.startswith(".") or file_name.startswith("_"):
+        if (
+            file_name.startswith(".")
+            or file_name.startswith("_")
+            or file_name == "LICENSE"
+        ):
             continue
         if isdir(full_file_name):
             if not exists("./.pandoc/" + full_file_name):
@@ -159,4 +168,12 @@ def travel_dir(source_directory: str) -> str:
 
 
 if __name__ == "__main__":
-    travel_dir(".")
+    try:
+        rmtree("./.pandoc")
+    except:
+        pass
+    try:
+        mkdir("./.pandoc")
+    except:
+        pass
+    travel_dir(".", True)
