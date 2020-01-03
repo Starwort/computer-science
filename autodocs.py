@@ -148,7 +148,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
         file.write("# " + path_to_name(extension) + "\n\n")
         file.write(tree)
     pandoc(source_directory + "/index.md")
-    return f"[{path_to_name(extension)}]({extension}/index.html)  \n" + tree
+    return f"[{path_to_name(extension)}](index.html)  \n" + tree
 
 
 if __name__ == "__main__":
