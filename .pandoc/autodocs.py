@@ -106,7 +106,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
     :rtype: str
     """
     source_directory = source_directory.rstrip("/")
-    files = listdir(source_directory)
+    files = sorted(listdir(source_directory))
     if use_tqdm:
         files = tqdm(files)
     extension = basename(source_directory)
@@ -123,10 +123,12 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
             if not exists("./.pandoc/" + full_file_name):
                 mkdir("./.pandoc/" + full_file_name)
             dir_index = travel_dir(full_file_name)
-            index.append(dir_index.replace("](", "](" + extension + "/"))
+            index.append(dir_index.replace("](", "](" + file_name + "/"))
         elif file_name.endswith(".md"):
             pandoc(full_file_name)
-            index.append("[" + path_to_name(file_name) + "](" + file_name + ")")
+            index.append(
+                "[" + path_to_name(file_name) + "](" + file_name[:-3] + ".html)"
+            )
         elif file_name.endswith(".html"):
             copyfile(full_file_name, "./.pandoc/" + full_file_name)
             index.append("[" + path_to_name(file_name) + "](" + file_name + ")")
@@ -146,7 +148,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
         file.write("# " + path_to_name(extension) + "\n\n")
         file.write(tree)
     pandoc(source_directory + "/index.md")
-    return f"[{path_to_name(extension)}]({extension}/index.html)\n" + tree
+    return f"[{path_to_name(extension)}]({extension}/index.html)  \n" + tree
 
 
 if __name__ == "__main__":
