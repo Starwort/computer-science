@@ -1,0 +1,14 @@
+REQUIRE official.python3
+// imports: math
+INPUT POS FLOAT N
+SET m TO CALL math.floor WITH (CALL math.log2 WITH N)
+OUTPUT $m
+
+// or
+INPUT POS FLOAT N
+SET m TO 0
+WHILE 2 ** m <= N DO
+    INC m
+END WHILE
+DEC m
+OUTPUT $m

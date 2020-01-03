@@ -1,0 +1,9 @@
+1)
+              Static             |             Dynamic
+Size does not change at run-time |    Size changes at run-time
+              Array              |              List
+              Tuple              |
+
+2)
+Arrays can have their indexed items changed, where as tuples are fully immutable;
+once instantiated their contents never change

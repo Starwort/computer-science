@@ -1,0 +1,9 @@
+INPUT POS INT m
+INPUT INT x
+SET power TO x
+SET count TO 1
+WHILE count < m DO
+    SET power TO power * x
+    INC count
+END WHILE
+OUTPUT $power
