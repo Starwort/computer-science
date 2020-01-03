@@ -123,17 +123,17 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
             if not exists("./.pandoc/" + full_file_name):
                 mkdir("./.pandoc/" + full_file_name)
             dir_index = travel_dir(full_file_name)
-            index.append("\n" + dir_index.replace("](", "](" + extension + "/"))
+            index.append(dir_index.replace("](", "](" + extension + "/"))
         elif file_name.endswith(".md"):
             pandoc(full_file_name)
-            index.append("\n[" + path_to_name(file_name) + "](" + file_name + ")")
+            index.append("[" + path_to_name(file_name) + "](" + file_name + ")")
         elif file_name.endswith(".html"):
             copyfile(full_file_name, "./.pandoc/" + full_file_name)
-            index.append("\n[" + path_to_name(file_name) + "](" + file_name + ")")
+            index.append("[" + path_to_name(file_name) + "](" + file_name + ")")
         else:
             copyfile(full_file_name, "./.pandoc/" + full_file_name)
             index.append(
-                "\n["
+                "["
                 + path_to_name(file_name)
                 + " ("
                 + file_name.split(".")[-1].upper()
