@@ -85,10 +85,13 @@ def path_to_name(path: str) -> str:
     :return: Name described by `path`
     :rtype: str
     """
-    return " ".join(
-        i.title()
-        for i in path.split(".")[0].split("_")
-        if i != "colliert"  # remove tag
+    return (
+        " ".join(
+            i.title()
+            for i in path.split(".")[0].split("_")
+            if i != "colliert"  # remove tag
+        )
+        or "Computer Science"
     )
 
 
@@ -147,7 +150,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
             )
     tree = directory_to_tree(index)
     with open(source_directory + "/index.md", "w") as file:
-        file.write("# " + path_to_name(extension or "Computer Science") + "\n\n")
+        file.write("# " + path_to_name(extension) + "\n\n")
         file.write(tree)
     pandoc(source_directory + "/index.md")
     return f"[{path_to_name(extension)}](index.html)  \n" + tree
