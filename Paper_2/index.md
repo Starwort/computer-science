@@ -55,7 +55,6 @@
 ┣━ [Fibonacci No Cache (CS file)](fibonacci_no_cache.cs)  
 ┣━ [Fibonacci No Cache (EXE file)](fibonacci_no_cache.exe)  
 ┣━ [Fix Line Endings (PY file)](fix_line_endings.py)  
-┣━ [Index](index.html)  
 ┣━ [Shuffle Sort (PY file)](shuffle_sort.py)  
 ┣━ [Student List (TXT file)](student list.txt)  
 ┗━ [Tk Arranger (PY file)](tk_arranger.py)

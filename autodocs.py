@@ -112,6 +112,8 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
     extension = basename(source_directory)
     index = []
     for file_name in files:
+        if file_name.startswith("index"):
+            continue
         full_file_name = source_directory + "/" + file_name
         if (
             file_name.startswith(".")
