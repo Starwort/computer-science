@@ -1,0 +1,7 @@
+// https://peterhigginson.co.uk/lmc/
+        INP
+        STA 0
+        INP
+        ADD 0
+        OUT
+        HLT
