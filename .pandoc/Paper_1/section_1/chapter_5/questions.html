@@ -26,17 +26,24 @@
     </style>
 </head>
 <body><style>
-    :not(ul) + ol {
+    :not(ul) > ol {
         counter-reset: list-ctr;
         list-style-type: none;
         list-style-position: outside;
     }
-    :not(ul) + ol > li {
+    :not(ul) > ol > li {
         counter-increment: list-ctr;
     }
-    :not(ul) + ol > li::before {
+    :not(ul) > ol > li::before {
         content:"Q" counter(list-ctr) ". ";
-        margin-left: -25px;
+        margin-left: -25.5px;
+    }
+    ol ol {
+        list-style-type: circle;
+    }
+    ol ol > li::before{
+        content: none;
+        margin-left: default;
     }
     ol ul {
         list-style-type: lower-alpha;
@@ -58,5 +65,39 @@
     }
 </style>
 <h1 id="chapter-5">Chapter 5</h1>
+<ol style="list-style-type: decimal">
+<li><ol style="list-style-type: decimal">
+<li>It saves ink or paper, due to the removal of the need to write on physical objects</li>
+<li>It allows for displays on any surface, even patterned or curved ones, regardless of the material</li>
+</ol></li>
+<li><ol style="list-style-type: decimal">
+<li>Playing music</li>
+<li>Reading text (for accessibilty)</li>
+<li>Feedback</li>
+</ol></li>
+</ol>
+<h2 id="exercises">Exercises</h2>
+<ul>
+<li>​
+<ul>
+<li>​
+<ul>
+<li>It allows the students to interact with the software</li>
+<li>It displays the audiovisual feedback to the students</li>
+</ul></li>
+<li>​
+<ul>
+<li>It displays the information in a more interesting way for the students</li>
+<li>It makes the overall experience more engaging for the students and allows them to choose what they want to study</li>
+</ul></li>
+</ul></li>
+<li>​
+<ul>
+<li>Dot matrix as it strikes the paper, making printing on multipart paper easer and enables carbon copies to work properly</li>
+<li>Laser as it is high-quality and high-speed; it is highly efficient for printing large quantities</li>
+<li>Inkjet as it has extremely high DPI compared to equivalent-price laser printers and because of this can produce photorealistic prints</li>
+</ul></li>
+<li>LCD, as it is low-power - meaning it can operate on the plane for hundreds of seats, without increasing the fuel requirement to an unreasonable amount - consider the tyranny of the rocket equation</li>
+</ul>
 </body>
 </html>
