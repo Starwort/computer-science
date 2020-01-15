@@ -13,6 +13,7 @@
 ┃  ┃  ┗━ [Markdown](Paper_1/javascript_tasks_2/markdown.html)  
 ┃  ┣━ [Js2 (JS file)](Paper_1/js2.js)  
 ┃  ┣━ [Lmc](Paper_1/lmc/index.html)  
+┃  ┃  ┣━ [Advanced Tasks (LMC file)](Paper_1/lmc/advanced_tasks.lmc)  
 ┃  ┃  ┣━ [Beginner Tasks (LMC file)](Paper_1/lmc/beginner_tasks.lmc)  
 ┃  ┃  ┣━ [Difference (LMC file)](Paper_1/lmc/difference.lmc)  
 ┃  ┃  ┣━ [Equality (LMC file)](Paper_1/lmc/equality.lmc)  
