@@ -29,27 +29,23 @@ L_2LOOP LDA 0
         LDA 0
         BRP L_2LOOP
         LDA 2
+        SUB ONE
         OUT
 // INPUT INT big
 // INPUT INT small
-// SET ctr TO 0
-// WHILE big >= 0 DO
-//     SET big TO big - small
-//     INC ctr
-// END WHILE
-// OUTPUT ctr
+// OUTPUT big DIVI small
 // task 3
         INP
         STA 0
         STA 2
         INP
         STA 1
-L_3LOOP LDA 2
-        BRZ L_3OUT
+L_3LOOP LDA 1
         SUB ONE
-        STA 2
+        BRZ L_3OUT
+        STA 1
         LDA 0
-        ADD 1
+        ADD 2
         STA 0
         BRA L_3LOOP
 L_3OUT  LDA 0
