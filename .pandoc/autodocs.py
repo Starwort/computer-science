@@ -6,6 +6,10 @@ from shutil import copyfile, rmtree
 from typing import List
 from tqdm import tqdm
 
+transtable = str.maketrans("-_", "  ")
+with open(".gitignore") as file:
+    ignore_files = [i.strip("/\n") for i in file.readlines() if not i.startswith("#")]
+
 
 def pandoc(source_file: str) -> None:
     """
@@ -88,7 +92,7 @@ def path_to_name(path: str) -> str:
     return (
         " ".join(
             i.title()
-            for i in path.split(".")[0].split("_")
+            for i in path.lstrip(".").split(".")[0].translate(transtable).split()
             if i != "colliert"  # remove tag
         )
         or "Computer Science"
@@ -118,11 +122,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
         if file_name.startswith("index"):
             continue
         full_file_name = source_directory + "/" + file_name
-        if (
-            file_name.startswith(".")
-            or file_name.startswith("_")
-            or file_name == "LICENSE"
-        ):
+        if file_name == ".pandoc" or file_name in ignore_files:
             continue
         if isdir(full_file_name):
             if not exists("./.pandoc/" + full_file_name):

@@ -8,7 +8,7 @@
 ┃  ┣━ [Html (JS file)](javascript_tasks_2/html.js)  
 ┃  ┣━ [Javascript](javascript_tasks_2/javascript.html)  
 ┃  ┣━ [Javascript Use This One](javascript_tasks_2/javascript_USE_THIS_ONE.html)  
-┃  ┣━ [Markdown-Pandoc-Out](javascript_tasks_2/markdown-pandoc-out.html)  
+┃  ┣━ [Markdown Pandoc Out](javascript_tasks_2/markdown-pandoc-out.html)  
 ┃  ┗━ [Markdown](javascript_tasks_2/markdown.html)  
 ┣━ [Js2 (JS file)](js2.js)  
 ┣━ [Lmc](lmc/index.html)  
