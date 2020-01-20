@@ -7,3 +7,4 @@ repos:
         name: document
         entry: bash -c 'python3 autodocs.py; git add -u' --
         language: system
+        verbose: true
