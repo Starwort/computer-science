@@ -1,14 +1,7 @@
 # See https://pre-commit.com for more information
 # See https://pre-commit.com/hooks.html for more hooks
 repos:
--   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v2.4.0
+-   repo: https://github.com/starwort/computer-science
+    rev: 9ea8428e72785f25b745cc8aa7e6ffabb3531c23
     hooks:
-    -   id: trailing-whitespace
-    -   id: end-of-file-fixer
-    -   id: check-yaml
-    -   id: check-added-large-files
-# -   repo: https://github.com/starwort/computer-science
-#     rev: b56456f77f1bc7848379121a1cb8e95ef254378b
-#     hooks:
-#     -   id: autodoc
+    -   id: autodoc
