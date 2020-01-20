@@ -2,7 +2,6 @@
 
 ┣━ [Gitignore (GITIGNORE file)](.gitignore)  
 ┣━ [Pre Commit Config (YAML file)](.pre-commit-config.yaml)  
-┣━ [Pre Commit Hooks (YAML file)](.pre-commit-hooks.yaml)  
 ┣━ [License (LICENSE file)](LICENSE)  
 ┣━ [Paper 1](Paper_1/index.html)  
 ┃  ┣━ [England](Paper_1/england.html)  

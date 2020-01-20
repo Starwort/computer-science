@@ -1,7 +1,9 @@
 # See https://pre-commit.com for more information
 # See https://pre-commit.com/hooks.html for more hooks
 repos:
--   repo: https://github.com/starwort/computer-science
-    rev: 9ea8428e72785f25b745cc8aa7e6ffabb3531c23
+-   repo: local
     hooks:
     -   id: autodoc
+        name: document
+        entry: python3 autodocs.py && git add -u && !!
+        language: system
