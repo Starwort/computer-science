@@ -6,7 +6,7 @@ from shutil import copyfile, rmtree
 from typing import List
 from tqdm import tqdm
 
-transtable = str.maketrans("-_", "  ")
+transtable = str.maketrans("-_.", "   ")
 with open(".gitignore") as file:
     ignore_files = [i.strip("/\n") for i in file.readlines() if not i.startswith("#")]
 
@@ -92,7 +92,9 @@ def path_to_name(path: str) -> str:
     return (
         " ".join(
             i.title()
-            for i in path.lstrip(".").split(".")[0].translate(transtable).split()
+            for i in (".".join(path.lstrip(".").split(".")[:-1]) or path.lstrip("."))
+            .translate(transtable)
+            .split()
             if i != "colliert"  # remove tag
         )
         or "Computer Science"
