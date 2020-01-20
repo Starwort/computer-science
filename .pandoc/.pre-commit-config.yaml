@@ -5,5 +5,5 @@ repos:
     hooks:
     -   id: autodoc
         name: document
-        entry: python3 autodocs.py && git add -u && !!
+        entry: bash -c 'python3 autodocs.py; git add -u' --
         language: system
