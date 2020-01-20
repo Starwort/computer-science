@@ -9,6 +9,6 @@ repos:
     -   id: check-yaml
     -   id: check-added-large-files
 # -   repo: https://github.com/starwort/computer-science
-#     rev: 5f6304101e4c6b57ee677710364bdc16b387bdbc
+#     rev: 29e664fdaa719c71f7d5854a9c222911fca79933
 #     hooks:
 #     -   id: autodoc

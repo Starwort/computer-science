@@ -1,4 +1,4 @@
 -   id: autodoc
     name: document
     entry: python3 autodocs.py
-    language: python3
+    language: python
