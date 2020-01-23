@@ -25,6 +25,8 @@
 ┣━ [Page135Questions (TXT file)](page135questions.txt)  
 ┣━ [Scotland](scotland.html)  
 ┣━ [Section 1](section_1/index.html)  
+┃  ┣━ [Chapter 1](section_1/chapter_1/index.html)  
+┃  ┃  ┗━ [Notes](section_1/chapter_1/notes.html)  
 ┃  ┣━ [Chapter 3](section_1/chapter_3/index.html)  
 ┃  ┃  ┗━ [Questions](section_1/chapter_3/questions.html)  
 ┃  ┣━ [Chapter 4](section_1/chapter_4/index.html)  
