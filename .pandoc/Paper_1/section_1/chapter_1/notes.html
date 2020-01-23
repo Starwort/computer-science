@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- make markdown look nicer -->
+    <style>
+        code {
+            background-color: rgba(27, 31, 35, .05);
+            border-radius: 3px;
+            font-size: 85%;
+            margin: 0;
+            padding: .2em .4em;
+        }
+
+        pre code {
+            background-color: rgba(27, 31, 35, .05);
+            border: 0;
+            display: block;
+            line-height: inherit;
+            margin: 0;
+            max-width: auto;
+            overflow: scroll;
+            padding: 0;
+            word-wrap: normal;
+        }
+    </style>
+</head>
+<body><h2 id="cpu-components">CPU components</h2>
+<ul>
+<li>ALU (Arithmetic Logic Unit)</li>
+<li>CU (Control Unit)</li>
+<li>Registers:
+<ul>
+<li>PC (Program Counter)</li>
+<li>MAR (Memory Address Register)</li>
+<li>MDR (Memory Data Register)</li>
+<li>Accumulator</li>
+<li>CIR (Current Instruction Register)</li>
+</ul></li>
+<li>Buses:
+<ul>
+<li>Data Bus (bi-directional)</li>
+<li>Address Bus (uni-directional)</li>
+<li>Control Bus (bi-directional)</li>
+</ul></li>
+</ul>
+<h2 id="fetch-decode-execute-cycle">Fetch-Decode-Execute cycle</h2>
+<ul>
+<li>Instruction is fetched
+<ol style="list-style-type: decimal">
+<li>PC copied to MAR</li>
+<li>MDR loaded from MAR-held address in RAM</li>
+<li>PC increments to hold the address of the next instruction</li>
+<li>Contents of MDR copied to CIR</li>
+</ol></li>
+<li>Instruction is decoded
+<ul>
+<li>Split to opcode and operand</li>
+<li>Opcode determines the instruction and what hardware/process to use to execute it</li>
+<li>Operand holds either:
+<ul>
+<li>The address of the data to be used with the operation. Will be copied to the MAR</li>
+<li>The actual data to be operated on. Will be copied to the MDR, and possibly to the accumulator or PC</li>
+</ul></li>
+</ul></li>
+<li>Instruction is executed
+<ul>
+<li>Processed - effects occur</li>
+<li>Appropriate instruction (determined by opcode) is applied to the operand
+<ul>
+<li>e.g. opcode is ADD and operand is #7 - number 7 added to accumulator's held value</li>
+<li>e.g. opcode is LDA and operand is $42 - contents address 0x42 loaded to accumulator</li>
+</ul></li>
+</ul></li>
+<li>Loop to beginning, millions of times per second</li>
+</ul>
+</body>
+</html>
