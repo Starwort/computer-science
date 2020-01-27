@@ -1,7 +1,8 @@
 # Section 1
 
 ┣━ [Chapter 1](chapter_1/index.html)  
-┃  ┗━ [Notes](chapter_1/notes.html)  
+┃  ┣━ [Notes](chapter_1/notes.html)  
+┃  ┗━ [Processor Architectures](chapter_1/processor_architectures.html)  
 ┣━ [Chapter 3](chapter_3/index.html)  
 ┃  ┗━ [Questions](chapter_3/questions.html)  
 ┣━ [Chapter 4](chapter_4/index.html)  
