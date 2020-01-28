@@ -25,10 +25,18 @@
         }
     </style>
 </head>
-<body><h1 id="chapter-1">Chapter 1</h1>
-<p>┣━ <a href="cpu_notes.html">Cpu Notes</a><br />
-┣━ <a href="notes.html">Notes</a><br />
-┣━ <a href="pipelining.html">Pipelining</a><br />
-┗━ <a href="processor_architectures.html">Processor Architectures</a></p>
+<body><h1 id="pipelining">Pipelining</h1>
+<ul>
+<li>Von Neumann is a serial / sequential architecutre
+<ul>
+<li>While an instruction is being fetched, e.g. the ALU is idle</li>
+<li>But each part of the Fetch-Decode-Execute cycle uses a different part of the CPU</li>
+</ul></li>
+<li>Pipelining is a way to make the Fetch-Decode-Execute cycle more efficient
+<ul>
+<li>For example, the architecture allows the next instruction to be fetched at the same time as the ALU is performing a calculation</li>
+<li>Pipelining is sometimes divided into an instruction pipeline and an arithmetic pipeline</li>
+</ul></li>
+</ul>
 </body>
 </html>

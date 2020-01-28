@@ -48,6 +48,8 @@
 #### Typical use case
 
 - Most general purpose computers use this architecture
+- Some embedded systems use this
+    - generally if control-functions only
 
 ### Harvard
 
@@ -71,10 +73,23 @@ Instruction Memory <-> Control Unit <-> Data Memory
 
 #### Typical use case
 
-- Used on embedded systems or microcontrollers
+- Used on some embedded systems or microcontrollers
+    - For real-time data
     - Instructions can often be held in read-only memory as they often do not need to be changed
     - Data memory requires read-write memory
     - Some systems have more instruction memory than data memory so the instruction addresses and buses are wid than data addresses and bus
 - Used for Digital Signal Processing (DSP)
     - takes real-world signals like voice, audio, video, temperature, pressure, or position that have been digitised, and mathematically manipulate them
     - e.g. navigation systems, trafic lights, aircraft flight control systems and simulators
+
+### Comparison
+
+Von Neumann | Harvard
+---: | ---:
+Data and programs share the same memory | Instructions and data are held in separate memories |
+One bus is used to transfer data and instructions | Parallel data and instructionbuses may be used
+Programs can be optimised in size | Programs tend to be large
+
+Modern high-performance CPU chips incorporate aspects of both Von Neumann and Harvard architectures
+- RAM holds both data and instructions (Von Neumann)
+- CPU cache divided into instruction cache and data cache (Harvard)

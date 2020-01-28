@@ -81,6 +81,10 @@
 <h4 id="typical-use-case">Typical use case</h4>
 <ul>
 <li>Most general purpose computers use this architecture</li>
+<li>Some embedded systems use this
+<ul>
+<li>generally if control-functions only</li>
+</ul></li>
 </ul>
 <h3 id="harvard">Harvard</h3>
 <ul>
@@ -105,8 +109,9 @@ Instruction Memory &lt;-&gt; Control Unit &lt;-&gt; Data Memory
                         IO Devices</code></pre>
 <h4 id="typical-use-case-1">Typical use case</h4>
 <ul>
-<li>Used on embedded systems or microcontrollers
+<li>Used on some embedded systems or microcontrollers
 <ul>
+<li>For real-time data</li>
 <li>Instructions can often be held in read-only memory as they often do not need to be changed</li>
 <li>Data memory requires read-write memory</li>
 <li>Some systems have more instruction memory than data memory so the instruction addresses and buses are wid than data addresses and bus</li>
@@ -117,5 +122,33 @@ Instruction Memory &lt;-&gt; Control Unit &lt;-&gt; Data Memory
 <li>e.g. navigation systems, trafic lights, aircraft flight control systems and simulators</li>
 </ul></li>
 </ul>
+<h3 id="comparison">Comparison</h3>
+<table style="width:14%;">
+<colgroup>
+<col width="6%" />
+<col width="6%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="right">Von Neumann</th>
+<th align="right">Harvard</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right">Data and programs share the same memory</td>
+<td align="right">Instructions and data are held in separate memories</td>
+</tr>
+<tr class="even">
+<td align="right">One bus is used to transfer data and instructions</td>
+<td align="right">Parallel data and instructionbuses may be used</td>
+</tr>
+<tr class="odd">
+<td align="right">Programs can be optimised in size</td>
+<td align="right">Programs tend to be large</td>
+</tr>
+</tbody>
+</table>
+<p>Modern high-performance CPU chips incorporate aspects of both Von Neumann and Harvard architectures - RAM holds both data and instructions (Von Neumann) - CPU cache divided into instruction cache and data cache (Harvard)</p>
 </body>
 </html>
