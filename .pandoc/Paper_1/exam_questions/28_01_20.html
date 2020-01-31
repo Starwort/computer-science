@@ -3,7 +3,7 @@
 
 <head>
     <!-- make markdown look nicer -->
-    <style>
+    <!-- <style>
         code {
             background-color: rgba(27, 31, 35, .05);
             border-radius: 3px;
@@ -23,7 +23,8 @@
             padding: 0;
             word-wrap: normal;
         }
-    </style>
+    </style> -->
+    <link rel="stylesheet" type="text/css" href="https://starwort.github.io/computer-science/style.css">
 </head>
 <body><style type="text/css">
     ol ol {
@@ -34,13 +35,13 @@
     }
 </style>
 <ol style="list-style-type: decimal">
-<li>An architecture firm specialises in designing skyscrapers.
+<li><p>An architecture firm specialises in designing skyscrapers.</p>
 <ol style="list-style-type: decimal">
-<li>The firm uses high end computers with high performance CPUs, GPUs, and large amounts of RAM
+<li><p>The firm uses high end computers with high performance CPUs, GPUs, and large amounts of RAM</p>
 <ol style="list-style-type: decimal">
 <li>Give <strong>one</strong> use the firm might have for GPUs.
 <ul>
-<li>Visualising the skyscrapers they are designing</li>
+<li>Visualising the skyscrapers they are designing.</li>
 </ul></li>
 <li>Describe what is meant by the term 'RAM'
 <ul>
@@ -52,39 +53,39 @@
 </ul></li>
 </ol></li>
 </ol></li>
-<li>A digital coffee making machine has a CPU that uses the Little Man Computer Instruction Set.
+<li><p>A digital coffee making machine has a CPU that uses the Little Man Computer Instruction Set.</p>
 <ol style="list-style-type: decimal">
-<li>Little Man Computer operates on a computer system based on the Von Neumann Architecture
+<li><p>Little Man Computer operates on a computer system based on the Von Neumann Architecture</p>
 <ol style="list-style-type: decimal">
 <li>State <strong>two</strong> features of the Von Neumann architecture.
 <ul>
-<li>One main memory for data and instructions</li>
-<li>CPU that runs with the Fetch-Decode-Execute cycle in order to execute instructions</li>
+<li>One main memory for data and instructions.</li>
+<li>CPU that runs with the Fetch-Decode-Execute cycle in order to execute instructions.</li>
 </ul></li>
 <li>Describe <strong>one</strong> feature, <strong>not</strong> part of the standard Von Neumann architecture, which contemporary CPUs may have in order to improve performance.
 <ul>
-<li>Contemporary CPUs may utilise pipelining to improve their performance - each component of the CPU is kept busy by offsetting multiple input streams such that the Fetch, Decode, and Execute cycles happen concurrently for contiguous instructions</li>
+<li>Contemporary CPUs may utilise pipelining to improve their performance - each component of the CPU is kept busy by offsetting multiple input streams such that the Fetch, Decode, and Execute cycles happen concurrently for contiguous instructions.</li>
 </ul></li>
 </ol></li>
 </ol></li>
 <li><p>See And Believe is a company that specialises in CGI for films.</p>
-Producing CGI requires a lot of processing power and so the company has a large number of high-performance computers
+<p>Producing CGI requires a lot of processing power and so the company has a large number of high-performance computers</p>
 <ol style="list-style-type: decimal">
-<li>The processors in the company's powerful computers have fast clock speeds and large amounts of cache memory. Describe how each of these improves the processor's performance
+<li><p>The processors in the company's powerful computers have fast clock speeds and large amounts of cache memory. Describe how each of these improves the processor's performance</p>
 <ol style="list-style-type: decimal">
 <li>fast clock speed
 <ul>
-<li>High clock speeds mean that the Fetch-Decode-Execute cycle occurs more often, meaning that the processor executes instructions more often and therefore overall faster</li>
+<li>High clock speeds mean that the Fetch-Decode-Execute cycle occurs more often, meaning that the processor executes instructions more often and therefore overall faster.</li>
 </ul></li>
 <li>large cache memory
 <ul>
-<li>Large quantities of cache allows the processor to store more instructions data in high-speed memory, meaning it can read the instructions and write the data faster</li>
+<li>Large quantities of cache allows the processor to store more instructions data in high-speed memory, meaning it can read the instructions and write the data faster.</li>
 </ul></li>
 </ol></li>
 </ol></li>
 <li>​
 <ol style="list-style-type: decimal">
-<li>Processors following the Von Neumann architecture use registers
+<li><p>Processors following the Von Neumann architecture use registers</p>
 <ol style="list-style-type: decimal">
 <li>Describe what is meant by the term 'register'
 <ul>
@@ -97,37 +98,59 @@ Producing CGI requires a lot of processing power and so the company has a large 
 </ol></li>
 <li>An example of a register is the Accumulator (ACC). Give a Little Man Computer instruction that will copy the contents of the accumulator into memory when executed.
 <ul>
-<li>STA</li>
+<li><code>STA</code></li>
 </ul></li>
-<li>Another Register is the Program Counter (PC)
+<li><p>Another Register is the Program Counter (PC)</p>
 <ol style="list-style-type: decimal">
 <li>State what the PC holds
 <ul>
-<li>The address of the next instruction</li>
+<li>The address of the next instruction.</li>
 </ul></li>
 <li>Give the name of two Little Man Computer instructions that may change the contents of the Program Counter when executed
 <ul>
-<li>BRA</li>
-<li>BRZ</li>
+<li><code>BRA</code></li>
+<li><code>BRZ</code></li>
 </ul></li>
 </ol></li>
 </ol></li>
-<li>The Von Neumann architecture uses a Control Unit and an Arithmetic Logic Unit
+<li><p>The Von Neumann architecture uses a Control Unit and an Arithmetic Logic Unit</p>
 <ol style="list-style-type: decimal">
 <li>State the register in which the Arithmetic Logic Unit stores its results.
 <ul>
 <li>Accumulator</li>
 </ul></li>
-<li>Tick the stage of the fetch decode execute cycle in which the register in part a. would receive a value from the Arithmetic Logic Unit Stage | Tick one ---- | :---: Fetch | Decode | Execute | ✓</li>
+<li><p>Tick the stage of the fetch decode execute cycle in which the register in part a. would receive a value from the Arithmetic Logic Unit</p>
+<table>
+<thead>
+<tr class="header">
+<th>Stage</th>
+<th align="center">Tick one</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fetch</td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td>Decode</td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td>Execute</td>
+<td align="center">✓</td>
+</tr>
+</tbody>
+</table></li>
 </ol></li>
 <li><p>A processor executes 　<strong>a</strong> 　program following the Fetch-Decode-Execute cycle. To do this it needs to make use of registers</p>
-One of the registers used is the Program Counter (PC). Ordinarily it would be incremented by one each cycle
+<p>One of the registers used is the Program Counter (PC). Ordinarily it would be incremented by one each cycle</p>
 <ol style="list-style-type: decimal">
-<li>​
+<li><p>​</p>
 <ol style="list-style-type: decimal">
 <li>Identify an instruction in the Little Man Computer <del>program shown in Fig.2</del> instruction set that would cause the PC to change in a different way
 <ul>
-<li>BRP</li>
+<li><code>BRP</code></li>
 </ul></li>
 <li>State which register the contents of the PC would be copied to in order for the processor to access the next instruction
 <ul>
@@ -147,59 +170,59 @@ One of the registers used is the Program Counter (PC). Ordinarily it would be in
 <tbody>
 <tr class="odd">
 <td>0</td>
-<td>LDA</td>
-<td>&amp;7</td>
+<td><code>LDA</code></td>
+<td><code>&amp;7</code></td>
 </tr>
 <tr class="even">
 <td>1</td>
-<td>ADD</td>
-<td>#4</td>
+<td><code>ADD</code></td>
+<td><code>#4</code></td>
 </tr>
 <tr class="odd">
 <td>2</td>
-<td>OUT</td>
+<td><code>OUT</code></td>
 <td></td>
 </tr>
 <tr class="even">
 <td>3</td>
-<td>HLT</td>
+<td><code>HLT</code></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>4</td>
-<td>DAT</td>
-<td>6</td>
+<td><code>DAT</code></td>
+<td><code>6</code></td>
 </tr>
 <tr class="even">
 <td>5</td>
-<td>DAT</td>
-<td>2</td>
+<td><code>DAT</code></td>
+<td><code>2</code></td>
 </tr>
 <tr class="odd">
 <td>6</td>
-<td>DAT</td>
-<td>10</td>
+<td><code>DAT</code></td>
+<td><code>10</code></td>
 </tr>
 <tr class="even">
 <td>7</td>
-<td>DAT</td>
-<td>15</td>
+<td><code>DAT</code></td>
+<td><code>15</code></td>
 </tr>
 <tr class="odd">
 <td>8</td>
-<td>DAT</td>
-<td>16</td>
+<td><code>DAT</code></td>
+<td><code>16</code></td>
 </tr>
 <tr class="even">
 <td>9</td>
-<td>DAT</td>
-<td>17</td>
+<td><code>DAT</code></td>
+<td><code>17</code></td>
 </tr>
 </tbody>
 </table>
 <p>In this variant of LMC the symbols &amp; and # are used to denote different modes of addressing</p>
 <ol style="list-style-type: decimal">
-<li>Given that the output is 17, state the addressing mode represented by each symbol
+<li><p>Given that the output is 17, state the addressing mode represented by each symbol</p>
 <ol style="list-style-type: decimal">
 <li>&amp;
 <ul>
@@ -211,17 +234,17 @@ One of the registers used is the Program Counter (PC). Ordinarily it would be in
 </ul></li>
 </ol></li>
 <li><p>An assembler is used on the code.</p>
-<p>Describe what is meant by the term 'assembler'</p>
+Describe what is meant by the term 'assembler'
 <ul>
 <li>An assembler takes assembly code and converts it to machine code.</li>
 </ul></li>
 <li>Explain how pipelining would help a CPU execute the code in Fig. 3.1 more quickly
 <ul>
-<li>Pipelining would allow the CPU to execute the instructions more quickly as it prevents any component from being idle.</li>
+<li>Pipelining would allow the CPU to execute the instructions more quickly as it prevents any component from being idle; each component of the CPU is kept busy by offsetting multiple input streams such that the Fetch, Decode, and Execute cycles happen concurrently for contiguous instructions.</li>
 </ul></li>
 </ol></li>
 <li><p>'The Megahertz Myth' is the name given to the argument that clock speed alone is an insufficient method to compare the performance of processors</p>
-<p>Discuss the extent to which you agree with this argument. You should include any other factors that might affect a processor's performance</p>
+Discuss the extent to which you agree with this argument. You should include any other factors that might affect a processor's performance
 <ul>
 <li><p>I fully agree with this argument. Besides clock speed, there are several factors that affect performance.</p>
 <p>One factor that can affect performance is the number of cores in the processor; more cores = more sets of ALU, CU, registers, and cache to execute instructions.</p>

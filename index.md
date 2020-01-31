@@ -112,4 +112,5 @@
 ┃  ┗━ [Tk Arranger (PY file)](Paper_2/tk_arranger.py)  
 ┣━ [Readme](README.html)  
 ┣━ [Config (YML file)](_config.yml)  
-┗━ [Autodocs (PY file)](autodocs.py)
+┣━ [Autodocs (PY file)](autodocs.py)  
+┗━ [Style (CSS file)](style.css)

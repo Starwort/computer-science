@@ -28,7 +28,7 @@ def pandoc(source_file: str) -> None:
 
 <head>
     <!-- make markdown look nicer -->
-    <style>
+    <!-- <style>
         code {{
             background-color: rgba(27, 31, 35, .05);
             border-radius: 3px;
@@ -48,7 +48,8 @@ def pandoc(source_file: str) -> None:
             padding: 0;
             word-wrap: normal;
         }}
-    </style>
+    </style> -->
+    <link rel="stylesheet" type="text/css" href="https://starwort.github.io/computer-science/style.css">
 </head>
 <body>{html}</body>
 </html>
