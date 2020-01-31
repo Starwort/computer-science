@@ -1,9 +1,0 @@
-INPUT POS INT x
-INPUT INT y
-SET product TO 0
-SET no_times TO 0
-WHILE no_times != x DO
-    SET product TO product + y
-    INC no_times
-END WHILE
-OUTPUT $product

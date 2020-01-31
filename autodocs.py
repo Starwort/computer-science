@@ -21,7 +21,7 @@ def pandoc(source_file: str) -> None:
     :param source_file: The filename of the source markdown file
     :type source_file: str
     """
-    copyfile(source_file, "./.pandoc/" + source_file.lstrip("./"))
+    # copyfile(source_file, "./.pandoc/" + source_file.lstrip("./"))
     return
     #     html = subprocess.run(
     #         ["pandoc", source_file.replace('"', '\\"')], capture_output=True, text=True,
@@ -140,8 +140,8 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
         if file_name == ".pandoc" or file_name in ignore_files:
             continue
         if isdir(full_file_name):
-            if not exists("./.pandoc/" + full_file_name):
-                mkdir("./.pandoc/" + full_file_name)
+            # if not exists("./.pandoc/" + full_file_name):
+            #     mkdir("./.pandoc/" + full_file_name)
             dir_index = travel_dir(full_file_name)
             index.append(dir_index.replace("](", "](" + file_name + "/"))
         elif file_name.endswith(".md"):
@@ -150,10 +150,10 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
                 "[" + path_to_name(file_name) + "](" + file_name[:-3] + ".html)"
             )
         elif file_name.endswith(".html"):
-            copyfile(full_file_name, "./.pandoc/" + full_file_name)
+            # copyfile(full_file_name, "./.pandoc/" + full_file_name)
             index.append("[" + path_to_name(file_name) + "](" + file_name + ")")
         else:
-            copyfile(full_file_name, "./.pandoc/" + full_file_name)
+            # copyfile(full_file_name, "./.pandoc/" + full_file_name)
             index.append(
                 "["
                 + path_to_name(file_name)
@@ -176,9 +176,9 @@ if __name__ == "__main__":
         rmtree("./.pandoc")
     except:
         pass
-    try:
-        mkdir("./.pandoc")
-    except:
-        pass
+    # try:
+    #     mkdir("./.pandoc")
+    # except:
+    #     pass
     travel_dir(".", True)
     subprocess.run("git add -u".split())
