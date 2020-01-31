@@ -2,6 +2,7 @@
 
 - [Gitignore (GITIGNORE file)](.gitignore)
 - [Pre Commit Config (YAML file)](.pre-commit-config.yaml)
+- [404](404.html)
 - [License (LICENSE file)](LICENSE)
 - [Paper 1](Paper_1/index.html)
     - [England](Paper_1/england.html)
