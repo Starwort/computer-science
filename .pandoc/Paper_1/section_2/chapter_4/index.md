@@ -1,3 +1,3 @@
 # Chapter 4
 
-┗━ [Addressing](addressing.html)
+- [Addressing](addressing.html)

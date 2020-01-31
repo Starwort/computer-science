@@ -21,66 +21,76 @@ def pandoc(source_file: str) -> None:
     :param source_file: The filename of the source markdown file
     :type source_file: str
     """
-    return copyfile(source_file, "./.pandoc/" + source_file.lstrip("./"))
-    html = subprocess.run(
-        ["pandoc", source_file.replace('"', '\\"')], capture_output=True, text=True,
-    ).stdout
-    full_html = f"""<!DOCTYPE html>
-<html>
+    copyfile(source_file, "./.pandoc/" + source_file.lstrip("./"))
+    return
+    #     html = subprocess.run(
+    #         ["pandoc", source_file.replace('"', '\\"')], capture_output=True, text=True,
+    #     ).stdout
+    #     full_html = f"""<!DOCTYPE html>
+    # <html>
 
-<head>
-    <!-- make markdown look nicer -->
-    <!-- <style>
-        code {{
-            background-color: rgba(27, 31, 35, .05);
-            border-radius: 3px;
-            font-size: 85%;
-            margin: 0;
-            padding: .2em .4em;
-        }}
+    # <head>
+    #     <!-- make markdown look nicer -->
+    #     <!-- <style>
+    #         code {{
+    #             background-color: rgba(27, 31, 35, .05);
+    #             border-radius: 3px;
+    #             font-size: 85%;
+    #             margin: 0;
+    #             padding: .2em .4em;
+    #         }}
 
-        pre code {{
-            background-color: rgba(27, 31, 35, .05);
-            border: 0;
-            display: block;
-            line-height: inherit;
-            margin: 0;
-            max-width: auto;
-            overflow: scroll;
-            padding: 0;
-            word-wrap: normal;
-        }}
-    </style> -->
-    <link rel="stylesheet" type="text/css" href="https://starwort.github.io/computer-science/style.css">
-</head>
-<body>{html}</body>
-</html>
-"""
-    with open("./.pandoc/" + source_file[:-3] + ".html", "w") as file:
-        file.write(full_html)
+    #         pre code {{
+    #             background-color: rgba(27, 31, 35, .05);
+    #             border: 0;
+    #             display: block;
+    #             line-height: inherit;
+    #             margin: 0;
+    #             max-width: auto;
+    #             overflow: scroll;
+    #             padding: 0;
+    #             word-wrap: normal;
+    #         }}
+    #     </style> -->
+    #     <link rel="stylesheet" type="text/css" href="https://starwort.github.io/computer-science/style.css">
+    # </head>
+    # <body>{html}</body>
+    # </html>
+    # """
+    #     with open("./.pandoc/" + source_file[:-3] + ".html", "w") as file:
+    #         file.write(full_html)
 
 
 def directory_to_tree(directory: List[str]) -> str:
     """
     Take a directory as a list of filenames and return a unicode tree
 
+    --- Github pages likes inserting whitespace. Switching to a markdown solution
+
     :param directory: List of files in the directory
     :type directory: List[str]
     :return: Unicode directory tree
     :rtype: str
     """
+    # out = ""
+    # if directory:
+    #     for entry in directory[:-1]:
+    #         if "\n" in entry:
+    #             entry = indent(entry, "┃  ")[3:]
+    #         out += "┣━ " + entry + "  \n"
+    #     entry = directory[-1]
+    #     if "\n" in entry:
+    #         out += "┣━ " + indent(entry, "┃  ")[3:]
+    #     else:
+    #         out += "┗━ " + entry
+    # return out or "┗━ [Empty]"
     out = ""
     if directory:
-        for entry in directory[:-1]:
+        for entry in directory:
             if "\n" in entry:
-                entry = indent(entry, "┃  ")[3:]
-            out += "┣━ " + entry + "  \n"
-        entry = directory[-1]
-        if "\n" in entry:
-            out += "┣━ " + indent(entry, "┃  ")[3:]
-        else:
-            out += "┗━ " + entry
-    return out or "\b"
+                entry = indent(entry, "    ")[4:]
+            out += "- " + entry + "\n"
+    return out or "- [Empty]"
 
 
 def path_to_name(path: str) -> str:

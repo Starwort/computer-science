@@ -1,3 +1,3 @@
 # Chapter 3
 
-┗━ [Questions](questions.html)
+- [Questions](questions.html)
