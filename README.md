@@ -1,6 +1,6 @@
 # Computer Science
 
-## You shouldn't be using this page. Go read [this page](.pandoc/index.html) instead
+## You shouldn't be using this page. Go read [this page](https://starwort.github.io/computer-science) instead
 
 ## Paper 1 content
 
