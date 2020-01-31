@@ -16,10 +16,12 @@ def pandoc(source_file: str) -> None:
     Run pandoc on `source_file`
 
     Run pandoc on `source_file` and wrap its output with basic style
+    --- new: github pages seems to work with .md files ---
 
     :param source_file: The filename of the source markdown file
     :type source_file: str
     """
+    return copyfile(source_file, "./.pandoc/" + source_file.lstrip("./"))
     html = subprocess.run(
         ["pandoc", source_file.replace('"', '\\"')], capture_output=True, text=True,
     ).stdout
