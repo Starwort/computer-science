@@ -5,6 +5,6 @@ repos:
     hooks:
     -   id: autodoc
         name: document
-        entry: bash -c 'python3 autodocs.py; sleep 0.1; git add -u' --
+        entry: bash -c 'python3 autodocs.py; sleep 0.1' --
         language: system
         verbose: true

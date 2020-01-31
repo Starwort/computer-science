@@ -181,3 +181,4 @@ if __name__ == "__main__":
     except:
         pass
     travel_dir(".", True)
+    subprocess.run("git add -u".split())
