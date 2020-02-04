@@ -39,6 +39,7 @@
             - [Processor Architectures](Paper_1/section_1/chapter_1/processor_architectures.html)
         - [Chapter 2](Paper_1/section_1/chapter_2/index.html)
             - [Cisc And Risc](Paper_1/section_1/chapter_2/cisc_and_risc.html)
+            - [Gpus](Paper_1/section_1/chapter_2/gpus.html)
         - [Chapter 3](Paper_1/section_1/chapter_3/index.html)
             - [Questions](Paper_1/section_1/chapter_3/questions.html)
         - [Chapter 4](Paper_1/section_1/chapter_4/index.html)

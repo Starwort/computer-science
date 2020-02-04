@@ -7,6 +7,7 @@
     - [Processor Architectures](chapter_1/processor_architectures.html)
 - [Chapter 2](chapter_2/index.html)
     - [Cisc And Risc](chapter_2/cisc_and_risc.html)
+    - [Gpus](chapter_2/gpus.html)
 - [Chapter 3](chapter_3/index.html)
     - [Questions](chapter_3/questions.html)
 - [Chapter 4](chapter_4/index.html)
