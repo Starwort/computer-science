@@ -4,7 +4,7 @@ from os import listdir, mkdir
 from textwrap import indent
 from shutil import copyfile, rmtree
 from typing import List
-from tqdm import tqdm
+from tqdm import tqdm  # type: ignore
 
 transtable = str.maketrans("-_", "  ")
 with open(".gitignore") as file:
@@ -111,11 +111,14 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
     tree = directory_to_tree(index)
     with open(source_directory + "/index.md", "wb") as file:
         file.write(("# " + path_to_name(extension) + "\n\n").encode("UTF-16"))
-        file.write(
-            f"← [Back to {path_to_name(source_directory.split('/')[-1])}](./index.html)\n\n".encode(
-                "UTF-16LE"
+        try:
+            file.write(
+                "← [Back to {}](..)\n\n".format(
+                    path_to_name(source_directory.split("/")[-2])
+                ).encode("UTF-16LE")
             )
-        )
+        except IndexError:
+            pass
         file.write(tree.encode("UTF-16LE"))
     return f"[{path_to_name(extension)}](index.html)\n" + tree
 
