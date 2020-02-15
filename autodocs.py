@@ -137,7 +137,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
         if file_name.startswith("index"):
             continue
         full_file_name = source_directory + "/" + file_name
-        if file_name == ".pandoc" or file_name in ignore_files:
+        if file_name in ignore_files:
             continue
         if isdir(full_file_name):
             # if not exists("./.pandoc/" + full_file_name):
