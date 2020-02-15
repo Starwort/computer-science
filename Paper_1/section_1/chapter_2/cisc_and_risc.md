@@ -1,5 +1,7 @@
 # CISC vs RISC processors
 
+← [Back to Chapter 2](./index.html)
+
 ## Instruction Set
 
 - The machine code instructions that a particular computer can execute

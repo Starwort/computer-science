@@ -1,5 +1,7 @@
 # Graphics Processing Unit (GPU)
 
+← [Back to Chapter 2](./index.html)
+
 - All computers have basic graphics chips installed on their motherboard
   - These are fine for everyday use
 - Video games require a lot of processing power
@@ -36,7 +38,8 @@ A GPU would be better suited to rendering a change in lighting for the surroundi
   - machine learning
 
 Although installing a graphics card will lead to improvements in computer performance there are some issues that need to be considered
-  - Graphics cards can be **expensive**
-  - Graphics cards do not improve CPU performance on *all* tasks, only ones related to graphics and video
-  - Graphics cards use a lot of **power** and this might mean that the computer also needs to be fitted with a more powerful power supply. The larger power supply will add further cost.
-  - Because graphics cards use a lot of power they need a **cooling system**. Cooling fans are noisy but the cheapest option - so you may have to make your computer sound louder than it was before the graphics card was installed.
+
+- Graphics cards can be **expensive**
+- Graphics cards do not improve CPU performance on *all* tasks, only ones related to graphics and video
+- Graphics cards use a lot of **power** and this might mean that the computer also needs to be fitted with a more powerful power supply. The larger power supply will add further cost.
+- Because graphics cards use a lot of power they need a **cooling system**. Cooling fans are noisy but the cheapest option - so you may have to make your computer sound louder than it was before the graphics card was installed.

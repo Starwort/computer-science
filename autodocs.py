@@ -38,7 +38,7 @@ def directory_to_tree(directory: List[str]) -> str:
     if directory:
         for entry in directory:
             if "\n" in entry:
-                entry = indent(entry, "    ")[4:]
+                entry = indent(entry, "  ")[2:]
             out += "- " + entry + "\n"
     return out[:-1] or "- [Empty]"
 
@@ -109,9 +109,14 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
                 + ")"
             )
     tree = directory_to_tree(index)
-    with open(source_directory + "/index.md", "w") as file:
-        file.write("# " + path_to_name(extension) + "\n\n")
-        file.write(tree)
+    with open(source_directory + "/index.md", "wb") as file:
+        file.write(("# " + path_to_name(extension) + "\n\n").encode("UTF-16"))
+        file.write(
+            f"← [Back to {path_to_name(source_directory.split('/')[-1])}](./index.html)\n\n".encode(
+                "UTF-16LE"
+            )
+        )
+        file.write(tree.encode("UTF-16LE"))
     return f"[{path_to_name(extension)}](index.html)\n" + tree
 
 

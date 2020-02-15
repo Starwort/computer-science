@@ -1,5 +1,7 @@
 # CPU
 
+← [Back to Chapter 1](./index.html)
+
 ## CPU components
 
 - ALU (Arithmetic Logic Unit)

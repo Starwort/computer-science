@@ -3,7 +3,10 @@
         list-style-type: lower-roman;
     }
 </style>
+
 # Tasks
+
+← [Back to Javascript Tasks 2](./index.html)
 
 1. `<h1>Exam Entry Form</h1>` and all elements after it are displayed in the browser as they are displayed elements. Tables are being used to align the elements (how 1993); additionally, the `<title>Exam entry</title>` tag in the header tells the browser the title of the webpage ('Exam entry')
 2. The submit button calls `validateForm()` to determine whether or not the form may be submitted - if it returns `true` then the form gets submitted, else it is disallowed. `validateForm()` performs the following actions:
@@ -11,8 +14,9 @@
     - Check that `document.ExamEntry.subject` (the 'subject' input box) is not empty - and if it is, to recolour the label red and focus the input box for input
     - If either of the two checks failed, alert the user as to what went wrong - and prevent form submission; else, allow the form to be submitted
 3. When the 'Submit' button is clicked, its `onclick` attribute is evaluated to determine whether the form may be submitted; a return value of `true` (or any equivalent value due to type coercion) allows the form to be submitted while a value of `false` (oe) prevents it.
-4.
-    - ```
+4. &#x200b;
+
+    - ```SPLIWACAML
         // HTML //
         SPAN
             LABEL[ID="elabel" FOR="examNo"]
@@ -21,15 +25,18 @@
             INPUT[NAME="examNo" TYPE="number" ID="examNo"]
         END SPAN
         ```
-    - ```
+
+    - ```SPLIWACA
         // SCRIPT //
         CALL registerValidateEmpty WITH (CALL document.getElementById WITH "examNo"), document.ExamEntry.examNo, "your examination number"
         ```
-    - ```
+
+    - ```SPLIWACA
         // SCRIPT //
         CALL registerValidateLen WITH (CALL document.getElementById WITH "examNo"), document.ExamEntry.examNo, "your examination number", 4
         ```
-5. ```
+
+5. ```SPLIWACAML
     // HTML //
     SPAN
         LABEL[ID="llabel"]
@@ -66,10 +73,12 @@
         END IF
     RETURN rv
     ```
+
 6. My solutions are fit for purpose and allow for good styling. They allow for easy expansion of the webpage to incorporate more forms and checks; easy 'empty' and 'length' checks or more powerful custom hooks using user javascript
 7. JavaScript validation routines are very effective at reducing the number of errors that are made in data input, as they entirely prevent the submission of data without all data being valid
 
 Webpage:
+
 <script>
     var validateEmptyElems = [];
     var validateLenElems = [];
