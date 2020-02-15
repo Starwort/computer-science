@@ -120,6 +120,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
         except IndexError:
             pass
         file.write(tree.encode("UTF-16LE"))
+        file.write(b"\n")
     return f"[{path_to_name(extension)}](index.html)\n" + tree
 
 
