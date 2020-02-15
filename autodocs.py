@@ -6,7 +6,7 @@ from shutil import copyfile, rmtree
 from typing import List
 from tqdm import tqdm
 
-transtable = str.maketrans("-_.", "   ")
+transtable = str.maketrans("-_", "  ")
 with open(".gitignore") as file:
     ignore_files = [i.strip("/\n") for i in file.readlines() if not i.startswith("#")]
 
