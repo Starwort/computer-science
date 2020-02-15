@@ -11,56 +11,6 @@ with open(".gitignore") as file:
     ignore_files = [i.strip("/\n") for i in file.readlines() if not i.startswith("#")]
 
 
-def pandoc(source_file: str) -> None:
-    """
-    Run pandoc on `source_file`
-
-    Run pandoc on `source_file` and wrap its output with basic style
-    --- new: github pages seems to work with .md files ---
-
-    :param source_file: The filename of the source markdown file
-    :type source_file: str
-    """
-    # copyfile(source_file, "./.pandoc/" + source_file.lstrip("./"))
-    return
-    #     html = subprocess.run(
-    #         ["pandoc", source_file.replace('"', '\\"')], capture_output=True, text=True,
-    #     ).stdout
-    #     full_html = f"""<!DOCTYPE html>
-    # <html>
-
-    # <head>
-    #     <!-- make markdown look nicer -->
-    #     <!-- <style>
-    #         code {{
-    #             background-color: rgba(27, 31, 35, .05);
-    #             border-radius: 3px;
-    #             font-size: 85%;
-    #             margin: 0;
-    #             padding: .2em .4em;
-    #         }}
-
-    #         pre code {{
-    #             background-color: rgba(27, 31, 35, .05);
-    #             border: 0;
-    #             display: block;
-    #             line-height: inherit;
-    #             margin: 0;
-    #             max-width: auto;
-    #             overflow: scroll;
-    #             padding: 0;
-    #             word-wrap: normal;
-    #         }}
-    #     </style> -->
-    #     <link rel="stylesheet" type="text/css" href="https://starwort.github.io/computer-science/style.css">
-    # </head>
-    # <body>{html}</body>
-    # </html>
-    # """
-    #     with open("./.pandoc/" + source_file[:-3] + ".html", "w") as file:
-    #         file.write(full_html)
-
-
 def directory_to_tree(directory: List[str]) -> str:
     """
     Take a directory as a list of filenames and return a unicode tree
@@ -140,20 +90,15 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
         if file_name in ignore_files:
             continue
         if isdir(full_file_name):
-            # if not exists("./.pandoc/" + full_file_name):
-            #     mkdir("./.pandoc/" + full_file_name)
             dir_index = travel_dir(full_file_name)
             index.append(dir_index.replace("](", "](" + file_name + "/"))
         elif file_name.endswith(".md"):
-            pandoc(full_file_name)
             index.append(
                 "[" + path_to_name(file_name) + "](" + file_name[:-3] + ".html)"
             )
         elif file_name.endswith(".html"):
-            # copyfile(full_file_name, "./.pandoc/" + full_file_name)
             index.append("[" + path_to_name(file_name) + "](" + file_name + ")")
         else:
-            # copyfile(full_file_name, "./.pandoc/" + full_file_name)
             index.append(
                 "["
                 + path_to_name(file_name)
@@ -167,18 +112,9 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
     with open(source_directory + "/index.md", "w") as file:
         file.write("# " + path_to_name(extension) + "\n\n")
         file.write(tree)
-    pandoc(source_directory + "/index.md")
     return f"[{path_to_name(extension)}](index.html)\n" + tree
 
 
 if __name__ == "__main__":
-    try:
-        rmtree("./.pandoc")
-    except:
-        pass
-    # try:
-    #     mkdir("./.pandoc")
-    # except:
-    #     pass
     travel_dir(".", True)
     subprocess.run("git add -u".split())
