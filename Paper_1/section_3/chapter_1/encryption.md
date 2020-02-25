@@ -1,5 +1,7 @@
 # Encryption
 
+← [Back to Chapter 1](./index.html)
+
 ## What it is
 
 - The transformation of data from one form to another to prevent an unauthorised third part from being able to understand it.
