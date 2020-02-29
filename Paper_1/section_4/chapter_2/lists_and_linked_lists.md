@@ -77,3 +77,57 @@
    ```
 
 ## Exercises
+
+- &#x200b;
+  - ListLength | NewItem | p | q | List[1] | List[2] | List[3] | List[4] | List[5]
+      :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+      4 | 25 | - | - | 18 | 21 | 42 | 53 | -
+      4 | 25 | 1 | - | 18 | 21 | 42 | 53 | -
+      4 | 25 | 2 | - | 18 | 21 | 42 | 53 | -
+      4 | 25 | 3 | - | 18 | 21 | 42 | 53 | -
+      4 | 25 | 3 | 4 | 18 | 21 | 42 | 53 | -
+      4 | 25 | 3 | 4 | 18 | 21 | 42 | 53 | 53
+      4 | 25 | 3 | 3 | 18 | 21 | 42 | 53 | 53
+      4 | 25 | 3 | 3 | 18 | 21 | 42 | 42 | 53
+      4 | 25 | 3 | 3 | 18 | 21 | 25 | 42 | 53
+      5 | 25 | 3 | 3 | 18 | 21 | 25 | 42 | 53
+  - To insert an item such that the list is sorted
+  - A static data structure has a finite size that does not change after its declaration (or in compiled languages, after compile time) whereas a dynamic data structure has variable size - that can be changed at any time
+- &#x200b;
+  - Index |          Name | Pointer
+      --: | :------------ | ------:
+      `0` |     `'Robin'` |     `1`
+      `1` |   `'Sparrow'` |  `None`
+      `2` | `'Blackbird'` |     `0`
+    Start index: `2`  
+    Next free: `3`
+  - Index |          Name | Pointer
+    ----: | :------------ | ------:
+      `0` |     `'Robin'` |     `1`
+      `1` |   `'Sparrow'` |  `None`
+      `2` | `'Blackbird'` |     `3`
+      `3` | `'Chaffinch'` |     `4`
+      `4` | `'Goldfinch'` |     `0`
+    Start index: `2`  
+    Next free: `5`
+
+  - ```py
+    linked_list = [
+      ['Robin', 1],
+      ['Sparrow', None],
+      ['Blackbird', 3],
+      ['Chaffinch', 4],
+      ['Goldfinch', 0],
+    ]
+    start = 2
+    next_free = 5
+    ```
+
+  - ```SPLIWACA
+    SET index TO start
+    WHILE ! (index ≡ NULL) DO
+        SET bird TO linked_list[index][0]
+        OUTPUT $bird
+        SET index TO linked_list[index][1]
+    END WHILE
+    ```
