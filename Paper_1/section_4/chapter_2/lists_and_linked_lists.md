@@ -99,6 +99,7 @@
       `0` |     `'Robin'` |     `1`
       `1` |   `'Sparrow'` |  `None`
       `2` | `'Blackbird'` |     `0`
+
     Start index: `2`  
     Next free: `3`
   - Index |          Name | Pointer
@@ -108,6 +109,7 @@
       `2` | `'Blackbird'` |     `3`
       `3` | `'Chaffinch'` |     `4`
       `4` | `'Goldfinch'` |     `0`
+
     Start index: `2`  
     Next free: `5`
 
