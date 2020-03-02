@@ -61,6 +61,7 @@
       - [Data Structures](Paper_1/section_4/chapter_2/data_structures.html)
       - [Lists And Linked Lists](Paper_1/section_4/chapter_2/lists_and_linked_lists.html)
       - [Queues](Paper_1/section_4/chapter_2/queues.html)
+      - [Stacks](Paper_1/section_4/chapter_2/stacks.html)
     - [Chapter 3](Paper_1/section_4/chapter_3/index.html)
       - [Gates (PNG file)](Paper_1/section_4/chapter_3/gates.png)
       - [Logic Gates](Paper_1/section_4/chapter_3/logic_gates.html)
