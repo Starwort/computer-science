@@ -52,18 +52,20 @@
     `q.dequeue()` | `['Red', 'Green']` | `Blue`
     `q.enqueue('Yellow')` | `['Red', 'Green', 'Yellow']` | `None`
 
+    [√]
+
 2. For implementation style 1:
     1. The queue now contains `['Bob', 'Adam', 'Jack']`. There are three names in the queue. There are 3 free spaces.
-    2. The queue now contains `['Jason' (stale), 'Milly' (stale), 'Bob', 'Adam', 'Jack']`. There are five names in the queue, two of which are stale (dequeued items that have not yet been overwritten). There is one free space.
+    2. The queue now contains `['Jason' (stale), 'Milly' (stale), 'Bob', 'Adam', 'Jack']`. There are five names in the queue, two of which are stale (dequeued items that have not yet been overwritten). There is one free space. [√]
 3. &#x200b;
     - `[None, None, None, None, None, None]`  
     front: 0  
     rear: -1
     - `['Greg', 'Ben' (stale), 'Charlie' (stale), 'Davina', 'Enid', 'Fred']`  
     front: 3  
-    rear: 0
+    rear: 0 [√]
 
-4. A circular queue is an example of abstraction as it prevents the user from worrying about storing their queue in memory - the queue takes up a static size and can be treated as magic storage for the purposes of the user
+4. A circular queue is an example of abstraction as it prevents the user from worrying about storing their queue in memory - the queue takes up a static size and can be treated as magic storage for the purposes of the user [√]
 5. An item joins a priority queue at the front if (and only if) it is higher priority than all other items in the queue. It joins at the rear if (and only if) it is lower priority than all other items in the queue
 
 ## Exercises

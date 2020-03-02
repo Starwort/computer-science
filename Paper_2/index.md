@@ -62,6 +62,7 @@
     - [Clang Format (CLANG-FORMAT file)](section_2/chapter_1/.clang-format)
     - [Main And Function (MAIN_AND_FUNCTION file)](section_2/chapter_1/main_and_function)
     - [Main And Function (C file)](section_2/chapter_1/main_and_function.c)
+    - [Main And Function (OCRPSC file)](section_2/chapter_1/main_and_function.ocrpsc)
     - [Main And Function (SPLW file)](section_2/chapter_1/main_and_function.splw)
 - [Shuffle Sort (PY file)](shuffle_sort.py)
 - [Student List (TXT file)](student list.txt)

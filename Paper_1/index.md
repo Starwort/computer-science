@@ -56,6 +56,7 @@
     - [Primitive Data Types](section_4/chapter_1/primitive_data_types.html)
   - [Chapter 2](section_4/chapter_2/index.html)
     - [Data Structures](section_4/chapter_2/data_structures.html)
+    - [Definitions](section_4/chapter_2/definitions.html)
     - [Lists And Linked Lists](section_4/chapter_2/lists_and_linked_lists.html)
     - [Queues](section_4/chapter_2/queues.html)
     - [Stacks](section_4/chapter_2/stacks.html)

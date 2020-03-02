@@ -56,8 +56,8 @@ for count in range(8):
     print(bird_name[count], bird_count[count])
 ```
 
-1. 10
-2. `print("Staff name: ", staff[s])`
+1. 10 [√]
+2. `print("Staff name: ", staff[s])` [√]
 
 Example 2
 
@@ -80,7 +80,7 @@ for s in range(3):
 ## Exercises
 
 - &#x200b;
-  - It does not halt when it has found the bird.
+  - It does not halt when it has found the bird. [√]
 
   - ```py
       count = 0
@@ -91,12 +91,16 @@ for s in range(3):
               bird_count[count] += birds_observed
     ```
 
+    [√]
+
 - ```py
-    mean = sum(weight) / len(weight)
-    print(mean)
-    underweight = [baby for baby in weight if baby < mean - 500]
-    print(len(underweight), sum(underweight) / len(underweight))
-    ```
+  mean = sum(weight) / len(weight)
+  print(mean)
+  underweight = [baby for baby in weight if baby < mean - 500]
+  print(len(underweight), sum(underweight) / len(underweight))
+  ```
+
+  [√]
 
 - |  &#x200b; | Test 1 | Test 2 | Test 3 |
   | --------: | -----: | -----: | -----: |
@@ -105,6 +109,8 @@ for s in range(3):
   | Student 3 |      7 |      5 |      7 |
   | Student 4 |     10 |      7 |      2 |
   | Student 5 |      9 |      8 |      0 |
+
+  [√]
 
   ```py
   total = 0
@@ -125,6 +131,8 @@ for s in range(3):
   print("Class average:", total / ctr)
   ```
 
+  [√]
+
 - Finds and outputs the location of the treasure
 
   ```py
@@ -137,3 +145,5 @@ for s in range(3):
   ycoord = random.randint(0, 9)
   grid[y][x] = 1
   ```
+
+  [√]
