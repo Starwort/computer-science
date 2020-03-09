@@ -64,6 +64,7 @@
     - [Main And Function (C file)](section_2/chapter_1/main_and_function.c)
     - [Main And Function (OCRPSC file)](section_2/chapter_1/main_and_function.ocrpsc)
     - [Main And Function (SPLW file)](section_2/chapter_1/main_and_function.splw)
+    - [Programming Techniques](section_2/chapter_1/programming_techniques.html)
 - [Shuffle Sort (PY file)](shuffle_sort.py)
 - [Student List (TXT file)](student list.txt)
 - [Tk Arranger (PY file)](tk_arranger.py)

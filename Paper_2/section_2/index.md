@@ -8,3 +8,4 @@
   - [Main And Function (C file)](chapter_1/main_and_function.c)
   - [Main And Function (OCRPSC file)](chapter_1/main_and_function.ocrpsc)
   - [Main And Function (SPLW file)](chapter_1/main_and_function.splw)
+  - [Programming Techniques](chapter_1/programming_techniques.html)
