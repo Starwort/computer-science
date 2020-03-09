@@ -54,3 +54,31 @@
   - Subroutines can be tested and documented separately and held in a subroutine library, maintaining the program should not require subroutines to be changed
 - Using **global** variables can cause confusion and is considered quite bad programming practice
   - Global variables **will change the data throughout the program**, not just within the subprogram
+
+## Parameter Passing
+
+- Functions and procedures can accept values
+  - There are several ways to pass the parameters to the subroutines
+    - We have seen **by value** so far
+    - Another way is **by reference**
+
+### By value
+
+- In some cases it's not intended for a function to change a variable in the main program
+- An example could be an array holding student names and test marks. The array may be in alphabetical order but you want to output them in mark order
+  - In his case you can call a subprogram and pass the data as a parameter **by value**
+  - The subprogram will sort and output the data
+  - The subprogram is working on a **copy** of the original data
+  - Any **changes** to the data **are lost** when the function returns
+
+### By reference
+
+- In some cases the intention is to have a subprogram change the value of the variable(s)
+  - An example could be a running total for a bill
+  - This may be updated by various functions and the up-to-date value is always required in the main program, no matter what subprogram is accessing it
+- This is similar to global variables but less dangerous
+- The parameter could be passed **by reference**
+  - This would mean that the function is being pointed to the actual **memory address** where the data is **stored**
+    - Similar to address modes - if it is value or memory location
+- The subprogram works directly with the original data and if it changes it, it stays changed.
+- This is the way that Python handles parameters
