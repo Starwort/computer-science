@@ -49,3 +49,8 @@
   - In some cases a subroutine may use a local variable that is the same name as a global variable. In this case the local variable within the subroutine takes precedence
 - Using **local** variables makes a subroutine sel-contained and hides the details of how it works from a programmer using the subroutine
 - Subroutines are **independent** of the calling program and changes to the main program will not affect the subroutines
+- It is easier to maintain because the subroutine can be **tested** separately
+  - Once it is working correctly then only the calling program needs to be tested if any changes are made.
+  - Subroutines can be tested and documented separately and held in a subroutine library, maintaining the program should not require subroutines to be changed
+- Using **global** variables can cause confusion and is considered quite bad programming practice
+  - Global variables **will change the data throughout the program**, not just within the subprogram
