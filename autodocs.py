@@ -117,7 +117,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
                 + path_to_name(file_name)
                 + "]("
                 + file_name[:-3]
-                + '.html){:height="11px" width="11px"}'
+                + ".html)"
             )
         elif file_name.endswith(".html"):
             index.append(
@@ -127,7 +127,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
                 + path_to_name(file_name)
                 + "]("
                 + file_name
-                + '){:height="11px" width="11px"}'
+                + ")"
             )
         else:
             index.append(
@@ -137,7 +137,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
                 + path_to_name(file_name)
                 + "]("
                 + file_name
-                + '){:height="11px" width="11px"}'
+                + ")"
             )
     tree = directory_to_tree(index)
     with open(source_directory + "/index.md", "wb") as file:

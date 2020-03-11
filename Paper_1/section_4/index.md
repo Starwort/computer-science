@@ -3,14 +3,14 @@
 ← [Back to Paper 1](..)
 
 - [Chapter 1](chapter_1/index.html)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Character Sets](chapter_1/character_sets.html){:height="11px" width="11px"}
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Primitive Data Types](chapter_1/primitive_data_types.html){:height="11px" width="11px"}
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png){:height="1em"} Character Sets](chapter_1/character_sets.html)
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png){:height="1em"} Primitive Data Types](chapter_1/primitive_data_types.html)
 - [Chapter 2](chapter_2/index.html)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Data Structures](chapter_2/data_structures.html){:height="11px" width="11px"}
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Definitions](chapter_2/definitions.html){:height="11px" width="11px"}
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Lists And Linked Lists](chapter_2/lists_and_linked_lists.html){:height="11px" width="11px"}
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Queues](chapter_2/queues.html){:height="11px" width="11px"}
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Stacks](chapter_2/stacks.html){:height="11px" width="11px"}
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png){:height="1em"} Data Structures](chapter_2/data_structures.html)
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png){:height="1em"} Definitions](chapter_2/definitions.html)
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png){:height="1em"} Lists And Linked Lists](chapter_2/lists_and_linked_lists.html)
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png){:height="1em"} Queues](chapter_2/queues.html)
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png){:height="1em"} Stacks](chapter_2/stacks.html)
 - [Chapter 3](chapter_3/index.html)
-  - [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png) Gates](chapter_3/gates.png){:height="11px" width="11px"}
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Logic Gates](chapter_3/logic_gates.html){:height="11px" width="11px"}
+  - [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png){:height="1em"} Gates](chapter_3/gates.png)
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png){:height="1em"} Logic Gates](chapter_3/logic_gates.html)
