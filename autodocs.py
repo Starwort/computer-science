@@ -13,7 +13,7 @@ transtable = str.maketrans("-_", "  ")
 with open(".gitignore") as file:
     ignore_files = [i.strip("/\n") for i in file.readlines() if not i.startswith("#")]
 
-AUTODOCS_VERSION = "1.0.1-11px"
+AUTODOCS_VERSION = "1.0.1-18px"
 
 
 def directory_to_tree(directory: List[str]) -> str:
