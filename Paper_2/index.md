@@ -59,17 +59,17 @@
 - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Fix Line Endings](fix_line_endings.py){:height="11px"}
 - [Section 2](section_2/index.html)
   - [Chapter 1](section_2/chapter_1/index.html)
-    - [![CLANG-FORMAT file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/file-configuration.png) Clang Format](section_2/chapter_1/.clang-format){:height="11px"}
-    - [![ file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/binary-file.png) Main And Function](section_2/chapter_1/main_and_function){:height="11px"}
-    - [![C file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/c.png) Main And Function](section_2/chapter_1/main_and_function.c){:height="11px"}
-    - [![OCRPSC file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/code-file.png) Main And Function](section_2/chapter_1/main_and_function.ocrpsc){:height="11px"}
-    - [![SPLW file](section_2/chapter_1/https://starwort.github.io/computer-science/icon-splw.png) Main And Function](section_2/chapter_1/main_and_function.splw){:height="11px"}
-    - [![MD file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/regular-document.png) Programming Techniques](section_2/chapter_1/programming_techniques.html){:height="11px"}
-    - [![C file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/c.png) Sub Programs](section_2/chapter_1/sub_programs.c){:height="11px"}
-    - [![MD file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/regular-document.png) Sub Programs](section_2/chapter_1/sub_programs.html){:height="11px"}
+    - [![CLANG-FORMAT file](https://img.icons8.com/windows/512/4a90e2/file-configuration.png) Clang Format](section_2/chapter_1/.clang-format){:height="11px"}
+    - [![ file](https://img.icons8.com/windows/512/4a90e2/binary-file.png) Main And Function](section_2/chapter_1/main_and_function){:height="11px"}
+    - [![C file](https://img.icons8.com/windows/512/4a90e2/c.png) Main And Function](section_2/chapter_1/main_and_function.c){:height="11px"}
+    - [![OCRPSC file](https://img.icons8.com/windows/512/4a90e2/code-file.png) Main And Function](section_2/chapter_1/main_and_function.ocrpsc){:height="11px"}
+    - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Main And Function](section_2/chapter_1/main_and_function.splw){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Programming Techniques](section_2/chapter_1/programming_techniques.html){:height="11px"}
+    - [![C file](https://img.icons8.com/windows/512/4a90e2/c.png) Sub Programs](section_2/chapter_1/sub_programs.c){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Sub Programs](section_2/chapter_1/sub_programs.html){:height="11px"}
   - [Classes Rename Later](section_2/classes_RENAME_LATER/index.html)
-    - [![PY file](section_2/classes_RENAME_LATER/https://img.icons8.com/windows/512/4a90e2/py.png) Shape](section_2/classes_RENAME_LATER/shape.py){:height="11px"}
-    - [![SPLW file](section_2/classes_RENAME_LATER/https://starwort.github.io/computer-science/icon-splw.png) Shape](section_2/classes_RENAME_LATER/shape.splw){:height="11px"}
+    - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Shape](section_2/classes_RENAME_LATER/shape.py){:height="11px"}
+    - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Shape](section_2/classes_RENAME_LATER/shape.splw){:height="11px"}
 - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Shuffle Sort](shuffle_sort.py){:height="11px"}
 - [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) Student List](student list.txt){:height="11px"}
 - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Tk Arranger](tk_arranger.py){:height="11px"}

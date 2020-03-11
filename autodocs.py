@@ -104,7 +104,11 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
                 file_name_parts.append("")
         if isdir(full_file_name):
             dir_index = travel_dir(full_file_name)
-            index.append(dir_index.replace("](", "](" + file_name + "/"))
+            index.append(
+                dir_index.replace("](", "](" + file_name + "/").replace(
+                    file_name + "/https:", "https:"
+                )
+            )
         elif file_name.endswith(".md"):
             index.append(
                 "["
