@@ -2,67 +2,67 @@
 
 ← [Back to Computer Science](..)
 
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) England](england.html){:height="11px"}
+- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) England](england.html){:height="11px" width="11px"}
 - [Exam Questions](exam_questions/index.html)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 2020 01 28](exam_questions/2020_01_28.html){:height="11px"}
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 2020 02 06](exam_questions/2020_02_06.html){:height="11px"}
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 2020 03 03](exam_questions/2020_03_03.html){:height="11px"}
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Html For Miss Brown](html_for_miss_brown.html){:height="11px"}
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Javascript Tasks](javascript_tasks.html){:height="11px"}
-- [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png) Javascript Tasks](javascript_tasks.png){:height="11px"}
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 2020 01 28](exam_questions/2020_01_28.html){:height="11px" width="11px"}
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 2020 02 06](exam_questions/2020_02_06.html){:height="11px" width="11px"}
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 2020 03 03](exam_questions/2020_03_03.html){:height="11px" width="11px"}
+- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Html For Miss Brown](html_for_miss_brown.html){:height="11px" width="11px"}
+- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Javascript Tasks](javascript_tasks.html){:height="11px" width="11px"}
+- [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png) Javascript Tasks](javascript_tasks.png){:height="11px" width="11px"}
 - [Javascript Tasks 2](javascript_tasks_2/index.html)
-  - [![JS file](https://img.icons8.com/windows/512/4a90e2/js.png) Html](javascript_tasks_2/html.js){:height="11px"}
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Javascript](javascript_tasks_2/javascript.html){:height="11px"}
-  - [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Markdown](javascript_tasks_2/markdown.html){:height="11px"}
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Success](javascript_tasks_2/success.html){:height="11px"}
-- [![JS file](https://img.icons8.com/windows/512/4a90e2/js.png) Js2](js2.js){:height="11px"}
+  - [![JS file](https://img.icons8.com/windows/512/4a90e2/js.png) Html](javascript_tasks_2/html.js){:height="11px" width="11px"}
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Javascript](javascript_tasks_2/javascript.html){:height="11px" width="11px"}
+  - [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Markdown](javascript_tasks_2/markdown.html){:height="11px" width="11px"}
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Success](javascript_tasks_2/success.html){:height="11px" width="11px"}
+- [![JS file](https://img.icons8.com/windows/512/4a90e2/js.png) Js2](js2.js){:height="11px" width="11px"}
 - [Lmc](lmc/index.html)
-  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Advanced Tasks](lmc/advanced_tasks.lmc){:height="11px"}
-  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Beginner Tasks](lmc/beginner_tasks.lmc){:height="11px"}
-  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Difference](lmc/difference.lmc){:height="11px"}
-  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Equality](lmc/equality.lmc){:height="11px"}
-  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Inputting And Storing Numbers](lmc/inputting_and_storing_numbers.lmc){:height="11px"}
-  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Medium Tasks](lmc/medium_tasks.lmc){:height="11px"}
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Miss Browns Page](miss_browns_page.html){:height="11px"}
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Northernireland](northernIreland.html){:height="11px"}
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Oxford](oxford.html){:height="11px"}
-- [![CSS file](https://img.icons8.com/windows/512/4a90e2/css.png) Oxford Style](oxford_style.css){:height="11px"}
-- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) Page135Questions](page135questions.txt){:height="11px"}
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Scotland](scotland.html){:height="11px"}
+  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Advanced Tasks](lmc/advanced_tasks.lmc){:height="11px" width="11px"}
+  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Beginner Tasks](lmc/beginner_tasks.lmc){:height="11px" width="11px"}
+  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Difference](lmc/difference.lmc){:height="11px" width="11px"}
+  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Equality](lmc/equality.lmc){:height="11px" width="11px"}
+  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Inputting And Storing Numbers](lmc/inputting_and_storing_numbers.lmc){:height="11px" width="11px"}
+  - [![LMC file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Medium Tasks](lmc/medium_tasks.lmc){:height="11px" width="11px"}
+- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Miss Browns Page](miss_browns_page.html){:height="11px" width="11px"}
+- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Northernireland](northernIreland.html){:height="11px" width="11px"}
+- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Oxford](oxford.html){:height="11px" width="11px"}
+- [![CSS file](https://img.icons8.com/windows/512/4a90e2/css.png) Oxford Style](oxford_style.css){:height="11px" width="11px"}
+- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) Page135Questions](page135questions.txt){:height="11px" width="11px"}
+- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Scotland](scotland.html){:height="11px" width="11px"}
 - [Section 1](section_1/index.html)
   - [Chapter 1](section_1/chapter_1/index.html)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Cpu Notes](section_1/chapter_1/cpu_notes.html){:height="11px"}
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Pipelining](section_1/chapter_1/pipelining.html){:height="11px"}
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Processor Architectures](section_1/chapter_1/processor_architectures.html){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Cpu Notes](section_1/chapter_1/cpu_notes.html){:height="11px" width="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Pipelining](section_1/chapter_1/pipelining.html){:height="11px" width="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Processor Architectures](section_1/chapter_1/processor_architectures.html){:height="11px" width="11px"}
   - [Chapter 2](section_1/chapter_2/index.html)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Cisc And Risc](section_1/chapter_2/cisc_and_risc.html){:height="11px"}
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Gpus](section_1/chapter_2/gpus.html){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Cisc And Risc](section_1/chapter_2/cisc_and_risc.html){:height="11px" width="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Gpus](section_1/chapter_2/gpus.html){:height="11px" width="11px"}
   - [Chapter 3](section_1/chapter_3/index.html)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Questions](section_1/chapter_3/questions.html){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Questions](section_1/chapter_3/questions.html){:height="11px" width="11px"}
   - [Chapter 4](section_1/chapter_4/index.html)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Questions](section_1/chapter_4/questions.html){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Questions](section_1/chapter_4/questions.html){:height="11px" width="11px"}
   - [Chapter 5](section_1/chapter_5/index.html)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Questions](section_1/chapter_5/questions.html){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Questions](section_1/chapter_5/questions.html){:height="11px" width="11px"}
 - [Section 2](section_2/index.html)
   - [Chapter 1](section_2/chapter_1/index.html)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Operating Systems](section_2/chapter_1/operating_systems.html){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Operating Systems](section_2/chapter_1/operating_systems.html){:height="11px" width="11px"}
   - [Chapter 4](section_2/chapter_4/index.html)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Addressing](section_2/chapter_4/addressing.html){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Addressing](section_2/chapter_4/addressing.html){:height="11px" width="11px"}
 - [Section 3](section_3/index.html)
   - [Chapter 1](section_3/chapter_1/index.html)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Encryption](section_3/chapter_1/encryption.html){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Encryption](section_3/chapter_1/encryption.html){:height="11px" width="11px"}
 - [Section 4](section_4/index.html)
   - [Chapter 1](section_4/chapter_1/index.html)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Character Sets](section_4/chapter_1/character_sets.html){:height="11px"}
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Primitive Data Types](section_4/chapter_1/primitive_data_types.html){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Character Sets](section_4/chapter_1/character_sets.html){:height="11px" width="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Primitive Data Types](section_4/chapter_1/primitive_data_types.html){:height="11px" width="11px"}
   - [Chapter 2](section_4/chapter_2/index.html)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Data Structures](section_4/chapter_2/data_structures.html){:height="11px"}
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Definitions](section_4/chapter_2/definitions.html){:height="11px"}
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Lists And Linked Lists](section_4/chapter_2/lists_and_linked_lists.html){:height="11px"}
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Queues](section_4/chapter_2/queues.html){:height="11px"}
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Stacks](section_4/chapter_2/stacks.html){:height="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Data Structures](section_4/chapter_2/data_structures.html){:height="11px" width="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Definitions](section_4/chapter_2/definitions.html){:height="11px" width="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Lists And Linked Lists](section_4/chapter_2/lists_and_linked_lists.html){:height="11px" width="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Queues](section_4/chapter_2/queues.html){:height="11px" width="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Stacks](section_4/chapter_2/stacks.html){:height="11px" width="11px"}
   - [Chapter 3](section_4/chapter_3/index.html)
-    - [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png) Gates](section_4/chapter_3/gates.png){:height="11px"}
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Logic Gates](section_4/chapter_3/logic_gates.html){:height="11px"}
-- [![CSS file](https://img.icons8.com/windows/512/4a90e2/css.png) Style](style.css){:height="11px"}
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Wales](wales.html){:height="11px"}
+    - [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png) Gates](section_4/chapter_3/gates.png){:height="11px" width="11px"}
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Logic Gates](section_4/chapter_3/logic_gates.html){:height="11px" width="11px"}
+- [![CSS file](https://img.icons8.com/windows/512/4a90e2/css.png) Style](style.css){:height="11px" width="11px"}
+- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Wales](wales.html){:height="11px" width="11px"}
