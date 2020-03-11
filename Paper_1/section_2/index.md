@@ -3,6 +3,6 @@
 ← [Back to Paper 1](..)
 
 - [Chapter 1](chapter_1/index.html)
-  - [Operating Systems](chapter_1/operating_systems.html)
+  - [![MD file](chapter_1/https://img.icons8.com/windows/512/4a90e2/regular-document.png) Operating Systems](chapter_1/operating_systems.html){:height="1em"}
 - [Chapter 4](chapter_4/index.html)
-  - [Addressing](chapter_4/addressing.html)
+  - [![MD file](chapter_4/https://img.icons8.com/windows/512/4a90e2/regular-document.png) Addressing](chapter_4/addressing.html){:height="1em"}

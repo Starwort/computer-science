@@ -2,5 +2,5 @@
 
 ← [Back to Section 4](..)
 
-- [Gates (PNG file)](gates.png)
-- [Logic Gates](logic_gates.html)
+- [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png) Gates](gates.png){:height="1em"}
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Logic Gates](logic_gates.html){:height="1em"}

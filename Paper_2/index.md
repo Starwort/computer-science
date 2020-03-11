@@ -2,74 +2,74 @@
 
 ← [Back to Computer Science](..)
 
-- [Caching (DLL file)](Caching.dll)
-- [Bondm51122Cython (C file)](bondm51122cython.c)
-- [Bondm51122Cython (PY file)](bondm51122cython.py)
-- [Bubble (CS file)](bubble.cs)
-- [Bubble (EXE file)](bubble.exe)
-- [Build (SH file)](build.sh)
-- [Algorithms (SPLW file)](colliert_algorithms.splw)
-- [Bond1 4.1.2 1 (SPLW file)](colliert_bond1-4.1.2-1.splw)
-- [Bond1 4.1.2 2 (SPLW file)](colliert_bond1-4.1.2-2.splw)
-- [Bond1 4.1.2 3 (SPLW file)](colliert_bond1-4.1.2-3.splw)
-- [Bond1 4.1.2 4 (SPLW file)](colliert_bond1-4.1.2-4.splw)
-- [Bond1 4.1.2 5 (SPLW file)](colliert_bond1-4.1.2-5.splw)
-- [Bondm5.1.1 1 (PY file)](colliert_bondm5.1.1-1.py)
-- [Bondm5.1.1 1 V2 (PY file)](colliert_bondm5.1.1-1_v2.py)
-- [Bondm5.1.1 2 (PY file)](colliert_bondm5.1.1-2.py)
-- [Bondm5.1.1 2 (SPLW file)](colliert_bondm5.1.1-2.splw)
-- [Bondm5.1.1 2 V2 (PY file)](colliert_bondm5.1.1-2_v2.py)
-- [Bondm5.1.3 1 (PY file)](colliert_bondm5.1.3-1.py)
-- [Bondm5.1.5 1 (PY file)](colliert_bondm5.1.5-1.py)
-- [Bondm5.1.5 2 (PY file)](colliert_bondm5.1.5-2.py)
-- [Bubble Questions (TXT file)](colliert_bubble_questions.txt)
-- [Christmas Homework](colliert_christmas_homework.html)
-- [Christmas Homework](colliert_christmas_homework.html)
-- [Christmas Hw Questions](colliert_christmas_hw_questions.html)
-- [Christmas Hw Questions Pandoc Out](colliert_christmas_hw_questions_pandoc_out.html)
-- [Cipher (PY file)](colliert_cipher.py)
-- [Cipher (SPLW file)](colliert_cipher.splw)
-- [Data1 (TXT file)](colliert_data1.txt)
-- [Data2 1 (PY file)](colliert_data2-1.py)
-- [Data2 2 (PY file)](colliert_data2-2.py)
-- [Data2 3 (PY file)](colliert_data2-3.py)
-- [Dicts (PY file)](colliert_dicts.py)
-- [Fixed Point (PY file)](colliert_fixed-point.py)
-- [Fixed Point Minified (PY file)](colliert_fixed-point_minified.py)
-- [Floats (PY file)](colliert_floats.py)
-- [Floats (SPLW file)](colliert_floats.splw)
-- [Floats Better (PY file)](colliert_floats_better.py)
-- [Mappings (SPLW file)](colliert_mappings.splw)
-- [Merge Question 3 (PNG file)](colliert_merge_question_3.png)
-- [Merge Question 3 (TXT file)](colliert_merge_question_3.txt)
-- [Merge Questions (TXT file)](colliert_merge_questions.txt)
-- [Multiply Divide Up To 16 Crlf (SPLW file)](colliert_multiply_divide_up_to_16-crlf.splw)
-- [Multiply Divide Up To 16 (PY file)](colliert_multiply_divide_up_to_16.py)
-- [Multiply Divide Up To 16 (SPLW file)](colliert_multiply_divide_up_to_16.splw)
-- [Partition Exchange Sort (PY file)](colliert_partition_exchange_sort.py)
-- [Quick Sort (SPLW file)](colliert_quick_sort.splw)
-- [Sorts (PY file)](colliert_sorts.py)
-- [Sorts (SPLW file)](colliert_sorts.splw)
-- [Fibonacci (CS file)](fibonacci.cs)
-- [Fibonacci (EXE file)](fibonacci.exe)
-- [Fibonacci (PY file)](fibonacci.py)
-- [Fibonacci (SPLW file)](fibonacci.splw)
-- [Fibonacci No Cache (CS file)](fibonacci_no_cache.cs)
-- [Fibonacci No Cache (EXE file)](fibonacci_no_cache.exe)
-- [Fix Line Endings (PY file)](fix_line_endings.py)
+- [![DLL file](https://img.icons8.com/windows/512/4a90e2/dll.png) Caching](Caching.dll){:height="1em"}
+- [![C file](https://img.icons8.com/windows/512/4a90e2/c.png) Bondm51122Cython](bondm51122cython.c){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Bondm51122Cython](bondm51122cython.py){:height="1em"}
+- [![CS file](https://img.icons8.com/windows/512/4a90e2/cs.png) Bubble](bubble.cs){:height="1em"}
+- [![EXE file](https://img.icons8.com/windows/512/4a90e2/exe.png) Bubble](bubble.exe){:height="1em"}
+- [![SH file](https://img.icons8.com/windows/512/4a90e2/important-file.png) Build](build.sh){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Algorithms](colliert_algorithms.splw){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Bond1 4.1.2 1](colliert_bond1-4.1.2-1.splw){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Bond1 4.1.2 2](colliert_bond1-4.1.2-2.splw){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Bond1 4.1.2 3](colliert_bond1-4.1.2-3.splw){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Bond1 4.1.2 4](colliert_bond1-4.1.2-4.splw){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Bond1 4.1.2 5](colliert_bond1-4.1.2-5.splw){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Bondm5.1.1 1](colliert_bondm5.1.1-1.py){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Bondm5.1.1 1 V2](colliert_bondm5.1.1-1_v2.py){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Bondm5.1.1 2](colliert_bondm5.1.1-2.py){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Bondm5.1.1 2](colliert_bondm5.1.1-2.splw){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Bondm5.1.1 2 V2](colliert_bondm5.1.1-2_v2.py){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Bondm5.1.3 1](colliert_bondm5.1.3-1.py){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Bondm5.1.5 1](colliert_bondm5.1.5-1.py){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Bondm5.1.5 2](colliert_bondm5.1.5-2.py){:height="1em"}
+- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) Bubble Questions](colliert_bubble_questions.txt){:height="1em"}
+- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Christmas Homework](colliert_christmas_homework.html){:height="1em"}
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Christmas Homework](colliert_christmas_homework.html){:height="1em"}
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Christmas Hw Questions](colliert_christmas_hw_questions.html){:height="1em"}
+- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Christmas Hw Questions Pandoc Out](colliert_christmas_hw_questions_pandoc_out.html){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Cipher](colliert_cipher.py){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Cipher](colliert_cipher.splw){:height="1em"}
+- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) Data1](colliert_data1.txt){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Data2 1](colliert_data2-1.py){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Data2 2](colliert_data2-2.py){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Data2 3](colliert_data2-3.py){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Dicts](colliert_dicts.py){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Fixed Point](colliert_fixed-point.py){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Fixed Point Minified](colliert_fixed-point_minified.py){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Floats](colliert_floats.py){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Floats](colliert_floats.splw){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Floats Better](colliert_floats_better.py){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Mappings](colliert_mappings.splw){:height="1em"}
+- [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png) Merge Question 3](colliert_merge_question_3.png){:height="1em"}
+- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) Merge Question 3](colliert_merge_question_3.txt){:height="1em"}
+- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) Merge Questions](colliert_merge_questions.txt){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Multiply Divide Up To 16 Crlf](colliert_multiply_divide_up_to_16-crlf.splw){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Multiply Divide Up To 16](colliert_multiply_divide_up_to_16.py){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Multiply Divide Up To 16](colliert_multiply_divide_up_to_16.splw){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Partition Exchange Sort](colliert_partition_exchange_sort.py){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Quick Sort](colliert_quick_sort.splw){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Sorts](colliert_sorts.py){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Sorts](colliert_sorts.splw){:height="1em"}
+- [![CS file](https://img.icons8.com/windows/512/4a90e2/cs.png) Fibonacci](fibonacci.cs){:height="1em"}
+- [![EXE file](https://img.icons8.com/windows/512/4a90e2/exe.png) Fibonacci](fibonacci.exe){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Fibonacci](fibonacci.py){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Fibonacci](fibonacci.splw){:height="1em"}
+- [![CS file](https://img.icons8.com/windows/512/4a90e2/cs.png) Fibonacci No Cache](fibonacci_no_cache.cs){:height="1em"}
+- [![EXE file](https://img.icons8.com/windows/512/4a90e2/exe.png) Fibonacci No Cache](fibonacci_no_cache.exe){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Fix Line Endings](fix_line_endings.py){:height="1em"}
 - [Section 2](section_2/index.html)
   - [Chapter 1](section_2/chapter_1/index.html)
-    - [Clang Format (CLANG-FORMAT file)](section_2/chapter_1/.clang-format)
-    - [Main And Function (MAIN_AND_FUNCTION file)](section_2/chapter_1/main_and_function)
-    - [Main And Function (C file)](section_2/chapter_1/main_and_function.c)
-    - [Main And Function (OCRPSC file)](section_2/chapter_1/main_and_function.ocrpsc)
-    - [Main And Function (SPLW file)](section_2/chapter_1/main_and_function.splw)
-    - [Programming Techniques](section_2/chapter_1/programming_techniques.html)
-    - [Sub Programs (C file)](section_2/chapter_1/sub_programs.c)
-    - [Sub Programs](section_2/chapter_1/sub_programs.html)
+    - [![CLANG-FORMAT file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/file-configuration.png) Clang Format](section_2/chapter_1/.clang-format){:height="1em"}
+    - [![ file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/binary-file.png) Main And Function](section_2/chapter_1/main_and_function){:height="1em"}
+    - [![C file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/c.png) Main And Function](section_2/chapter_1/main_and_function.c){:height="1em"}
+    - [![OCRPSC file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/code-file.png) Main And Function](section_2/chapter_1/main_and_function.ocrpsc){:height="1em"}
+    - [![SPLW file](section_2/chapter_1/https://starwort.github.io/computer-science/icon-splw.png) Main And Function](section_2/chapter_1/main_and_function.splw){:height="1em"}
+    - [![MD file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/regular-document.png) Programming Techniques](section_2/chapter_1/programming_techniques.html){:height="1em"}
+    - [![C file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/c.png) Sub Programs](section_2/chapter_1/sub_programs.c){:height="1em"}
+    - [![MD file](section_2/chapter_1/https://img.icons8.com/windows/512/4a90e2/regular-document.png) Sub Programs](section_2/chapter_1/sub_programs.html){:height="1em"}
   - [Classes Rename Later](section_2/classes_RENAME_LATER/index.html)
-    - [Shape (PY file)](section_2/classes_RENAME_LATER/shape.py)
-    - [Shape (SPLW file)](section_2/classes_RENAME_LATER/shape.splw)
-- [Shuffle Sort (PY file)](shuffle_sort.py)
-- [Student List (TXT file)](student list.txt)
-- [Tk Arranger (PY file)](tk_arranger.py)
+    - [![PY file](section_2/classes_RENAME_LATER/https://img.icons8.com/windows/512/4a90e2/py.png) Shape](section_2/classes_RENAME_LATER/shape.py){:height="1em"}
+    - [![SPLW file](section_2/classes_RENAME_LATER/https://starwort.github.io/computer-science/icon-splw.png) Shape](section_2/classes_RENAME_LATER/shape.splw){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Shuffle Sort](shuffle_sort.py){:height="1em"}
+- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) Student List](student list.txt){:height="1em"}
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Tk Arranger](tk_arranger.py){:height="1em"}

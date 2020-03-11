@@ -1,10 +1,13 @@
 import subprocess
-from os.path import exists, isdir, basename
 from os import listdir, mkdir
-from textwrap import indent
+from os.path import basename, exists, isdir
 from shutil import copyfile, rmtree
+from textwrap import indent
 from typing import List
+
 from tqdm import tqdm  # type: ignore
+
+from filetype_urls import get_icon
 
 transtable = str.maketrans("-_", "  ")
 with open(".gitignore") as file:
@@ -89,24 +92,45 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
         full_file_name = source_directory + "/" + file_name
         if file_name in ignore_files:
             continue
+        file_name_parts = file_name.split(".")
+        if len(file_name_parts) == 1:
+            # append an empty file extension if the filename is one part
+            if file_name == "LICENSE":  # give the licence its own special icon
+                file_name_parts.append("licence")
+            else:
+                file_name_parts.append("")
         if isdir(full_file_name):
             dir_index = travel_dir(full_file_name)
             index.append(dir_index.replace("](", "](" + file_name + "/"))
         elif file_name.endswith(".md"):
             index.append(
-                "[" + path_to_name(file_name) + "](" + file_name[:-3] + ".html)"
+                "["
+                + get_icon(file_name_parts[-1])
+                + " "
+                + path_to_name(file_name)
+                + "]("
+                + file_name[:-3]
+                + '.html){:height="1em"}'
             )
         elif file_name.endswith(".html"):
-            index.append("[" + path_to_name(file_name) + "](" + file_name + ")")
+            index.append(
+                "["
+                + get_icon(file_name_parts[-1])
+                + " "
+                + path_to_name(file_name)
+                + "]("
+                + file_name
+                + '){:height="1em"}'
+            )
         else:
             index.append(
                 "["
+                + get_icon(file_name_parts[-1])
+                + " "
                 + path_to_name(file_name)
-                + " ("
-                + file_name.split(".")[-1].upper()
-                + " file)]("
+                + "]("
                 + file_name
-                + ")"
+                + '){:height="1em"}'
             )
     tree = directory_to_tree(index)
     with open(source_directory + "/index.md", "wb") as file:

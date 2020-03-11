@@ -2,11 +2,11 @@
 
 ← [Back to Section 2](..)
 
-- [Clang Format (CLANG-FORMAT file)](.clang-format)
-- [Main And Function (MAIN_AND_FUNCTION file)](main_and_function)
-- [Main And Function (C file)](main_and_function.c)
-- [Main And Function (OCRPSC file)](main_and_function.ocrpsc)
-- [Main And Function (SPLW file)](main_and_function.splw)
-- [Programming Techniques](programming_techniques.html)
-- [Sub Programs (C file)](sub_programs.c)
-- [Sub Programs](sub_programs.html)
+- [![CLANG-FORMAT file](https://img.icons8.com/windows/512/4a90e2/file-configuration.png) Clang Format](.clang-format){:height="1em"}
+- [![ file](https://img.icons8.com/windows/512/4a90e2/binary-file.png) Main And Function](main_and_function){:height="1em"}
+- [![C file](https://img.icons8.com/windows/512/4a90e2/c.png) Main And Function](main_and_function.c){:height="1em"}
+- [![OCRPSC file](https://img.icons8.com/windows/512/4a90e2/code-file.png) Main And Function](main_and_function.ocrpsc){:height="1em"}
+- [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Main And Function](main_and_function.splw){:height="1em"}
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Programming Techniques](programming_techniques.html){:height="1em"}
+- [![C file](https://img.icons8.com/windows/512/4a90e2/c.png) Sub Programs](sub_programs.c){:height="1em"}
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Sub Programs](sub_programs.html){:height="1em"}

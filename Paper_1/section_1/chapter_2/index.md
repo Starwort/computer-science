@@ -2,5 +2,5 @@
 
 ← [Back to Section 1](..)
 
-- [Cisc And Risc](cisc_and_risc.html)
-- [Gpus](gpus.html)
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Cisc And Risc](cisc_and_risc.html){:height="1em"}
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Gpus](gpus.html){:height="1em"}

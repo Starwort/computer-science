@@ -2,5 +2,5 @@
 
 ← [Back to Section 4](..)
 
-- [Character Sets](character_sets.html)
-- [Primitive Data Types](primitive_data_types.html)
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Character Sets](character_sets.html){:height="1em"}
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Primitive Data Types](primitive_data_types.html){:height="1em"}

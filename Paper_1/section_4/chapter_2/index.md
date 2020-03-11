@@ -2,8 +2,8 @@
 
 ← [Back to Section 4](..)
 
-- [Data Structures](data_structures.html)
-- [Definitions](definitions.html)
-- [Lists And Linked Lists](lists_and_linked_lists.html)
-- [Queues](queues.html)
-- [Stacks](stacks.html)
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Data Structures](data_structures.html){:height="1em"}
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Definitions](definitions.html){:height="1em"}
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Lists And Linked Lists](lists_and_linked_lists.html){:height="1em"}
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Queues](queues.html){:height="1em"}
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Stacks](stacks.html){:height="1em"}
