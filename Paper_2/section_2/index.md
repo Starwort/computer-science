@@ -9,3 +9,8 @@
   - [Main And Function (OCRPSC file)](chapter_1/main_and_function.ocrpsc)
   - [Main And Function (SPLW file)](chapter_1/main_and_function.splw)
   - [Programming Techniques](chapter_1/programming_techniques.html)
+  - [Sub Programs (C file)](chapter_1/sub_programs.c)
+  - [Sub Programs](chapter_1/sub_programs.html)
+- [Classes Rename Later](classes_RENAME_LATER/index.html)
+  - [Shape (PY file)](classes_RENAME_LATER/shape.py)
+  - [Shape (SPLW file)](classes_RENAME_LATER/shape.splw)
