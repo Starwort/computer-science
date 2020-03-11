@@ -58,7 +58,10 @@ def path_to_name(path: str) -> str:
     return (
         " ".join(
             i.title()
-            for i in (".".join(path.lstrip(".").split(".")[:-1]) or path.lstrip("."))
+            for i in (
+                ".".join(path.lstrip(".").replace("LICENSE", "licence").split(".")[:-1])
+                or path.lstrip(".")
+            )
             .translate(transtable)
             .split()
             if i != "colliert"  # remove tag
@@ -72,8 +75,8 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
     Travel through `source_directory`, returning a markdown index
 
     Travel through `source_directory`, running pandoc on markdown files within it
-    and copying all the files into ./.pandoc/, and returning a markdown index of the
-    folder (which is also placed into the folder)
+    ~~and copying all the files into ./.pandoc/~~, and returning a markdown index of
+    the folder (which is also placed into the folder)
 
     :param source_directory: Source folder to traverse. Must not be '/'
     :type source_directory: str
@@ -110,7 +113,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
                 + path_to_name(file_name)
                 + "]("
                 + file_name[:-3]
-                + '.html){:height="1em"}'
+                + '.html){:height="11px"}'
             )
         elif file_name.endswith(".html"):
             index.append(
@@ -120,7 +123,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
                 + path_to_name(file_name)
                 + "]("
                 + file_name
-                + '){:height="1em"}'
+                + '){:height="11px"}'
             )
         else:
             index.append(
@@ -130,7 +133,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
                 + path_to_name(file_name)
                 + "]("
                 + file_name
-                + '){:height="1em"}'
+                + '){:height="11px"}'
             )
     tree = directory_to_tree(index)
     with open(source_directory + "/index.md", "wb") as file:
