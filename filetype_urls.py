@@ -35,6 +35,8 @@ filetype_to_url = {
     "clang-format": "https://img.icons8.com/windows/512/4a90e2/file-configuration.png",
     "gitignore": "https://img.icons8.com/windows/512/4a90e2/file-configuration.png",
     "licence": "https://img.icons8.com/windows/512/4a90e2/policy-document.png",
+    "yaml": "https://img.icons8.com/windows/512/4a90e2/code-file.png",
+    "yml": "https://img.icons8.com/windows/512/4a90e2/code-file.png",
 }
 
 
