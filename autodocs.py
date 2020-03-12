@@ -13,7 +13,7 @@ transtable = str.maketrans("-_", "  ")
 with open(".gitignore") as file:
     ignore_files = [i.strip("/\n") for i in file.readlines() if not i.startswith("#")]
 
-AUTODOCS_VERSION = "1.2.0"
+AUTODOCS_VERSION = '1.2.1 "Folder hotfix"'
 
 
 def directory_to_tree(directory: List[str]) -> str:
@@ -167,7 +167,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
             )
         )
     return (
-        f"[![Folder](https://starwort.github.io/computer-science/icon-splw.png) {path_to_name(extension)}](index.html)\n"
+        f"[![Folder](https://starwort.github.io/computer-science/icon-folder.png) {path_to_name(extension)}](index.html)\n"
         + tree
     )
 
