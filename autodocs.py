@@ -13,7 +13,7 @@ transtable = str.maketrans("-_", "  ")
 with open(".gitignore") as file:
     ignore_files = [i.strip("/\n") for i in file.readlines() if not i.startswith("#")]
 
-AUTODOCS_VERSION = "1.1.1"
+AUTODOCS_VERSION = "1.2.0"
 
 
 def directory_to_tree(directory: List[str]) -> str:
@@ -86,7 +86,14 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
     :rtype: str
     """
     source_directory = source_directory.rstrip("/")
-    files = sorted(listdir(source_directory))
+    unsorted_files = listdir(source_directory)
+    files = sorted(
+        unsorted_files,
+        key=lambda file_name: [
+            not isdir(source_directory + "/" + file_name),
+            *map(ord, file_name),
+        ],
+    )
     if use_tqdm:
         files = tqdm(files)
     extension = basename(source_directory)
@@ -159,7 +166,10 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
                 "UTF-8"
             )
         )
-    return f"[{path_to_name(extension)}](index.html)\n" + tree
+    return (
+        f"[![Folder](https://starwort.github.io/computer-science/icon-splw.png) {path_to_name(extension)}](index.html)\n"
+        + tree
+    )
 
 
 if __name__ == "__main__":
