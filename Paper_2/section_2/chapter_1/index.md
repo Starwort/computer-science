@@ -8,6 +8,7 @@
 - [![OCRPSC file](https://img.icons8.com/windows/512/4a90e2/code-file.png){:height="18px"} Main And Function](main_and_function.ocrpsc)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png){:height="18px"} Main And Function](main_and_function.splw)
 - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png){:height="18px"} Programming Techniques](programming_techniques.html)
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png){:height="18px"} Recursion](recursion.html)
 - [![C file](https://img.icons8.com/windows/512/4a90e2/c.png){:height="18px"} Sub Programs](sub_programs.c)
 - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png){:height="18px"} Sub Programs](sub_programs.html)
 
