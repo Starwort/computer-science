@@ -29,6 +29,7 @@ filetype_to_url = {
     "svg": "https://img.icons8.com/windows/512/4a90e2/image-document.png",
     "txt": "https://img.icons8.com/windows/512/4a90e2/document.png",
     "splw": "https://starwort.github.io/computer-science/icon-splw.png",
+    "lmc": "https://starwort.github.io/computer-science/icon-lmc.png",
     "ocrpsc": "https://img.icons8.com/windows/512/4a90e2/code-file.png",
     "psc": "https://img.icons8.com/windows/512/4a90e2/code-file.png",
     "": "https://img.icons8.com/windows/512/4a90e2/binary-file.png",
@@ -41,7 +42,7 @@ filetype_to_url = {
 
 
 def get_icon(file_extension: str) -> str:
-    return '![{} file]({})'.format(
+    return "![{} file]({})".format(
         file_extension.upper(),
         filetype_to_url.get(
             file_extension.lower(),
