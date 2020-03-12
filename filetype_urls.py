@@ -41,7 +41,7 @@ filetype_to_url = {
 
 
 def get_icon(file_extension: str) -> str:
-    return '![{} file]({}){{:height="18px"}}'.format(
+    return '![{} file]({})'.format(
         file_extension.upper(),
         filetype_to_url.get(
             file_extension.lower(),
