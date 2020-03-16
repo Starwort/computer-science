@@ -3,6 +3,9 @@
 
 ← [Back to Section 2](..)
 
+- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Inheritance](inheritance.html)
+- [![PSC file](https://img.icons8.com/windows/512/4a90e2/code-file.png) Inheritance](inheritance.psc)
+- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Inheritance](inheritance.py)
 - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Shape](shape.py)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Shape](shape.splw)
 

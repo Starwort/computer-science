@@ -14,6 +14,9 @@
   - [![C file](https://img.icons8.com/windows/512/4a90e2/c.png) Sub Programs](chapter_1/sub_programs.c)
   - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Sub Programs](chapter_1/sub_programs.html)
 - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Classes Rename Later](classes_RENAME_LATER/index.html)
+  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Inheritance](classes_RENAME_LATER/inheritance.html)
+  - [![PSC file](https://img.icons8.com/windows/512/4a90e2/code-file.png) Inheritance](classes_RENAME_LATER/inheritance.psc)
+  - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Inheritance](classes_RENAME_LATER/inheritance.py)
   - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Shape](classes_RENAME_LATER/shape.py)
   - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Shape](classes_RENAME_LATER/shape.splw)
 
