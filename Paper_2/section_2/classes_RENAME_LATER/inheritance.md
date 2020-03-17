@@ -1,5 +1,7 @@
 # Inheritance
 
+← [Back to Classes](./index.html)
+
 ## Classes
 
 - `School`
