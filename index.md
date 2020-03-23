@@ -35,6 +35,8 @@
   - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Section 2](Paper_1/section_2/index.html)
     - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 1](Paper_1/section_2/chapter_1/index.html)
       - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Operating Systems](Paper_1/section_2/chapter_1/operating_systems.html)
+    - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 2](Paper_1/section_2/chapter_2/index.html)
+      - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Nature Of Applications](Paper_1/section_2/chapter_2/nature_of_applications.html)
     - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 4](Paper_1/section_2/chapter_4/index.html)
       - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Addressing](Paper_1/section_2/chapter_4/addressing.html)
       - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Object Oriented Languages](Paper_1/section_2/chapter_4/object_oriented_languages.html)
