@@ -13,7 +13,7 @@ transtable = str.maketrans("-_", "  ")
 with open(".gitignore") as file:
     ignore_files = [i.strip("/\n") for i in file.readlines() if not i.startswith("#")]
 
-AUTODOCS_VERSION = '1.2.2 "LMC patch"'
+AUTODOCS_VERSION = '1.2.3 "make my linter happy"'
 
 
 def directory_to_tree(directory: List[str]) -> str:
@@ -150,7 +150,7 @@ def travel_dir(source_directory: str, use_tqdm=False) -> str:
             )
     tree = directory_to_tree(index)
     with open(source_directory + "/index.md", "wb") as file:
-        file.write(b"<style>img{height:18px;margin-bottom:-3px}</style>\n")
+        file.write(b"<style>img{height:18px;margin-bottom:-3px}</style>\n\n")
         file.write(("# " + path_to_name(extension) + "\n\n").encode("UTF-8"))
         try:
             file.write(
