@@ -1,3 +1,4 @@
+#!/home/starwort/.pyenv/versions/3.8.0/bin/python
 import subprocess
 from os import listdir, mkdir
 from os.path import basename, exists, isdir
