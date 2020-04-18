@@ -4,6 +4,11 @@
 
 ← [Back to Computer Science](..)
 
+- [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Easter Holiday Tasks](easter_holiday_tasks/index.html)
+  - [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) All](easter_holiday_tasks/all.html)
+  - [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Calculator](easter_holiday_tasks/calculator.html)
+  - [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Dropdown](easter_holiday_tasks/dropdown.html)
+  - [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Textfile](easter_holiday_tasks/textfile.html)
 - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Section 2](section_2/index.html)
   - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 1](section_2/chapter_1/index.html)
     - [![CLANG-FORMAT file](https://img.icons8.com/windows/512/4a90e2/file-configuration.png) Clang Format](section_2/chapter_1/.clang-format)
