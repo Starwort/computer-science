@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>2. Takes in two numbers and adds them. You MAY want to extend this to generating an HTML calculator.</title>
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/segment7" type="text/css" />
+    <style>
+         :root {
+            --scale: 2;
+        }
+        
+        button {
+            width: calc(var(--scale) * 30px);
+            height: calc(var(--scale) * 30px);
+            padding: 0px;
+        }
+        
+        td {
+            padding: calc(var(--scale) * 2.5px);
+        }
+        
+        table {
+            border-spacing: 0px;
+        }
+        
+        .span {
+            width: calc(var(--scale) * 135px);
+        }
+        
+        .display {
+            width: calc(var(--scale) * 135px);
+            font-family: 'Segment7Standard';
+            font-size: calc(var(--scale) * 32px);
+            text-align: right;
+            padding: 0;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        
+        .prev {
+            width: calc(var(--scale) * 135px);
+            font-family: 'Segment7Standard';
+            font-size: calc(var(--scale) * 16px);
+            text-align: left;
+            padding: 0;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <p id="prev_num" class="prev">&#x200b;</p>
+    <p id="num" class="display">0</p>
+
+    <table>
+        <tr>
+            <td><button onclick="append_num(7)">7</button></td>
+            <td><button onclick="append_num(8)">8</button></td>
+            <td><button onclick="append_num(9)">9</button></td>
+            <td><button onclick="set_op('/')">÷</button></td>
+        </tr>
+        <tr>
+            <td><button onclick="append_num(4)">4</button></td>
+            <td><button onclick="append_num(5)">5</button></td>
+            <td><button onclick="append_num(6)">6</button></td>
+            <td><button onclick="set_op('*')">×</button></td>
+        </tr>
+        <tr>
+            <td><button onclick="append_num(1)">1</button></td>
+            <td><button onclick="append_num(2)">2</button></td>
+            <td><button onclick="append_num(3)">3</button></td>
+            <td><button onclick="set_op('-')">-</button></td>
+        </tr>
+        <tr>
+            <td><button onclick="append_num(0)">0</button></td>
+            <td><button onclick="set_decimal()">.</button></td>
+            <td><button onclick="sqrt()">√</button></td>
+            <td><button onclick="set_op('+')">+</button></td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <button class="span" onclick="eq()">=</button>
+            </td>
+        </tr>
+    </table>
+
+    <script>
+        var previous_number = 0;
+        var next_number = 0;
+        var multiple = 1;
+        var decimal = false;
+        var operation = '';
+        var reset_num = false;
+        var reset_op = false;
+
+        var last_num_display = document.getElementById('prev_num');
+        var cur_num_display = document.getElementById('num');
+
+        function append_num(num) {
+            if (reset_op) {
+                operation = ''
+                reset_op = false;
+            }
+            if (reset_num) {
+                next_number = 0;
+                multiple = 1;
+                decimal = false;
+                reset_num = false;
+            }
+            if (decimal) {
+                multiple *= 10;
+            }
+            next_number *= 10;
+            next_number += num;
+            last_num_display.textContent = previous_number;
+            cur_num_display.textContent = next_number / multiple;
+        }
+
+        function perform_operation() {
+            switch (operation) {
+                case '+':
+                    previous_number += next_number / multiple;
+                    break;
+
+                case '*':
+                    previous_number *= next_number / multiple;
+                    break;
+
+                case '/':
+                    previous_number /= next_number / multiple;
+                    break;
+
+                case '-':
+                    previous_number -= next_number / multiple;
+                    break;
+
+                case '':
+                    previous_number = next_number / multiple;
+                    break;
+
+                default:
+                    break;
+            }
+            reset_num = true;
+            cur_num_display.textContent = previous_number;
+            last_num_display.textContent = '\u200b';
+        }
+
+        function sqrt() {
+            perform_operation();
+            previous_number = Math.sqrt(previous_number);
+            cur_num_display.textContent = previous_number;
+            operation = '';
+        }
+
+        function set_op(op) {
+            reset_op = false;
+            perform_operation();
+            operation = op;
+        }
+
+        function eq() {
+            perform_operation();
+            reset_op = true;
+        }
+
+        function set_decimal() {
+            decimal = true;
+        }
+    </script>
+</body>
+
+</html>
