@@ -43,6 +43,7 @@
   - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 4](section_2/chapter_4/index.html)
     - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Addressing](section_2/chapter_4/addressing.html)
     - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Object Oriented Languages](section_2/chapter_4/object_oriented_languages.html)
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Object Oriented Programming](section_2/chapter_4/object_oriented_programming.html)
 - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Section 3](section_3/index.html)
   - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 1](section_3/chapter_1/index.html)
     - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Encryption](section_3/chapter_1/encryption.html)
