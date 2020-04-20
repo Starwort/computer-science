@@ -4,7 +4,7 @@
 
 An **object** has attributes and methods.
 
-**Attribute**: a dot-accessible label on an object that points to a piece of data.  
+**Attribute**: a dot-accessible label on an object that points to a piece of data  
 **Method**: a function or procedure attached to a class that operates on an instance of the class  
 **Class**: a data structure consisting of attributes, and (optionally) methods
 
@@ -36,6 +36,8 @@ endclass
 
 **Attributes** for type *Monster*: `poisonous`, `strength`, `name`  
 **Methods** for type *Monster*: `eat`, `sleep`, `greet` (`new` is *not* a method, but an *initialiser*)
+
+**Instantiation**: where an object is created of a given type, with a set of values for its attributes
 
 The *initialiser* (`new` in the OCR pseudocode) is used to instantiate a new object.
 
