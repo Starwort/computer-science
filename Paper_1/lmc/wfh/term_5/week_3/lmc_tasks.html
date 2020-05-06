@@ -1,0 +1,138 @@
+<h1 id="lmc-work-from-home">LMC work from home</h1>
+
+<p>← <a href="./index.html">Back to Week 3</a></p>
+
+<h2 id="simple-challenges">Simple challenges</h2>
+
+<h3 id="s1">S1</h3>
+
+<blockquote>
+  <p>Write a program that enters 3 numbers such as 5, 8, 3 and then outputs them in reverse as in 3, 8, 5.</p>
+</blockquote>
+
+<p><code>lmc
+        INP
+        STA 0
+        INP
+        STA 1
+        INP
+        OUT
+        LDA 1
+        OUT
+        LDA 0
+        OUT
+</code></p>
+
+<p><img src="./simple_challenge_1.gif" alt="Code in action" /></p>
+
+<h3 id="s2">S2</h3>
+
+<blockquote>
+  <p>Write a program that asks for two numbers. It then outputs the first number subtracting the second number and then outputs the second number subtracting the first number. Eg if 3 and 5 were entered the first sum would be 3-5 and the second sum would be 5-3.</p>
+</blockquote>
+
+<p><code>lmc
+        INP
+        STA 0
+        INP
+        STA 1
+        SUB 0
+        STA 2
+        LDA 0
+        SUB 1
+        OUT
+        LDA 2
+        OUT
+</code></p>
+
+<p><img src="./simple_challenge_2.gif" alt="Code in action" /></p>
+
+<h3 id="s3">S3</h3>
+
+<blockquote>
+  <p>Write a program that outputs the negative of a positive number. So if 7 is entered -7 is output.</p>
+</blockquote>
+
+<p><code>lmc
+        INP
+        STA 0
+        SUB 0
+        SUB 0
+        OUT
+</code></p>
+
+<p><img src="./simple_challenge_3.gif" alt="Code in action" /></p>
+
+<h2 id="intermediate-challenges">Intermediate challenges</h2>
+
+<h3 id="i1">I1</h3>
+
+<blockquote>
+  <p>Ask the user for 2 numbers. If they are the same then double the number and print it out. If they are different then print them both out individually.</p>
+</blockquote>
+
+<p><code>lmc
+        INP
+        STA 0
+        INP
+        STA 1
+        SUB 0
+        BRZ double
+        LDA 0
+        OUT
+        LDA 1
+        OUT
+        HLT
+double  ADD 0
+        ADD 0
+        OUT
+</code></p>
+
+<p><img src="./intermediate_challenge_1.gif" alt="Code in action" /></p>
+
+<h3 id="i2">I2</h3>
+
+<blockquote>
+  <p>Ask the user for 2 numbers. Print out biggest, then the smallest.</p>
+</blockquote>
+
+<p><code>lmc
+        INP
+        STA 0
+        INP
+        SUB 0
+        BRP bigger
+        ADD 0
+        STA 1
+        LDA 0
+        OUT
+        LDA 1
+        OUT
+        HLT
+bigger  ADD 0
+        OUT
+        LDA 0
+        OUT
+</code></p>
+
+<p><img src="./intermediate_challenge_2.gif" alt="Code in action" /></p>
+
+<h3 id="i3">I3</h3>
+
+<blockquote>
+  <p>Ask the user for 2 numbers, print out the result of the biggest number minus the smallest number.</p>
+</blockquote>
+
+<p><code>lmc
+        INP
+        STA 0
+        INP
+        SUB 0
+        BRP out_
+        STA 0
+        SUB 0
+        SUB 0
+out_    OUT
+</code></p>
+
+<p><img src="./intermediate_challenge_3.gif" alt="Code in action" /></p>

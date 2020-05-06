@@ -132,3 +132,7 @@ dmypy.json
 .vscode/
 .git/
 .vscode/*
+
+render_markdown
+
+render_markdown.sh
