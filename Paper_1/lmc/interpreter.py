@@ -86,11 +86,17 @@ mnemonics = {
 narg_mnemonics = {"HLT", "INP", "OUT", "OTC"}
 
 layout = {
-    "up": {"down": "down", "right": "Step"},
-    "down": {"up": "up", "right": "Step"},
-    "Step": {"up": "up", "left": "up", "right": "Play", "down": "down"},
-    "Play": {"up": "up", "left": "Step", "right": "Reset", "down": "down"},
-    "Reset": {"up": "up", "left": "Play", "down": "down"},
+    "up": {"down": "down", "right": "Step", "tab": "down"},
+    "down": {"up": "up", "right": "Step", "tab": "Step"},
+    "Step": {"up": "up", "left": "up", "right": "Play", "down": "down", "tab": "Play"},
+    "Play": {
+        "up": "up",
+        "left": "Step",
+        "right": "Reset",
+        "down": "down",
+        "tab": "Reset",
+    },
+    "Reset": {"up": "up", "left": "Play", "down": "down", "tab": "up"},
 }
 
 
@@ -182,11 +188,12 @@ class LMC:
                                 self.scrollpos = max(self.scrollpos, 0)
                             else:
                                 print(chr(7), end="")
-                if next_char == "q":
+                if next_char.lower() == "q":
                     break
             if ord(in_char) == 224:
                 # look for windows arrow sequences
                 next_char = getch()
+                options = layout[self.selected]
                 if dir == "K":
                     if "left" in options:
                         self.selected = options["left"]
@@ -218,6 +225,8 @@ class LMC:
                         else:
                             print(chr(7), end="")
 
+            if in_char == "\t":
+                self.selected = layout[self.selected]["tab"]
             if in_char in " \n\r":
                 if self.selected == "up":
                     self.scrollpos -= 1
@@ -495,12 +504,28 @@ class LMC:
 
 
 @click.command()
-@click.argument("lmc-file", type=click.File("r"))
+@click.argument("lmc-file", type=click.File("r"), help="Input LMC program file")
 @click.option(
-    "-s", "--sleep", "-d", "--delay", "-w", "--wait", type=float, default=0.25
+    "-s",
+    "--sleep",
+    "-d",
+    "--delay",
+    "-w",
+    "--wait",
+    type=float,
+    default=0.25,
+    help="Time waited between cycles during automatic playback",
 )
-@click.option("--show-menu/--run-file", "-S/-R", default=False)
+@click.option(
+    "--show-menu/--run-file",
+    "-S/-R",
+    default=False,
+    help="Whether to use the interactive player or the automatic player",
+)
+@click.help_option("-h", "--help")
 def main(lmc_file, sleep, show_menu):
+    """Launch the LMC player. In interactive (menu) mode, press <ESC>
+    if on Windows, or <ESC>Q if on Unix, to quit."""
     computer = LMC(sleep)
     computer.load_program(lmc_file.readlines())
     if show_menu:

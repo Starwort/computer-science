@@ -11,7 +11,6 @@
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Intermediate Challenge 2](week_3/intermediate_challenge_2.lmc)
   - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) Intermediate Challenge 3](week_3/intermediate_challenge_3.gif)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Intermediate Challenge 3](week_3/intermediate_challenge_3.lmc)
-  - [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Lmc Tasks](week_3/lmc_tasks.html)
   - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Lmc Tasks](week_3/lmc_tasks.html)
   - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) Simple Challenge 1](week_3/simple_challenge_1.gif)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Simple Challenge 1](week_3/simple_challenge_1.lmc)
