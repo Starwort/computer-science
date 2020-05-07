@@ -3,11 +3,25 @@ import typing
 import random
 import re
 import time
-import click
-import colorama as colour
 from fractions import Fraction
 import typing
 import textwrap
+
+try:
+    import click
+except ImportError:
+    from pip._internal import main as pip
+
+    pip("install click -U --user".split())
+    import click
+
+try:
+    import colorama as colour
+except ImportError:
+    from pip._internal import main as pip
+
+    pip("install colorama -U --user".split())
+    import colorama as colour
 
 try:
     import tty, termios, sys
