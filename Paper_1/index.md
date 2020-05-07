@@ -32,6 +32,7 @@
         - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Simple Challenge 3](lmc/wfh/term_5/week_3/simple_challenge_3.lmc)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Advanced Tasks](lmc/advanced_tasks.lmc)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Beginner Tasks](lmc/beginner_tasks.lmc)
+  - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) Bundled Interpreter](lmc/bundled_interpreter.py)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Difference](lmc/difference.lmc)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Equality](lmc/equality.lmc)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Inputting And Storing Numbers](lmc/inputting_and_storing_numbers.lmc)
