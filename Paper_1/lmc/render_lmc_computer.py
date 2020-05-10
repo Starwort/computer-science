@@ -4,7 +4,7 @@ import textwrap
 import platform
 import colorama as colour
 
-with open("render_template") as file:
+with open("render_template", encoding="UTF-8") as file:
     TEMPLATE = file.read()
 
 if platform.system() == "Windows":
@@ -53,7 +53,7 @@ def render_entry(entered_value: int, selected: bool, template: str) -> str:
 def render_output(output: str, template: str) -> str:
     """Render the output and return the updated template"""
     wrapped_lines = (
-        textwrap.wrap(output, max_lines=6, placeholder="[ output truncated ]")
+        textwrap.wrap(output, max_lines=6, placeholder="[ output truncated ]", width=25)
         + [""] * 6
     )
     return template.replace("XXXXXXXXXXXXXXXXXXXXXXXXX", "{:<25}").format(
