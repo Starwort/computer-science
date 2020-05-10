@@ -6,8 +6,12 @@ import colorama as colour
 with open("render_template") as file:
     TEMPLATE = file.read()
 
-INVERT = "\u001b[7m"
-RESTORE = "\u001b[27m"
+if ON_WINDOWS:
+    INVERT = colour.Back.WHITE + colour.Fore.BLACK
+    RESTORE = colour.Back.RESET + colour.Fore.RESET
+else:
+    INVERT = "\u001b[7m"
+    RESTORE = "\u001b[27m"
 
 unicode_block_tops = {
     Fraction(0, 8): " ",
