@@ -130,12 +130,20 @@ def render_entry(entered_value: int, selected: bool, template: str) -> str:
 
 def render_output(output: str, template: str) -> str:
     """Render the output and return the updated template"""
-    wrapped_lines = (
-        textwrap.wrap(output, max_lines=6, placeholder="[ output truncated ]", width=25)
-        + [""] * 6
-    )
+    wrapped_lines = textwrap.wrap(output, width=25)
+
+    while len(wrapped_lines) < 6:
+        wrapped_lines.append("")
+
+    prepend = False
+    while len(wrapped_lines) > 6:
+        prepend = True
+        wrapped_lines.pop(0)
+    if prepend:
+        wrapped_lines[0] = "[ output truncated ]".center(25)
+
     return template.replace("XXXXXXXXXXXXXXXXXXXXXXXXX", "{:<25}").format(
-        *wrapped_lines[:6]
+        *wrapped_lines
     )
 
 
