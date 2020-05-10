@@ -52,7 +52,8 @@ def render_entry(entered_value: int, selected: bool, template: str) -> str:
 
 def render_output(output: str, template: str) -> str:
     """Render the output and return the updated template"""
-    wrapped_lines = textwrap.wrap(output, width=25, replace_whitespace=False)
+    processed_output = output.splitlines()
+    wrapped_lines = [*textwrap.wrap(i, width=25, replace_whitespace=False) for i in processed_output]
 
     while len(wrapped_lines) < 6:
         wrapped_lines.append("")
