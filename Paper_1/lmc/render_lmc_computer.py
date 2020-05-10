@@ -84,7 +84,7 @@ def render_registers(accumulator: int, pc: int, template: str) -> str:
     return (
         template.replace("AAA", "{: >3}".format(abs(accumulator)))
         .replace("%A%", " - " if accumulator < 0 else "   ")
-        .replace("PC", "{: >2}".format(pc))
+        .replace("%PC", "{: >3}".format(pc))
     )
 
 
