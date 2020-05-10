@@ -504,7 +504,7 @@ class LMC:
 
 
 @click.command()
-@click.argument("lmc-file", type=click.File("r"), help="Input LMC program file")
+@click.argument("lmc-file", type=click.File("r"))
 @click.option(
     "-s",
     "--sleep",
