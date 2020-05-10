@@ -1,12 +1,13 @@
 from fractions import Fraction
 import typing
 import textwrap
+import platform
 import colorama as colour
 
 with open("render_template") as file:
     TEMPLATE = file.read()
 
-if ON_WINDOWS:
+if platform.system() == "Windows":
     INVERT = colour.Back.WHITE + colour.Fore.BLACK
     RESTORE = colour.Back.RESET + colour.Fore.RESET
 else:
