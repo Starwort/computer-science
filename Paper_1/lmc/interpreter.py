@@ -258,7 +258,7 @@ class LMC:
             exit()
 
     def render(self):
-        print(colour.Cursor.POS(), end="")
+        print(renderer.RESTORE, colour.Cursor.POS(), end="")
         screen = renderer.TEMPLATE
         if self.waiting_input:
             sel = "Entry"
