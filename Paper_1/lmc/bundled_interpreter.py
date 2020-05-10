@@ -140,7 +140,7 @@ def render_output(output: str, template: str) -> str:
         prepend = True
         wrapped_lines.pop(0)
     if prepend:
-        wrapped_lines[0] = "[ output truncated ]".center(25)
+        wrapped_lines[0] = "<truncated>".center(25)
 
     return template.replace("XXXXXXXXXXXXXXXXXXXXXXXXX", "{:<25}").format(
         *wrapped_lines
