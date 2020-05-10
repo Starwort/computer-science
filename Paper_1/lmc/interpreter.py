@@ -29,7 +29,7 @@ except ImportError:
         def setup():
             pass
 
-        getch = lambda: msvcrt.getch().decode()
+        getch = lambda: msvcrt.getch().decode("latin-1")
 
         def cleanup():
             pass
@@ -192,7 +192,7 @@ class LMC:
                     break
             if ord(in_char) == 224:
                 # look for windows arrow sequences
-                next_char = getch()
+                dir = getch()
                 options = layout[self.selected]
                 if dir == "K":
                     if "left" in options:
