@@ -247,10 +247,10 @@ class LMC:
         try:
             while not self.halted:
                 self.step()
-                if self.scrollpos < self.ip - render.DISPLAY_HEIGHT * 3 / 4:
-                    self.scrollpos = self.ip - render.DISPLAY_HEIGHT * 3 // 4
-                if self.scrollpos > self.ip - render.DISPLAY_HEIGHT / 4:
-                    self.scrollpos = max(0, self.ip - render.DISPLAY_HEIGHT // 4)
+                if self.scrollpos < self.ip - renderer.DISPLAY_HEIGHT * 3 / 4:
+                    self.scrollpos = self.ip - renderer.DISPLAY_HEIGHT * 3 // 4
+                if self.scrollpos > self.ip - renderer.DISPLAY_HEIGHT / 4:
+                    self.scrollpos = max(0, self.ip - renderer.DISPLAY_HEIGHT // 4)
                 self.render()
                 time.sleep(self.delay)
         except KeyboardInterrupt:
