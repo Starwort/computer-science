@@ -85,8 +85,12 @@ TEMPLATE = """
 """.strip()
 
 
-INVERT = "\u001b[7m"
-RESTORE = "\u001b[27m"
+if ON_WINDOWS:
+    INVERT = colour.Back.WHITE + colour.Fore.BLACK
+    RESTORE = colour.Back.RESET + colour.Fore.RESET
+else:
+    INVERT = "\u001b[7m"
+    RESTORE = "\u001b[27m"
 
 unicode_block_tops = {
     Fraction(0, 8): " ",
@@ -695,7 +699,7 @@ class LMC:
 
 
 @click.command()
-@click.argument("lmc-file", type=click.File("r"), help="Input LMC program file")
+@click.argument("lmc-file", type=click.File("r"))
 @click.option(
     "-s",
     "--sleep",
