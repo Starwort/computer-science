@@ -41,13 +41,27 @@ def render_button_select(selected_button: str, template: str) -> str:
     return template.replace(selected_button, INVERT + selected_button + RESTORE)
 
 
-def render_entry(entered_value: int, selected: bool, template: str) -> str:
+def render_entry(
+    entered_value: typing.Union[str, int],  # pylint: disable=unsubscriptable-object
+    selected: bool,
+    template: str,
+) -> str:
     """Render the entry and return the updated template"""
-    return template.replace(
-        "EEE", "{:>3}".format(abs(entered_value)) + (RESTORE if selected else "")
-    ).replace(
-        "E%", (INVERT if selected else "") + ("- " if entered_value < 0 else "  ")
-    )
+    if isinstance(entered_value, str):
+        return template.replace(
+            "EEEEEEEEEEEEEEEEEEE",
+            (INVERT if selected else "")
+            + "[Aa]              "
+            + entered_value
+            + (RESTORE if selected else ""),
+        )
+    else:
+        return template.replace(
+            "EEEEEEEEEEEEEEEEEEE",
+            (INVERT if selected else "")
+            + "{: =19}".format(entered_value)
+            + (RESTORE if selected else ""),
+        )
 
 
 def render_output(output: str, template: str) -> str:

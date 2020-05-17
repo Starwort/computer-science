@@ -66,6 +66,7 @@ BRP 8xx
 INP 901
 OUT 902
 OTC 903
+INC 904
 """
 
 mnemonics = {
@@ -81,9 +82,11 @@ mnemonics = {
     "INP": 901,
     "OUT": 902,
     "OTC": 903,
+    "INC": 904,
     "DAT": 0,
 }
-narg_mnemonics = {"HLT", "INP", "OUT", "OTC"}
+narg_mnemonics = {"HLT", "INP", "INC", "OUT", "OTC"}
+EXTENDED_ONLY = {"INC", "OTC"}
 
 layout = {
     "up": {"down": "down", "right": "Step", "tab": "down"},
@@ -100,10 +103,19 @@ layout = {
 }
 
 
+def char_to_num(char: str) -> int:
+    rv = ord(char) % 1999
+    if rv > 999:
+        rv -= 1999
+
+    return rv
+
+
 class LMC:
     program: typing.List[str]
+    last_entry: typing.Union[str, int]  # pylint: disable=unsubscriptable-object
 
-    def __init__(self, delay: float = 0.25):
+    def __init__(self, delay: float = 0.25, extended: bool = True):
         self.memory = [0 for i in range(100)]
         self.accumulator = 0
         self.ip = 0
@@ -115,6 +127,7 @@ class LMC:
         self.scrollpos = 0
         self.last_entry = 0
         self.delay = delay
+        self.extended = extended
         setup()
         print(colour.ansi.clear_screen())
 
@@ -125,9 +138,36 @@ class LMC:
     def parse_instruction(opcode: int) -> ParsedOpCode:
         return divmod(opcode, 100)
 
+    def read(self, mailbox: int) -> int:
+        if mailbox < 0:
+            self.output += (
+                "\nSegmentation fault: attempted to read from negative mailbox {}"
+            ).format(mailbox)
+        elif mailbox > 99:
+            self.output += (
+                "\nSegmentation fault: attempted to read from out-of-range mailbox {}"
+            ).format(mailbox)
+        else:
+            return self.memory[mailbox]
+        self.halted = True
+        return -1
+
+    def write(self, mailbox: int, value: int) -> int:
+        if mailbox < 0:
+            self.output += (
+                "\nSegmentation fault: attempted to write to negative mailbox {}"
+            ).format(mailbox)
+        elif mailbox > 99:
+            self.output += (
+                "\nSegmentation fault: attempted to write to out-of-range mailbox {}"
+            ).format(mailbox)
+        else:
+            self.memory[mailbox] = value
+        self.halted = True
+
     def step(self):
-        try:
-            instruction = self.memory[self.ip]
+        instruction = self.read(self.ip)
+        if not self.halted:
             self.ip += 1
             opcode, operand = self.parse_instruction(instruction)
             [
@@ -142,8 +182,6 @@ class LMC:
                 self.brp,
                 self.io,
             ][opcode](operand)
-        except IndexError:
-            self.halted = True
 
     def menu(self):
         while True:
@@ -281,12 +319,19 @@ class LMC:
         print(screen.replace("\n", "\r\n"), end="\r\n")
 
     def hlt(self, mailbox: int):
-        """Halt 0xx"""
+        """Halt 000"""
         self.halted = True
+        if mailbox != 0:
+            self.output += "\nError in mailbox {}: Illegal operation: {:0>3} (perhaps you are executing data)".format(
+                self.ip - 1, mailbox
+            )
 
     def add(self, mailbox: int):
         """Add 1xx"""
-        self.accumulator += self.memory[mailbox]
+        target = self.read(mailbox)
+        if self.halted:
+            return
+        self.accumulator += target
         if self.accumulator > 999:
             self.accumulator -= 1999
         elif self.accumulator < -999:
@@ -294,7 +339,10 @@ class LMC:
 
     def sub(self, mailbox: int):
         """Subtract 2xx"""
-        self.accumulator -= self.memory[mailbox]
+        target = self.read(mailbox)
+        if self.halted:
+            return
+        self.accumulator -= target
         if self.accumulator > 999:
             self.accumulator -= 1999
         elif self.accumulator < -999:
@@ -302,31 +350,44 @@ class LMC:
 
     def sta(self, mailbox: int):
         """Store accumulator 3xx"""
-        self.memory[mailbox] = self.accumulator
+        self.write(mailbox, self.accumulator)
 
     def unu(self, mailbox: int):
         """Undefined behaviour 4xx"""
         # randomise cell and acc contents
-        self.memory[mailbox] = random.randint(-999, 999)
+        self.write(mailbox, random.randint(-999, 999))
         self.accumulator = random.randint(-999, 999)
 
     def lda(self, mailbox: int):
         """Load value to accumulator 5xx"""
-        self.accumulator = self.memory[mailbox]
+        target = self.read(mailbox)
+        if not self.halted:
+            self.accumulator = target
 
     def bra(self, mailbox: int):
         """Branch always 6xx"""
-        self.ip = mailbox
+        if mailbox < 0:
+            self.output += (
+                "\nError in mailbox {}: Attempted jump to negative mailbox {}"
+            ).format(self.ip - 1, mailbox)
+        elif mailbox > 99:
+            self.output += (
+                "\nError in mailbox {}: Attempted jump to out-of-range mailbox {}"
+            ).format(self.ip - 1, mailbox)
+        else:
+            self.ip = mailbox
+            return
+        self.halted = True
 
     def brz(self, mailbox: int):
         """Branch when zero 7xx"""
         if self.accumulator == 0:
-            self.ip = mailbox
+            self.bra(mailbox)
 
     def brp(self, mailbox: int):
         """Branch when non-negative 8xx"""
         if self.accumulator >= 0:
-            self.ip = mailbox
+            self.bra(mailbox)
 
     def io(self, mailbox: int):
         """Input/output 9xx"""
@@ -362,27 +423,51 @@ class LMC:
                     break
             self.accumulator = self.last_entry
             self.waiting_input = False
-            # val = None
-            # while val is None:
-            #     try:
-            #         val = int(input("IN> "))
-            #         if val > 999:
-            #             print("Value too big")
-            #             val = None
-            #         elif val < -999:
-            #             print("Value too small")
-            #             val = None
-            #     except ValueError:
-            #         print("Not a number")
-            # self.accumulator = val
         elif mailbox == 2:
             self.output += "{} ".format(self.accumulator)
+        elif not self.extended:
+            if mailbox == 3:
+                self.output += (
+                    "\nError in mailbox {}: OTC used outside of extended mode"
+                ).format(self.ip - 1)
+            elif mailbox == 4:
+                self.output += (
+                    "\nError in mailbox {}: INC used outside of extended mode"
+                ).format(self.ip - 1)
+            else:
+                self.output += (
+                    "\nError in mailbox {}: Illegal I/O operation: 9{:0>2}"
+                ).format(self.ip - 1, mailbox)
+            self.halted = True
         elif mailbox == 3:
             self.output += chr(self.accumulator % 65536)
+        elif mailbox == 4:
+            self.waiting_input = True
+            self.last_entry = " "
+            while self.waiting_input:
+                self.render()
+                char = getch()
+                if ord(char) < 32:
+                    print("\x07")
+                    continue
+                if char in "\f\t\x7f\b":
+                    print("\x07")
+                    continue
+                if ord(char) > 255:
+                    print("\x07")
+                    continue
+                self.last_entry = char
+                if char in "\r\n":
+                    self.waiting_input = False
+            self.accumulator = char_to_num(self.last_entry)
+        else:
+            self.output += (
+                "\nError in mailbox {}: Illegal I/O operation: 9{:0>2}"
+            ).format(self.ip - 1, mailbox)
 
     @staticmethod
     def normalise_program(
-        lines: typing.List[str],
+        lines: typing.List[str], extended: bool = True
     ) -> typing.Tuple[typing.List[typing.Tuple[str, str, str]], typing.Dict[str, int]]:
         identifiers = {}
 
@@ -435,13 +520,19 @@ class LMC:
                 raise SyntaxError(
                     f"{len(components)} components on this line ({stripped_lines[i]})"
                 )
+            if not extended and mnemonic in EXTENDED_ONLY:
+                raise SyntaxError(
+                    "Used extended-only mnemonic {} in basic mode".format(mnemonic)
+                )
             parsed_lines.append((ident, mnemonic, mailbox))
 
         return parsed_lines, identifiers
 
     @staticmethod
-    def format_program(lines: typing.List[str]) -> typing.List[str]:
-        return LMC.format_parsed_program(LMC.normalise_program(lines)[0])
+    def format_program(
+        lines: typing.List[str], extended: bool = True
+    ) -> typing.List[str]:
+        return LMC.format_parsed_program(LMC.normalise_program(lines, extended)[0])
 
     @staticmethod
     def format_parsed_program(
@@ -460,9 +551,13 @@ class LMC:
                 if operand == 2:
                     lines.append((f"Box{i:0>2}", "OUT", ""))
                     continue
-                if operand == 3:
-                    lines.append((f"Box{i:0>2}", "OTC", ""))
-                    continue
+                if self.extended:
+                    if operand == 3:
+                        lines.append((f"Box{i:0>2}", "OTC", ""))
+                        continue
+                    if operand == 4:
+                        lines.append((f"Box{i:0>2}", "INC", ""))
+                        continue
                 lines.append((f"Box{i:0>2}", "DAT", mailbox))
                 continue
             if opcode == 0:
@@ -524,13 +619,25 @@ class LMC:
     "--show-menu/--run-file",
     "-S/-R",
     default=False,
-    help="Whether to use the interactive player or the automatic player",
+    help=(
+        "Whether to use the interactive player or the "
+        "automatic player. Default: automatic"
+    ),
+)
+@click.option(
+    "--extended/--basic",
+    "-e/-b",
+    default=True,
+    help=(
+        "Whether to use the extended language specification"
+        " or the basic one. Default: extended"
+    ),
 )
 @click.help_option("-h", "--help")
-def main(lmc_file, sleep, show_menu):
+def main(lmc_file, sleep, show_menu, extended):
     """Launch the LMC player. In interactive (menu) mode, press <ESC>
     if on Windows, or <ESC>Q if on Unix, to quit."""
-    computer = LMC(sleep)
+    computer = LMC(sleep, extended)
     computer.load_program(lmc_file.readlines())
     if show_menu:
         computer.menu()
