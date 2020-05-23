@@ -135,6 +135,7 @@ code, pre {
             9 |   | √
         2. ?
         3. Write code in a high-level language or pseudocode that has the same functionality as the code in Fig. 1.
+
             `print(int(int(input()) <= 5))` (Python 3), if the entry is required after evaluation then `print(int((entry := int(input())) <= 5))` (Python 3.8+)
 5. The program, as shown in Fig. 2 below, is written in assembly code using the Little Man Computer instruction set. It is *supposed* to take in two numbers and output the higher.
 
