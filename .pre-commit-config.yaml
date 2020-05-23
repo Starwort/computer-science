@@ -7,4 +7,4 @@ repos:
         name: document
         entry: bash -c './autodocs.py; sleep 0.1' --
         language: system
-        verbose: true
+        verbose: false
