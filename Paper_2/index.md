@@ -12,6 +12,8 @@
 - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Section 1](section_1/index.html)
   - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 1](section_1/chapter_1/index.html)
     - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Thinking Abstractly](section_1/chapter_1/thinking_abstractly.html)
+  - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 2](section_1/chapter_2/index.html)
+    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Thinking Ahead](section_1/chapter_2/thinking_ahead.html)
 - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Section 2](section_2/index.html)
   - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 1](section_2/chapter_1/index.html)
     - [![CLANG-FORMAT file](https://img.icons8.com/windows/512/4a90e2/file-configuration.png) Clang Format](section_2/chapter_1/.clang-format)
