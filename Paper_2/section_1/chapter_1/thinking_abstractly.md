@@ -30,7 +30,7 @@
         list-style-type: lower-roman;
     }
 </style>
-# Thinking Abstractly
+# Chapter 47
 
 1. 2500
 

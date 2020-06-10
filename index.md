@@ -113,6 +113,8 @@
       - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Thinking Abstractly](Paper_2/section_1/chapter_1/thinking_abstractly.html)
     - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 2](Paper_2/section_1/chapter_2/index.html)
       - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Thinking Ahead](Paper_2/section_1/chapter_2/thinking_ahead.html)
+    - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 3](Paper_2/section_1/chapter_3/index.html)
+      - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) Thinking Procedurally](Paper_2/section_1/chapter_3/thinking_procedurally.html)
   - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Section 2](Paper_2/section_2/index.html)
     - [![Folder](https://starwort.github.io/computer-science/icon-folder.png) Chapter 1](Paper_2/section_2/chapter_1/index.html)
       - [![CLANG-FORMAT file](https://img.icons8.com/windows/512/4a90e2/file-configuration.png) Clang Format](Paper_2/section_2/chapter_1/.clang-format)

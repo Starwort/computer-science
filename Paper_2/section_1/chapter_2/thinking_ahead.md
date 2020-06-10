@@ -30,7 +30,7 @@
         list-style-type: lower-roman;
     }
 </style>
-# Thinking Ahead
+# Chapter 48
 
 1.  ```psc
     str[] items = ['hello world', 'out of cheese; redo from start', 'you sunk my battleship']
