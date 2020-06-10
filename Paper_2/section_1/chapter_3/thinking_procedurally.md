@@ -46,5 +46,5 @@
     - &#x200b;
         1. Using meaningful variable and routine names makes code easier to understand and maintain as the code explains itself to the person reading it (many people say that well-written code does not need comments!)
         2. Using comments makes code easier to understand and maintain as the comments can explain the purpose of an algorithm and notes on why things are done a certain way, reducing the amount of confusion a person incurs when reading the code.
-        3. Using documentation and docstrings makes a program easy to understand and maintain as each subroutine and module will have its interface and purpose clearly defined, so that only the relevant sections of code need to be inspected to locate and fix a bug
+        3. Using documentation and docstrings makes a program easy to understand and maintain as each subroutine and module will have its interface and purpose clearly defined, so that only the relevant sections of code need to be inspected to locate and fix a bug.
 - Show quiz → (Ask questions → (Load question → Pick random number, Load numbered question from file), Output question, Input answer, (Mark question → Compare answer with correct answer, Add 1 to score if correct), (Give feedback → Load feedback for question and correct answer, Output feedback)), Output score
