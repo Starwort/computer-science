@@ -1,3 +1,9 @@
+---
+layout: default
+title: object_oriented_programming | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 # Object-Oriented Programming Notes and Tasks
 
 ← [Back to Chapter 4](./index.html)

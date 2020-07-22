@@ -1,3 +1,9 @@
+---
+layout: default
+title: colliert_floats | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 REQUIRE official.python3
 
 /* N64-style floats

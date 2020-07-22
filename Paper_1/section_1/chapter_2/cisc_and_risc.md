@@ -1,3 +1,9 @@
+---
+layout: default
+title: cisc_and_risc | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 # CISC vs RISC processors
 
 ← [Back to Chapter 2](./index.html)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: colliert_christmas_homework | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 # Christmas Homework
 
 ← [Back to Paper 2](./index.html)

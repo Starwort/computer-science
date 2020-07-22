@@ -1,0 +1,14 @@
+// Ask the user for a big number, then a small number. Using only a BRP to loop round, keep subtracting the smaller number until you get past zero, then output the result.
+        INP
+        STA 0
+        INP
+        STA 1
+        LDA 0
+        BRP 8
+        // how dare you, don't enter a negative number :(
+        OUT
+        HLT
+        SUB 1
+        BRP 8
+        OUT
+// https://asciinema.org/a/s7Ol5SNffDrbBNmI8g2nO6r7P

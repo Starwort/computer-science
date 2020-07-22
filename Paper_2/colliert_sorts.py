@@ -1,3 +1,9 @@
+---
+layout: default
+title: colliert_sorts | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 def merge_sort(to_be_sorted: list) -> list:
     if not isinstance(to_be_sorted, list):
         to_be_sorted = list(to_be_sorted)

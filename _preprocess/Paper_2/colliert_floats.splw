@@ -1,0 +1,53 @@
+REQUIRE official.python3
+
+/* N64-style floats
+ Consists of:
+  - 1-bit sign
+  - signed 8-bit exponent
+  - unsigned 23-bit mantissa
+*/
+
+INPUT float base10
+
+IF base10 < 0 OR CAST str base10 = '-0.0' DO
+    SET sign TO 1 // negative
+    SET base10 TO -base10 // negate base10 so it's positive
+ELSE DO
+    SET sign TO 0 // positive
+END IF
+
+IF base10 = INFINITY DO // floats can handle infinity
+    SET exponent TO 127 // maximum value in 8 bits
+    SET mantissa TO 8388607 // maximum value in unsigned 23 bits
+ELSE IF base10 = 0 DO
+    SET exponent TO -128 // minimum value in 8 bits
+    SET mantissa TO 0 // minimum value in unsigned 23 bits
+ELSE DO
+    SET tmp TO CALL math.log2 WITH base10
+    SET exponent TO CALL math.floor WITH tmp
+    IF exponent > 127 DO // cap value at infinity
+        SET exponent TO 127
+        SET mantissa TO 8388607
+    ELSE IF exponent < -128 DO // cap value at 0
+        SET exponent TO -128
+        SET mantissa TO 0
+    ELSE DO
+        SET value TO base10 - CALL math.pow WITH 2, exponent // calculate distance into current interval
+        SET gap_size TO exponent - 23
+        SET interval TO CALL math.pow WITH 2, gap_size // calculate interval width
+        SET mantissa TO CALL _INTERPRETER.round WITH value / interval // calculate mantissa
+    END IF
+END IF
+
+// convert sign, exponent, and mantissa to bits representing them
+FUNCTION to_bits TAKES int sign, int exponent, int mantissa -> float AS
+    SET sign TO sign << 31 // position for bitwise or
+    SET exponent TO exponent % 256 // mod 256 to convert to U8
+    SET exponent TO exponent << 23 // position for bitwise or
+RETURN sign | exponent | mantissa
+
+SET canon_rep TO CALL to_bits WITH sign, exponent, mantissa
+SET bin_rep TO CALL _INTERPRETER.eval WITH RAW bin($canon_rep)[2:].zfill(32)
+SET hex_rep TO CALL _INTERPRETER.eval WITH RAW hex($canon_rep)[2:].zfill(8)
+OUTPUT The bitwise representation of the converted floating point number is: 0b$bin_rep
+OUTPUT In hex, that is: 0x$hex_rep

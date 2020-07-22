@@ -1,3 +1,9 @@
+---
+layout: default
+title: 04_ac2 | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 // To declare a constant you need to write it like this:
 // one DAT 1 (this will give the variable one the value 1 and it will not change).
 // Using this, add to your previous program to count the number of times you can successfully subtract the smaller number.

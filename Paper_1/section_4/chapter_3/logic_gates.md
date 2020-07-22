@@ -1,3 +1,9 @@
+---
+layout: default
+title: logic_gates | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 # Logic Gates
 
 ← [Back to Chapter 3](./index.html)

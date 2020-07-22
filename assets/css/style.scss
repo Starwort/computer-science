@@ -1,9 +1,28 @@
 ---
 ---
 
-@import "";
-@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
+// Headers
+$header-heading-color: #fff;
+$header-bg-color: #bb86fc;
+$header-bg-color-secondary: #03dac6;
 
+// Text
+$section-headings-color: #bb86fc;
+$body-text-color: #ffffff;
+$body-link-color: #03dac6;
+$blockquote-text-color: #aaaaaa;
+
+// Code
+$code-bg-color: rgba(255, 255, 255, 5%);
+$code-text-color: #ffffff;
+
+// Borders
+$border-color: rgba(255,255,255,5%);
+$table-border-color: #bb86fc;
+$hr-border-color: #bb86fc;
+
+@import "{{ site.theme }}";
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
 pre, code {
-    font-family: "Source Code Pro";
+    font-family: "Source Code Pro" !important;
 }

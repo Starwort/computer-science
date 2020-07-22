@@ -1,3 +1,9 @@
+---
+layout: default
+title: intermediate_challenge_1 | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 // Ask the user for 2 numbers. If they are the same then double the number and print it out. If they are different then print them both out individually.
 
         INP

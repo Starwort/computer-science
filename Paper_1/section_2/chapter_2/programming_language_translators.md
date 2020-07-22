@@ -1,3 +1,9 @@
+---
+layout: default
+title: programming_language_translators | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 <style>
     :not(ul) + ol {
         counter-reset: list-ctr;

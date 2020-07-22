@@ -1,0 +1,18 @@
+// Ask the user for 2 numbers. Print out biggest, then the smallest.
+
+        INP
+        STA 0
+        INP
+        SUB 0
+        BRP bigger
+        ADD 0
+        STA 1
+        LDA 0
+        OUT
+        LDA 1
+        OUT
+        HLT
+bigger  ADD 0
+        OUT
+        LDA 0
+        OUT

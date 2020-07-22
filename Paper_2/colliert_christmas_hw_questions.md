@@ -1,3 +1,9 @@
+---
+layout: default
+title: colliert_christmas_hw_questions | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 <style>
     ol {
         counter-reset: list-ctr;

@@ -1,3 +1,9 @@
+---
+layout: default
+title: colliert_bondm5.1.3-1 | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 def quot_and_rem(x, y):
     assert x >= 0
     assert y > 0

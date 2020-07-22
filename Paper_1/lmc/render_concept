@@ -1,3 +1,9 @@
+---
+layout: default
+title: render_concept | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 ┌────┬──────────────────────────┬─┐ ┌──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐ ┌───────────────────────────────┐
 │ 00 │ LABEL   MNEMON  MAILBOX  │▲│ │  00  │  01  │  02  │  03  │  04  │  05  │  06  │  07  │  08  │  09  │ │                               │
 │ 01 │ LABEL   MNEMON  MAILBOX  ├─┤ │ -999 │ -999 │ -999 │ -999 │ -999 │ -999 │ -999 │ -999 │ -999 │ -999 │ │  Accumulator  Program Counter │

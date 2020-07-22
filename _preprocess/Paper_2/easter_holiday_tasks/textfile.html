@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>3. Read a text file from your hard disk and display its contents.</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
+    <style>
+        pre {
+            font-family: 'Source Code Pro';
+        }
+    </style>
+</head>
+
+<body>
+    <p>← <a href="./index.html">Back to Easter Tasks</a></p>
+    <label for="input">Pick a file to display its contents:</label>
+    <input type="file" id="input">
+    <button onclick="display()">Display file contents</button>
+    <pre><p id="filecontents"></p></pre>
+    <script>
+        var contents = document.getElementById("filecontents");
+        var filein = document.getElementById("input");
+
+        function display() {
+            if (input.files[0]) {
+                var reader = new FileReader();
+                reader.readAsText(input.files[0]);
+                reader.onload = function(evt) {
+                    contents.textContent = evt.target.result;
+                };
+                reader.onerror = function(evt) {
+                    contents.textContent = "Error reading file";
+                };
+            }
+        }
+    </script>
+</body>
+
+</html>

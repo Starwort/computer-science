@@ -1,3 +1,9 @@
+---
+layout: default
+title: thinking_concurrently | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 <style>
     @counter-style question {
         prefix: "Q";

@@ -1,3 +1,9 @@
+---
+layout: default
+title: fibonacci | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 import time, functools, sys, argparse
 
 parser = argparse.ArgumentParser()

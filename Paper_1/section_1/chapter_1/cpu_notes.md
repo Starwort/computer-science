@@ -1,3 +1,9 @@
+---
+layout: default
+title: cpu_notes | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 # CPU
 
 ← [Back to Chapter 1](./index.html)

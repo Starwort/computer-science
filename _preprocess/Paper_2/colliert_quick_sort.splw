@@ -1,0 +1,32 @@
+REQUIRE python3
+
+FUNCTION partition <- LIST A, INT low, INT high -> INT AS
+    SET pivot TO A[high]
+    SET i TO low
+    FOR j OF CALL _INTERPRETER.range WITH low, high DO
+        IF A[j] < pivot DO
+            SET tmp TO A[i]
+            SET A[i] TO A[j]
+            SET A[j] TO tmp
+            INC i
+        END IF
+    END FOR
+    SET A[high] TO A[i]
+    SET A[i] TO pivot
+RETURN i
+
+PROCEDURE quick_sort_range <- LIST A, INT low, INT high AS
+    IF low < high DO
+        SET p TO CALL partition WITH A, low, high
+        CALL quick_sort_range WITH A, low, p - 1
+        CALL quick_sort_range WITH A, p + 1, high
+    END IF
+END PROCEDURE
+
+PROCEDURE iquick_sort <- LIST A AS
+    CALL quick_sort_range WITH A, 0, A.length - 1
+END PROCEDURE
+FUNCTION quick_sort <- LIST A -> LIST AS
+    SET A TO CALL A.copy
+    CALL iquick_sort WITH A
+RETURN A

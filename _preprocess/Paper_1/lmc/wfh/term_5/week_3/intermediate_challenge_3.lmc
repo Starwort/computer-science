@@ -1,0 +1,11 @@
+// Ask the user for 2 numbers, print out the result of the biggest number minus the smallest number.
+
+        INP
+        STA 0
+        INP
+        SUB 0
+        BRP out_
+        STA 0
+        SUB 0
+        SUB 0
+out_    OUT

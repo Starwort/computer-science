@@ -1,3 +1,9 @@
+---
+layout: default
+title: colliert_quick_sort | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 REQUIRE python3
 
 FUNCTION partition <- LIST A, INT low, INT high -> INT AS

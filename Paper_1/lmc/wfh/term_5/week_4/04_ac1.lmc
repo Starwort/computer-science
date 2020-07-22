@@ -1,3 +1,9 @@
+---
+layout: default
+title: 04_ac1 | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 // Ask the user for a big number, then a small number. Using only a BRP to loop round, keep subtracting the smaller number until you get past zero, then output the result.
         INP
         STA 0

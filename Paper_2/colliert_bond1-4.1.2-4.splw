@@ -1,3 +1,9 @@
+---
+layout: default
+title: colliert_bond1-4.1.2-4 | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 INPUT POS INT n
 SET out TO n * (n + 1) DIVI 2
 OUTPUT $out

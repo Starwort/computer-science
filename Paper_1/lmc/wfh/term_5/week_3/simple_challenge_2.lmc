@@ -1,3 +1,9 @@
+---
+layout: default
+title: simple_challenge_2 | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+---
+
 // Write a program that asks for two numbers. It then outputs the first number subtracting the second number and then outputs the second number subtracting the first number. Eg if 3 and 5 were entered the first sum would be 3-5 and the second sum would be 5-3.
 
         INP
