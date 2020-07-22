@@ -1,9 +1,3 @@
----
-layout: default
-title: intermediate_challenge_3 | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
----
-
 // Ask the user for 2 numbers, print out the result of the biggest number minus the smallest number.
 
         INP

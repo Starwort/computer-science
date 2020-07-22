@@ -1,9 +1,3 @@
----
-layout: default
-title: fibonacci_no_cache | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
----
-
 using System;
 class MainClass {
     static ulong START_0 = 1;

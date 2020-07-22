@@ -1,9 +1,3 @@
----
-layout: default
-title: inheritance | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
----
-
 abstract base class Person {
     str name;
     int age;

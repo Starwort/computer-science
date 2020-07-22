@@ -1,9 +1,3 @@
----
-layout: default
-title: colliert_floats_better | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
----
-
 from math import trunc, floor, ceil
 
 BIT_LENGTH_EXPONENT = 11  # N64 uses 8 bits

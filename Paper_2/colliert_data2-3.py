@@ -1,9 +1,3 @@
----
-layout: default
-title: colliert_data2-3 | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
----
-
 sales = [[[None for i in range(2)] for i in range(4)] for i in range(5)]
 # btw you messed up your diagram
 while True:

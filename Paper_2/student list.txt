@@ -1,9 +1,3 @@
----
-layout: default
-title: student list | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
----
-
 Anna 17, 12AB, Maths, Chemistry, Comp. Sci.
 Bob 17, 12BC, English, History, Comp. Sci.
 Chris 17, 12CD, Maths, Further Maths, Comp. Sci., Physics
