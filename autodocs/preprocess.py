@@ -45,10 +45,13 @@ def copy_folder(
                 copy_folder(node, page_footer, max(leave - 1, 0))
             else:
                 real_fpath = relpath(node[2], "_preprocess")
-                data = generate_page_meta(
-                    title=f"{node[0]} | Computer Science",
-                    footer=page_footer,
-                ).encode("UTF-8")
+                if node[2].endswith(".md"):
+                    data = generate_page_meta(
+                        title=f"{node[0]} | Computer Science",
+                        footer=page_footer,
+                    ).encode("UTF-8")
+                else:
+                    data = b""
                 with open(node[2], "rb") as file:
                     data += file.read()
                 with open(real_fpath, "wb") as file:
