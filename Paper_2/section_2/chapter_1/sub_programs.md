@@ -1,7 +1,7 @@
 ---
 layout: default
-title: sub_programs | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+title: Sub_programs | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.1 "first hotfix" ⓒ Starwort, 2020
 ---
 
 # Sub Programs Activities

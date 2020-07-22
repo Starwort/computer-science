@@ -8,6 +8,7 @@ from tqdm import tqdm
 from .utils import (
     BaseNode,
     Node,
+    casify,
     collect_nodes,
     folder_node,
     generate_page_meta,
@@ -47,7 +48,7 @@ def copy_folder(
                 real_fpath = relpath(node[2], "_preprocess")
                 if node[2].endswith(".md"):
                     data = generate_page_meta(
-                        title=f"{node[0]} | Computer Science",
+                        title=f"{casify(node[0])} | Computer Science",
                         footer=page_footer,
                     ).encode("UTF-8")
                 else:

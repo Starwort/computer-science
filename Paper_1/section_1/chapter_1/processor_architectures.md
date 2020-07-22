@@ -1,7 +1,7 @@
 ---
 layout: default
-title: processor_architectures | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.0 "clean rewrite and preprocessing" ⓒ Starwort, 2020
+title: Processor_architectures | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.1 "first hotfix" ⓒ Starwort, 2020
 ---
 
 # Processor Architectures

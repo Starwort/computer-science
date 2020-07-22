@@ -1,9 +1,12 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = '2.0.0 "clean rewrite and preprocessing"'
+VERSION = "2.0.1"
+COMMENT = "first hotfix"
+
+ID_STRING = f'{VERSION} "{COMMENT}"'
 
 
 def run():
-    run_preprocess(VERSION)
-    run_index(VERSION)
+    run_preprocess(ID_STRING)
+    run_index(ID_STRING)
