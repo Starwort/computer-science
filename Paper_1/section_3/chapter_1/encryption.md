@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Encryption | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.1 "first hotfix" ⓒ Starwort, 2020
+footer: Preprocessed by AutoDocs.preprocess 2.0.2 "🦀 dumb indenting is gone 🦀" ⓒ Starwort, 2020
 ---
 
 # Encryption

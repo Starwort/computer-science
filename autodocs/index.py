@@ -26,11 +26,13 @@ ignore_files.append(".git")
 transtable = str.maketrans("-_", "  ")
 
 
-def nodes_to_tree(nodes: List[Node], depth=0) -> str:
+def nodes_to_tree(nodes: List[Node], need_indent: bool = False) -> str:
     """Take a directory as a list of nodes and return a markdown tree
 
     :param nodes: List of nodes in directory
     :type nodes: List[Node]
+    :param need_indent: Whether this node's tree needs indenting
+    :type need_indent: bool
     :return: Markdown directory tree
     :rtype: str
     """
@@ -39,12 +41,12 @@ def nodes_to_tree(nodes: List[Node], depth=0) -> str:
         if isinstance(node, list):
             out += "- " + format_node(folder_node(node)) + "\n"
             out += (
-                nodes_to_tree(cast(List[Node], node), depth=depth + 1)
+                nodes_to_tree(cast(List[Node], node), need_indent=True)
                 + "\n"
             )
         else:
             out += "- " + format_node(node) + "\n"
-    return indent(out or "- [Empty]", "  " * depth)
+    return indent(out or "- [Empty]", "  " * need_indent)
 
 
 def extless_name_to_display(extless_name: str) -> str:
