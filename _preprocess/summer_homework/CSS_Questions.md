@@ -9,7 +9,7 @@ li:empty {
 }
 </style>
 
-# CSS questions
+# CSS Questions
 
 ← [Back to Summer Homework](./index.html)
 

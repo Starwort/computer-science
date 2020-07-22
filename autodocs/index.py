@@ -72,7 +72,7 @@ def index(folder: str, footer: str, from_folder: str = "") -> None:
     with open(join(folder, "index.md"), "wb") as file:
         file.write(
             generate_page_meta(
-                layout="index",
+                layout="index_template",
                 footer=footer,
                 title=f"Index of {name} | Computer Science",
             ).encode("UTF-8")
@@ -131,4 +131,5 @@ def run_index(version: str) -> None:
     )
     folder_hierarchy = collect_folders(".", ignore_files, 1)
     rindex(folder_hierarchy, page_footer, "", 1)
+    index(".", page_footer)
 
