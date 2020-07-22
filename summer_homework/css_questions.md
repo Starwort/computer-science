@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="starwort.github.io/computer-science/style.css">
 <style>
 ol {
     list-style-type: lower-alpha;
