@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Operating Systems | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.2.0 "include git commit" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.2.1 "hotfix - documents actually work now" ⓒ Starwort, 2020
 ---
 
 <!-- 2343432205 -->

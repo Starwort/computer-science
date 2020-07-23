@@ -201,7 +201,7 @@ def sorted_files(source_dir: str) -> List[str]:
 
 
 @lru_cache
-def format_node(node: Node) -> str:
+def format_node(node: BaseNode) -> str:
     """Format node as a link
     
     :param node: The node to format
@@ -209,7 +209,11 @@ def format_node(node: Node) -> str:
     :return: The formatted node
     :rtype: str
     """
-    return f"[{get_icon(node[1])} {casify(node[0])}]({node[2]})"
+    if node[0].endswith(".md"):
+        name = node[0][:-3] + ".html"
+    else:
+        name = node[0]
+    return f"[{get_icon(node[1])} {casify(name)}]({node[2]})"
 
 
 @lru_cache
