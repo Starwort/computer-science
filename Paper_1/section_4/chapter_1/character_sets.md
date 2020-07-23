@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Character Sets | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.1.1 "indent </details>" ⓒ Starwort, 2020
+footer: Preprocessed by AutoDocs.preprocess 2.1.2 "tentative fix for kramdown weirdness" ⓒ Starwort, 2020
 ---
 
 <style>
