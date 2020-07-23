@@ -8,4 +8,4 @@ title: Index of Chapter 3 | Computer Science
 
 ← [Back to Chapter 3](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_procedurally](Paper_2/section_1/chapter_3/thinking_procedurally.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_procedurally](Paper_2/section_1/chapter_3/thinking_procedurally.md)

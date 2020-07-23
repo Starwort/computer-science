@@ -8,4 +8,4 @@ title: Index of Chapter 5 | Computer Science
 
 ← [Back to Chapter 5](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) questions](Paper_1/section_1/chapter_5/questions.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) questions](Paper_1/section_1/chapter_5/questions.md)

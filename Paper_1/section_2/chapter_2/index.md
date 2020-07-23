@@ -8,5 +8,5 @@ title: Index of Chapter 2 | Computer Science
 
 ← [Back to Chapter 2](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) nature_of_applications](Paper_1/section_2/chapter_2/nature_of_applications.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) programming_language_translators](Paper_1/section_2/chapter_2/programming_language_translators.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) nature_of_applications](Paper_1/section_2/chapter_2/nature_of_applications.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) programming_language_translators](Paper_1/section_2/chapter_2/programming_language_translators.md)

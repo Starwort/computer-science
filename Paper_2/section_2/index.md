@@ -10,23 +10,23 @@ title: Index of Section 2 | Computer Science
 
 - <details open><summary><a href='Paper_2/section_2/chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_1</a></summary>
 
-  - [![CLANG-FORMAT file](https://img.icons8.com/windows/512/4a90e2/file-configuration.png) clang-format](Paper_2/section_2/chapter_1/.clang-format)
-  - [![ file](https://img.icons8.com/windows/512/4a90e2/binary-file.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function)
-  - [![C file](https://img.icons8.com/windows/512/4a90e2/c.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function.c)
-  - [![OCRPSC file](https://img.icons8.com/windows/512/4a90e2/code-file.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function.ocrpsc)
+  - [![CLANG-FORMAT file](https://img.icons8.com/windows/512/bb86fc/file-configuration.png) clang-format](Paper_2/section_2/chapter_1/.clang-format)
+  - [![ file](https://img.icons8.com/windows/512/bb86fc/binary-file.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function)
+  - [![C file](https://img.icons8.com/windows/512/bb86fc/c.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function.c)
+  - [![OCRPSC file](https://img.icons8.com/windows/512/bb86fc/code-file.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function.ocrpsc)
   - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function.splw)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) programming_techniques](Paper_2/section_2/chapter_1/programming_techniques.md)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) recursion](Paper_2/section_2/chapter_1/recursion.md)
-  - [![C file](https://img.icons8.com/windows/512/4a90e2/c.png) sub_programs](Paper_2/section_2/chapter_1/sub_programs.c)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) sub_programs](Paper_2/section_2/chapter_1/sub_programs.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) programming_techniques](Paper_2/section_2/chapter_1/programming_techniques.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) recursion](Paper_2/section_2/chapter_1/recursion.md)
+  - [![C file](https://img.icons8.com/windows/512/bb86fc/c.png) sub_programs](Paper_2/section_2/chapter_1/sub_programs.c)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) sub_programs](Paper_2/section_2/chapter_1/sub_programs.md)
 
 </details>
 - <details open><summary><a href='Paper_2/section_2/classes_RENAME_LATER'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> classes_RENAME_LATER</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.md)
-  - [![PSC file](https://img.icons8.com/windows/512/4a90e2/code-file.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.psc)
-  - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.py)
-  - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) shape](Paper_2/section_2/classes_RENAME_LATER/shape.py)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.md)
+  - [![PSC file](https://img.icons8.com/windows/512/bb86fc/code-file.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.psc)
+  - [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.py)
+  - [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) shape](Paper_2/section_2/classes_RENAME_LATER/shape.py)
   - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) shape](Paper_2/section_2/classes_RENAME_LATER/shape.splw)
 
 </details>

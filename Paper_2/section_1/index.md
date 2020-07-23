@@ -10,26 +10,26 @@ title: Index of Section 1 | Computer Science
 
 - <details open><summary><a href='Paper_2/section_1/chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_1</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_abstractly](Paper_2/section_1/chapter_1/thinking_abstractly.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_abstractly](Paper_2/section_1/chapter_1/thinking_abstractly.md)
 
 </details>
 - <details open><summary><a href='Paper_2/section_1/chapter_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_2</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_ahead](Paper_2/section_1/chapter_2/thinking_ahead.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_ahead](Paper_2/section_1/chapter_2/thinking_ahead.md)
 
 </details>
 - <details open><summary><a href='Paper_2/section_1/chapter_3'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_3</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_procedurally](Paper_2/section_1/chapter_3/thinking_procedurally.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_procedurally](Paper_2/section_1/chapter_3/thinking_procedurally.md)
 
 </details>
 - <details open><summary><a href='Paper_2/section_1/chapter_4'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_4</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_logically](Paper_2/section_1/chapter_4/thinking_logically.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_logically](Paper_2/section_1/chapter_4/thinking_logically.md)
 
 </details>
 - <details open><summary><a href='Paper_2/section_1/chapter_5'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_5</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_concurrently](Paper_2/section_1/chapter_5/thinking_concurrently.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_concurrently](Paper_2/section_1/chapter_5/thinking_concurrently.md)
 
 </details>

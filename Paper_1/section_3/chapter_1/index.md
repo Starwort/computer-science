@@ -8,4 +8,4 @@ title: Index of Chapter 1 | Computer Science
 
 ← [Back to Chapter 1](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) encryption](Paper_1/section_3/chapter_1/encryption.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) encryption](Paper_1/section_3/chapter_1/encryption.md)

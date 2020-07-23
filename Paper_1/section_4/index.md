@@ -10,22 +10,22 @@ title: Index of Section 4 | Computer Science
 
 - <details open><summary><a href='Paper_1/section_4/chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_1</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) character_sets](Paper_1/section_4/chapter_1/character_sets.md)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) primitive_data_types](Paper_1/section_4/chapter_1/primitive_data_types.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) character_sets](Paper_1/section_4/chapter_1/character_sets.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) primitive_data_types](Paper_1/section_4/chapter_1/primitive_data_types.md)
 
 </details>
 - <details open><summary><a href='Paper_1/section_4/chapter_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_2</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) data_structures](Paper_1/section_4/chapter_2/data_structures.md)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) definitions](Paper_1/section_4/chapter_2/definitions.md)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) lists_and_linked_lists](Paper_1/section_4/chapter_2/lists_and_linked_lists.md)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) queues](Paper_1/section_4/chapter_2/queues.md)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) stacks](Paper_1/section_4/chapter_2/stacks.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) data_structures](Paper_1/section_4/chapter_2/data_structures.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) definitions](Paper_1/section_4/chapter_2/definitions.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) lists_and_linked_lists](Paper_1/section_4/chapter_2/lists_and_linked_lists.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) queues](Paper_1/section_4/chapter_2/queues.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) stacks](Paper_1/section_4/chapter_2/stacks.md)
 
 </details>
 - <details open><summary><a href='Paper_1/section_4/chapter_3'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_3</a></summary>
 
-  - [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png) gates](Paper_1/section_4/chapter_3/gates.png)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) logic_gates](Paper_1/section_4/chapter_3/logic_gates.md)
+  - [![PNG file](https://img.icons8.com/windows/512/bb86fc/image-document.png) gates](Paper_1/section_4/chapter_3/gates.png)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) logic_gates](Paper_1/section_4/chapter_3/logic_gates.md)
 
 </details>

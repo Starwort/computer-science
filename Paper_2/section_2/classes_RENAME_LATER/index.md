@@ -8,8 +8,8 @@ title: Index of Classes RENAME LATER | Computer Science
 
 ← [Back to Classes RENAME LATER](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.md)
-- [![PSC file](https://img.icons8.com/windows/512/4a90e2/code-file.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.psc)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) shape](Paper_2/section_2/classes_RENAME_LATER/shape.py)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.md)
+- [![PSC file](https://img.icons8.com/windows/512/bb86fc/code-file.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.psc)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) shape](Paper_2/section_2/classes_RENAME_LATER/shape.py)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) shape](Paper_2/section_2/classes_RENAME_LATER/shape.splw)

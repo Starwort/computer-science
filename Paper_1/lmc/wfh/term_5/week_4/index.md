@@ -8,9 +8,9 @@ title: Index of Week 4 | Computer Science
 
 ← [Back to Week 4](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 03._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/03._lmc_questions.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 04._lmc_advanced](Paper_1/lmc/wfh/term_5/week_4/04._lmc_advanced.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 03._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/03._lmc_questions.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 04._lmc_advanced](Paper_1/lmc/wfh/term_5/week_4/04._lmc_advanced.md)
 - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) 04_ac1](Paper_1/lmc/wfh/term_5/week_4/04_ac1.lmc)
 - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) 04_ac2](Paper_1/lmc/wfh/term_5/week_4/04_ac2.lmc)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 05._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/05._lmc_questions.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) lmc_questions_feedback](Paper_1/lmc/wfh/term_5/week_4/lmc_questions_feedback.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 05._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/05._lmc_questions.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) lmc_questions_feedback](Paper_1/lmc/wfh/term_5/week_4/lmc_questions_feedback.md)

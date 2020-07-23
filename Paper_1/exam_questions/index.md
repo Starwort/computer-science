@@ -8,6 +8,6 @@ title: Index of Exam Questions | Computer Science
 
 ← [Back to Exam Questions](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 2020_01_28](Paper_1/exam_questions/2020_01_28.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 2020_02_06](Paper_1/exam_questions/2020_02_06.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 2020_03_03](Paper_1/exam_questions/2020_03_03.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 2020_01_28](Paper_1/exam_questions/2020_01_28.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 2020_02_06](Paper_1/exam_questions/2020_02_06.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 2020_03_03](Paper_1/exam_questions/2020_03_03.md)

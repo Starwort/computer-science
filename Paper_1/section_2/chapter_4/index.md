@@ -8,8 +8,8 @@ title: Index of Chapter 4 | Computer Science
 
 ← [Back to Chapter 4](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) addressing](Paper_1/section_2/chapter_4/addressing.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) object_oriented_languages](Paper_1/section_2/chapter_4/object_oriented_languages.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) object_oriented_programming](Paper_1/section_2/chapter_4/object_oriented_programming.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) wfh_oop_exam_questions](Paper_1/section_2/chapter_4/wfh_oop_exam_questions.md)
-- [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png) wfh_oop_exam_questions](Paper_1/section_2/chapter_4/wfh_oop_exam_questions.png)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) addressing](Paper_1/section_2/chapter_4/addressing.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) object_oriented_languages](Paper_1/section_2/chapter_4/object_oriented_languages.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) object_oriented_programming](Paper_1/section_2/chapter_4/object_oriented_programming.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) wfh_oop_exam_questions](Paper_1/section_2/chapter_4/wfh_oop_exam_questions.md)
+- [![PNG file](https://img.icons8.com/windows/512/bb86fc/image-document.png) wfh_oop_exam_questions](Paper_1/section_2/chapter_4/wfh_oop_exam_questions.png)

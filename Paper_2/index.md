@@ -10,37 +10,37 @@ title: Index of Paper 2 | Computer Science
 
 - <details open><summary><a href='Paper_2/easter_holiday_tasks'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> easter_holiday_tasks</a></summary>
 
-  - [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) all](Paper_2/easter_holiday_tasks/all.html)
-  - [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) calculator](Paper_2/easter_holiday_tasks/calculator.html)
-  - [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) dropdown](Paper_2/easter_holiday_tasks/dropdown.html)
-  - [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) textfile](Paper_2/easter_holiday_tasks/textfile.html)
+  - [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) all](Paper_2/easter_holiday_tasks/all.html)
+  - [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) calculator](Paper_2/easter_holiday_tasks/calculator.html)
+  - [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) dropdown](Paper_2/easter_holiday_tasks/dropdown.html)
+  - [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) textfile](Paper_2/easter_holiday_tasks/textfile.html)
 
 </details>
 - <details open><summary><a href='Paper_2/section_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> section_1</a></summary>
 
   - <details open><summary><a href='Paper_2/section_1/chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_1</a></summary>
 
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_abstractly](Paper_2/section_1/chapter_1/thinking_abstractly.md)
+    - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_abstractly](Paper_2/section_1/chapter_1/thinking_abstractly.md)
 
   </details>
   - <details open><summary><a href='Paper_2/section_1/chapter_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_2</a></summary>
 
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_ahead](Paper_2/section_1/chapter_2/thinking_ahead.md)
+    - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_ahead](Paper_2/section_1/chapter_2/thinking_ahead.md)
 
   </details>
   - <details open><summary><a href='Paper_2/section_1/chapter_3'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_3</a></summary>
 
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_procedurally](Paper_2/section_1/chapter_3/thinking_procedurally.md)
+    - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_procedurally](Paper_2/section_1/chapter_3/thinking_procedurally.md)
 
   </details>
   - <details open><summary><a href='Paper_2/section_1/chapter_4'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_4</a></summary>
 
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_logically](Paper_2/section_1/chapter_4/thinking_logically.md)
+    - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_logically](Paper_2/section_1/chapter_4/thinking_logically.md)
 
   </details>
   - <details open><summary><a href='Paper_2/section_1/chapter_5'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_5</a></summary>
 
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_concurrently](Paper_2/section_1/chapter_5/thinking_concurrently.md)
+    - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_concurrently](Paper_2/section_1/chapter_5/thinking_concurrently.md)
 
   </details>
 
@@ -49,33 +49,33 @@ title: Index of Paper 2 | Computer Science
 
   - <details open><summary><a href='Paper_2/section_2/chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_1</a></summary>
 
-    - [![CLANG-FORMAT file](https://img.icons8.com/windows/512/4a90e2/file-configuration.png) clang-format](Paper_2/section_2/chapter_1/.clang-format)
-    - [![ file](https://img.icons8.com/windows/512/4a90e2/binary-file.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function)
-    - [![C file](https://img.icons8.com/windows/512/4a90e2/c.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function.c)
-    - [![OCRPSC file](https://img.icons8.com/windows/512/4a90e2/code-file.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function.ocrpsc)
+    - [![CLANG-FORMAT file](https://img.icons8.com/windows/512/bb86fc/file-configuration.png) clang-format](Paper_2/section_2/chapter_1/.clang-format)
+    - [![ file](https://img.icons8.com/windows/512/bb86fc/binary-file.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function)
+    - [![C file](https://img.icons8.com/windows/512/bb86fc/c.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function.c)
+    - [![OCRPSC file](https://img.icons8.com/windows/512/bb86fc/code-file.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function.ocrpsc)
     - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) main_and_function](Paper_2/section_2/chapter_1/main_and_function.splw)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) programming_techniques](Paper_2/section_2/chapter_1/programming_techniques.md)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) recursion](Paper_2/section_2/chapter_1/recursion.md)
-    - [![C file](https://img.icons8.com/windows/512/4a90e2/c.png) sub_programs](Paper_2/section_2/chapter_1/sub_programs.c)
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) sub_programs](Paper_2/section_2/chapter_1/sub_programs.md)
+    - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) programming_techniques](Paper_2/section_2/chapter_1/programming_techniques.md)
+    - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) recursion](Paper_2/section_2/chapter_1/recursion.md)
+    - [![C file](https://img.icons8.com/windows/512/bb86fc/c.png) sub_programs](Paper_2/section_2/chapter_1/sub_programs.c)
+    - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) sub_programs](Paper_2/section_2/chapter_1/sub_programs.md)
 
   </details>
   - <details open><summary><a href='Paper_2/section_2/classes_RENAME_LATER'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> classes_RENAME_LATER</a></summary>
 
-    - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.md)
-    - [![PSC file](https://img.icons8.com/windows/512/4a90e2/code-file.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.psc)
-    - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.py)
-    - [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) shape](Paper_2/section_2/classes_RENAME_LATER/shape.py)
+    - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.md)
+    - [![PSC file](https://img.icons8.com/windows/512/bb86fc/code-file.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.psc)
+    - [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) inheritance](Paper_2/section_2/classes_RENAME_LATER/inheritance.py)
+    - [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) shape](Paper_2/section_2/classes_RENAME_LATER/shape.py)
     - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) shape](Paper_2/section_2/classes_RENAME_LATER/shape.splw)
 
   </details>
 
 </details>
-- [![DLL file](https://img.icons8.com/windows/512/4a90e2/dll.png) Caching](Paper_2/Caching.dll)
-- [![C file](https://img.icons8.com/windows/512/4a90e2/c.png) bondm51122cython](Paper_2/bondm51122cython.c)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) bondm51122cython](Paper_2/bondm51122cython.py)
-- [![CS file](https://img.icons8.com/windows/512/4a90e2/cs.png) bubble](Paper_2/bubble.cs)
-- [![EXE file](https://img.icons8.com/windows/512/4a90e2/exe.png) bubble](Paper_2/bubble.exe)
+- [![DLL file](https://img.icons8.com/windows/512/bb86fc/dll.png) Caching](Paper_2/Caching.dll)
+- [![C file](https://img.icons8.com/windows/512/bb86fc/c.png) bondm51122cython](Paper_2/bondm51122cython.c)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) bondm51122cython](Paper_2/bondm51122cython.py)
+- [![CS file](https://img.icons8.com/windows/512/bb86fc/cs.png) bubble](Paper_2/bubble.cs)
+- [![EXE file](https://img.icons8.com/windows/512/bb86fc/exe.png) bubble](Paper_2/bubble.exe)
 - [![SH file](https://img.icons8.com/windows/512/4a90e2/important-file.png) build](Paper_2/build.sh)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_algorithms](Paper_2/colliert_algorithms.splw)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_bond1-4.1.2-1](Paper_2/colliert_bond1-4.1.2-1.splw)
@@ -83,49 +83,49 @@ title: Index of Paper 2 | Computer Science
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_bond1-4.1.2-3](Paper_2/colliert_bond1-4.1.2-3.splw)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_bond1-4.1.2-4](Paper_2/colliert_bond1-4.1.2-4.splw)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_bond1-4.1.2-5](Paper_2/colliert_bond1-4.1.2-5.splw)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_bondm5.1.1-1](Paper_2/colliert_bondm5.1.1-1.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_bondm5.1.1-1_v2](Paper_2/colliert_bondm5.1.1-1_v2.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_bondm5.1.1-2](Paper_2/colliert_bondm5.1.1-2.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_bondm5.1.1-1](Paper_2/colliert_bondm5.1.1-1.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_bondm5.1.1-1_v2](Paper_2/colliert_bondm5.1.1-1_v2.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_bondm5.1.1-2](Paper_2/colliert_bondm5.1.1-2.py)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_bondm5.1.1-2](Paper_2/colliert_bondm5.1.1-2.splw)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_bondm5.1.1-2_v2](Paper_2/colliert_bondm5.1.1-2_v2.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_bondm5.1.3-1](Paper_2/colliert_bondm5.1.3-1.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_bondm5.1.5-1](Paper_2/colliert_bondm5.1.5-1.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_bondm5.1.5-2](Paper_2/colliert_bondm5.1.5-2.py)
-- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) colliert_bubble_questions](Paper_2/colliert_bubble_questions.txt)
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) colliert_christmas_homework](Paper_2/colliert_christmas_homework.html)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) colliert_christmas_homework](Paper_2/colliert_christmas_homework.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) colliert_christmas_hw_questions](Paper_2/colliert_christmas_hw_questions.md)
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) colliert_christmas_hw_questions_pandoc_out](Paper_2/colliert_christmas_hw_questions_pandoc_out.html)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_cipher](Paper_2/colliert_cipher.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_bondm5.1.1-2_v2](Paper_2/colliert_bondm5.1.1-2_v2.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_bondm5.1.3-1](Paper_2/colliert_bondm5.1.3-1.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_bondm5.1.5-1](Paper_2/colliert_bondm5.1.5-1.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_bondm5.1.5-2](Paper_2/colliert_bondm5.1.5-2.py)
+- [![TXT file](https://img.icons8.com/windows/512/bb86fc/document.png) colliert_bubble_questions](Paper_2/colliert_bubble_questions.txt)
+- [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) colliert_christmas_homework](Paper_2/colliert_christmas_homework.html)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) colliert_christmas_homework](Paper_2/colliert_christmas_homework.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) colliert_christmas_hw_questions](Paper_2/colliert_christmas_hw_questions.md)
+- [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) colliert_christmas_hw_questions_pandoc_out](Paper_2/colliert_christmas_hw_questions_pandoc_out.html)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_cipher](Paper_2/colliert_cipher.py)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_cipher](Paper_2/colliert_cipher.splw)
-- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) colliert_data1](Paper_2/colliert_data1.txt)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_data2-1](Paper_2/colliert_data2-1.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_data2-2](Paper_2/colliert_data2-2.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_data2-3](Paper_2/colliert_data2-3.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_dicts](Paper_2/colliert_dicts.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_fixed-point](Paper_2/colliert_fixed-point.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_fixed-point_minified](Paper_2/colliert_fixed-point_minified.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_floats](Paper_2/colliert_floats.py)
+- [![TXT file](https://img.icons8.com/windows/512/bb86fc/document.png) colliert_data1](Paper_2/colliert_data1.txt)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_data2-1](Paper_2/colliert_data2-1.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_data2-2](Paper_2/colliert_data2-2.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_data2-3](Paper_2/colliert_data2-3.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_dicts](Paper_2/colliert_dicts.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_fixed-point](Paper_2/colliert_fixed-point.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_fixed-point_minified](Paper_2/colliert_fixed-point_minified.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_floats](Paper_2/colliert_floats.py)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_floats](Paper_2/colliert_floats.splw)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_floats_better](Paper_2/colliert_floats_better.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_floats_better](Paper_2/colliert_floats_better.py)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_mappings](Paper_2/colliert_mappings.splw)
-- [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png) colliert_merge_question_3](Paper_2/colliert_merge_question_3.png)
-- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) colliert_merge_question_3](Paper_2/colliert_merge_question_3.txt)
-- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) colliert_merge_questions](Paper_2/colliert_merge_questions.txt)
+- [![PNG file](https://img.icons8.com/windows/512/bb86fc/image-document.png) colliert_merge_question_3](Paper_2/colliert_merge_question_3.png)
+- [![TXT file](https://img.icons8.com/windows/512/bb86fc/document.png) colliert_merge_question_3](Paper_2/colliert_merge_question_3.txt)
+- [![TXT file](https://img.icons8.com/windows/512/bb86fc/document.png) colliert_merge_questions](Paper_2/colliert_merge_questions.txt)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_multiply_divide_up_to_16-crlf](Paper_2/colliert_multiply_divide_up_to_16-crlf.splw)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_multiply_divide_up_to_16](Paper_2/colliert_multiply_divide_up_to_16.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_multiply_divide_up_to_16](Paper_2/colliert_multiply_divide_up_to_16.py)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_multiply_divide_up_to_16](Paper_2/colliert_multiply_divide_up_to_16.splw)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_partition_exchange_sort](Paper_2/colliert_partition_exchange_sort.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_partition_exchange_sort](Paper_2/colliert_partition_exchange_sort.py)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_quick_sort](Paper_2/colliert_quick_sort.splw)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) colliert_sorts](Paper_2/colliert_sorts.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) colliert_sorts](Paper_2/colliert_sorts.py)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) colliert_sorts](Paper_2/colliert_sorts.splw)
-- [![CS file](https://img.icons8.com/windows/512/4a90e2/cs.png) fibonacci](Paper_2/fibonacci.cs)
-- [![EXE file](https://img.icons8.com/windows/512/4a90e2/exe.png) fibonacci](Paper_2/fibonacci.exe)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) fibonacci](Paper_2/fibonacci.py)
+- [![CS file](https://img.icons8.com/windows/512/bb86fc/cs.png) fibonacci](Paper_2/fibonacci.cs)
+- [![EXE file](https://img.icons8.com/windows/512/bb86fc/exe.png) fibonacci](Paper_2/fibonacci.exe)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) fibonacci](Paper_2/fibonacci.py)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) fibonacci](Paper_2/fibonacci.splw)
-- [![CS file](https://img.icons8.com/windows/512/4a90e2/cs.png) fibonacci_no_cache](Paper_2/fibonacci_no_cache.cs)
-- [![EXE file](https://img.icons8.com/windows/512/4a90e2/exe.png) fibonacci_no_cache](Paper_2/fibonacci_no_cache.exe)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) fix_line_endings](Paper_2/fix_line_endings.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) shuffle_sort](Paper_2/shuffle_sort.py)
-- [![TXT file](https://img.icons8.com/windows/512/4a90e2/document.png) student list](Paper_2/student list.txt)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) tk_arranger](Paper_2/tk_arranger.py)
+- [![CS file](https://img.icons8.com/windows/512/bb86fc/cs.png) fibonacci_no_cache](Paper_2/fibonacci_no_cache.cs)
+- [![EXE file](https://img.icons8.com/windows/512/bb86fc/exe.png) fibonacci_no_cache](Paper_2/fibonacci_no_cache.exe)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) fix_line_endings](Paper_2/fix_line_endings.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) shuffle_sort](Paper_2/shuffle_sort.py)
+- [![TXT file](https://img.icons8.com/windows/512/bb86fc/document.png) student list](Paper_2/student list.txt)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) tk_arranger](Paper_2/tk_arranger.py)

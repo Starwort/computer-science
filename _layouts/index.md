@@ -8,5 +8,5 @@ title: Index of  Layouts | Computer Science
 
 ← [Back to  Layouts](..)
 
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) default](_layouts/default.html)
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) index_template](_layouts/index_template.html)
+- [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) default](_layouts/default.html)
+- [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) index_template](_layouts/index_template.html)

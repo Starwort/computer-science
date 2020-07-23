@@ -8,6 +8,6 @@ title: Index of Chapter 1 | Computer Science
 
 ← [Back to Chapter 1](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) cpu_notes](Paper_1/section_1/chapter_1/cpu_notes.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) pipelining](Paper_1/section_1/chapter_1/pipelining.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) processor_architectures](Paper_1/section_1/chapter_1/processor_architectures.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) cpu_notes](Paper_1/section_1/chapter_1/cpu_notes.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) pipelining](Paper_1/section_1/chapter_1/pipelining.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) processor_architectures](Paper_1/section_1/chapter_1/processor_architectures.md)

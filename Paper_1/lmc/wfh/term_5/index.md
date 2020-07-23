@@ -10,28 +10,28 @@ title: Index of Term 5 | Computer Science
 
 - <details open><summary><a href='Paper_1/lmc/wfh/term_5/week_3'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> week_3</a></summary>
 
-  - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) intermediate_challenge_1](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_1.gif)
+  - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) intermediate_challenge_1](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_1.gif)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) intermediate_challenge_1](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_1.lmc)
-  - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) intermediate_challenge_2](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_2.gif)
+  - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) intermediate_challenge_2](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_2.gif)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) intermediate_challenge_2](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_2.lmc)
-  - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) intermediate_challenge_3](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_3.gif)
+  - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) intermediate_challenge_3](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_3.gif)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) intermediate_challenge_3](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_3.lmc)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) lmc_tasks](Paper_1/lmc/wfh/term_5/week_3/lmc_tasks.md)
-  - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) simple_challenge_1](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_1.gif)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) lmc_tasks](Paper_1/lmc/wfh/term_5/week_3/lmc_tasks.md)
+  - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) simple_challenge_1](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_1.gif)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) simple_challenge_1](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_1.lmc)
-  - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) simple_challenge_2](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_2.gif)
+  - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) simple_challenge_2](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_2.gif)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) simple_challenge_2](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_2.lmc)
-  - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) simple_challenge_3](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_3.gif)
+  - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) simple_challenge_3](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_3.gif)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) simple_challenge_3](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_3.lmc)
 
 </details>
 - <details open><summary><a href='Paper_1/lmc/wfh/term_5/week_4'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> week_4</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 03._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/03._lmc_questions.md)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 04._lmc_advanced](Paper_1/lmc/wfh/term_5/week_4/04._lmc_advanced.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 03._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/03._lmc_questions.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 04._lmc_advanced](Paper_1/lmc/wfh/term_5/week_4/04._lmc_advanced.md)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) 04_ac1](Paper_1/lmc/wfh/term_5/week_4/04_ac1.lmc)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) 04_ac2](Paper_1/lmc/wfh/term_5/week_4/04_ac2.lmc)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 05._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/05._lmc_questions.md)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) lmc_questions_feedback](Paper_1/lmc/wfh/term_5/week_4/lmc_questions_feedback.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 05._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/05._lmc_questions.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) lmc_questions_feedback](Paper_1/lmc/wfh/term_5/week_4/lmc_questions_feedback.md)
 
 </details>

@@ -8,8 +8,8 @@ title: Index of Autodocs | Computer Science
 
 ← [Back to Autodocs](..)
 
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) __init__](autodocs/__init__.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) filetypes](autodocs/filetypes.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) index](autodocs/index.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) preprocess](autodocs/preprocess.py)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) utils](autodocs/utils.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) __init__](autodocs/__init__.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) filetypes](autodocs/filetypes.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) index](autodocs/index.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) preprocess](autodocs/preprocess.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) utils](autodocs/utils.py)

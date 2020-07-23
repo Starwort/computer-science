@@ -8,4 +8,4 @@ title: Index of Chapter 4 | Computer Science
 
 ← [Back to Chapter 4](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) thinking_logically](Paper_2/section_1/chapter_4/thinking_logically.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) thinking_logically](Paper_2/section_1/chapter_4/thinking_logically.md)

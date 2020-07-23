@@ -8,7 +8,7 @@ title: Index of Easter Holiday Tasks | Computer Science
 
 ← [Back to Easter Holiday Tasks](..)
 
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) all](Paper_2/easter_holiday_tasks/all.html)
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) calculator](Paper_2/easter_holiday_tasks/calculator.html)
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) dropdown](Paper_2/easter_holiday_tasks/dropdown.html)
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) textfile](Paper_2/easter_holiday_tasks/textfile.html)
+- [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) all](Paper_2/easter_holiday_tasks/all.html)
+- [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) calculator](Paper_2/easter_holiday_tasks/calculator.html)
+- [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) dropdown](Paper_2/easter_holiday_tasks/dropdown.html)
+- [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) textfile](Paper_2/easter_holiday_tasks/textfile.html)

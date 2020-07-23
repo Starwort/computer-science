@@ -8,8 +8,8 @@ title: Index of Chapter 2 | Computer Science
 
 ← [Back to Chapter 2](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) data_structures](Paper_1/section_4/chapter_2/data_structures.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) definitions](Paper_1/section_4/chapter_2/definitions.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) lists_and_linked_lists](Paper_1/section_4/chapter_2/lists_and_linked_lists.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) queues](Paper_1/section_4/chapter_2/queues.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) stacks](Paper_1/section_4/chapter_2/stacks.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) data_structures](Paper_1/section_4/chapter_2/data_structures.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) definitions](Paper_1/section_4/chapter_2/definitions.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) lists_and_linked_lists](Paper_1/section_4/chapter_2/lists_and_linked_lists.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) queues](Paper_1/section_4/chapter_2/queues.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) stacks](Paper_1/section_4/chapter_2/stacks.md)

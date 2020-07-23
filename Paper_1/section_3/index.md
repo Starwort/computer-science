@@ -10,6 +10,6 @@ title: Index of Section 3 | Computer Science
 
 - <details open><summary><a href='Paper_1/section_3/chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_1</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) encryption](Paper_1/section_3/chapter_1/encryption.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) encryption](Paper_1/section_3/chapter_1/encryption.md)
 
 </details>

@@ -14,29 +14,29 @@ title: Index of Lmc | Computer Science
 
     - <details open><summary><a href='Paper_1/lmc/wfh/term_5/week_3'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> week_3</a></summary>
 
-      - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) intermediate_challenge_1](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_1.gif)
+      - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) intermediate_challenge_1](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_1.gif)
       - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) intermediate_challenge_1](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_1.lmc)
-      - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) intermediate_challenge_2](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_2.gif)
+      - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) intermediate_challenge_2](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_2.gif)
       - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) intermediate_challenge_2](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_2.lmc)
-      - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) intermediate_challenge_3](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_3.gif)
+      - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) intermediate_challenge_3](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_3.gif)
       - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) intermediate_challenge_3](Paper_1/lmc/wfh/term_5/week_3/intermediate_challenge_3.lmc)
-      - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) lmc_tasks](Paper_1/lmc/wfh/term_5/week_3/lmc_tasks.md)
-      - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) simple_challenge_1](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_1.gif)
+      - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) lmc_tasks](Paper_1/lmc/wfh/term_5/week_3/lmc_tasks.md)
+      - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) simple_challenge_1](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_1.gif)
       - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) simple_challenge_1](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_1.lmc)
-      - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) simple_challenge_2](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_2.gif)
+      - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) simple_challenge_2](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_2.gif)
       - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) simple_challenge_2](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_2.lmc)
-      - [![GIF file](https://img.icons8.com/windows/512/4a90e2/image-document.png) simple_challenge_3](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_3.gif)
+      - [![GIF file](https://img.icons8.com/windows/512/bb86fc/image-document.png) simple_challenge_3](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_3.gif)
       - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) simple_challenge_3](Paper_1/lmc/wfh/term_5/week_3/simple_challenge_3.lmc)
 
     </details>
     - <details open><summary><a href='Paper_1/lmc/wfh/term_5/week_4'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> week_4</a></summary>
 
-      - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 03._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/03._lmc_questions.md)
-      - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 04._lmc_advanced](Paper_1/lmc/wfh/term_5/week_4/04._lmc_advanced.md)
+      - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 03._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/03._lmc_questions.md)
+      - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 04._lmc_advanced](Paper_1/lmc/wfh/term_5/week_4/04._lmc_advanced.md)
       - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) 04_ac1](Paper_1/lmc/wfh/term_5/week_4/04_ac1.lmc)
       - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) 04_ac2](Paper_1/lmc/wfh/term_5/week_4/04_ac2.lmc)
-      - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) 05._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/05._lmc_questions.md)
-      - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) lmc_questions_feedback](Paper_1/lmc/wfh/term_5/week_4/lmc_questions_feedback.md)
+      - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) 05._lmc_questions](Paper_1/lmc/wfh/term_5/week_4/05._lmc_questions.md)
+      - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) lmc_questions_feedback](Paper_1/lmc/wfh/term_5/week_4/lmc_questions_feedback.md)
 
     </details>
 
@@ -45,12 +45,12 @@ title: Index of Lmc | Computer Science
 </details>
 - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) advanced_tasks](Paper_1/lmc/advanced_tasks.lmc)
 - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) beginner_tasks](Paper_1/lmc/beginner_tasks.lmc)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) bundled_interpreter](Paper_1/lmc/bundled_interpreter.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) bundled_interpreter](Paper_1/lmc/bundled_interpreter.py)
 - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) difference](Paper_1/lmc/difference.lmc)
 - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) equality](Paper_1/lmc/equality.lmc)
 - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) inputting_and_storing_numbers](Paper_1/lmc/inputting_and_storing_numbers.lmc)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) interpreter](Paper_1/lmc/interpreter.py)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) interpreter](Paper_1/lmc/interpreter.py)
 - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) medium_tasks](Paper_1/lmc/medium_tasks.lmc)
-- [![ file](https://img.icons8.com/windows/512/4a90e2/binary-file.png) render_concept](Paper_1/lmc/render_concept)
-- [![PY file](https://img.icons8.com/windows/512/4a90e2/py.png) render_lmc_computer](Paper_1/lmc/render_lmc_computer.py)
-- [![ file](https://img.icons8.com/windows/512/4a90e2/binary-file.png) render_template](Paper_1/lmc/render_template)
+- [![ file](https://img.icons8.com/windows/512/bb86fc/binary-file.png) render_concept](Paper_1/lmc/render_concept)
+- [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) render_lmc_computer](Paper_1/lmc/render_lmc_computer.py)
+- [![ file](https://img.icons8.com/windows/512/bb86fc/binary-file.png) render_template](Paper_1/lmc/render_template)

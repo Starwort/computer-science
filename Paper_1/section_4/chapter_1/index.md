@@ -8,5 +8,5 @@ title: Index of Chapter 1 | Computer Science
 
 ← [Back to Chapter 1](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) character_sets](Paper_1/section_4/chapter_1/character_sets.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) primitive_data_types](Paper_1/section_4/chapter_1/primitive_data_types.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) character_sets](Paper_1/section_4/chapter_1/character_sets.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) primitive_data_types](Paper_1/section_4/chapter_1/primitive_data_types.md)

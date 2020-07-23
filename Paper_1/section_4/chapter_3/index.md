@@ -8,5 +8,5 @@ title: Index of Chapter 3 | Computer Science
 
 ← [Back to Chapter 3](..)
 
-- [![PNG file](https://img.icons8.com/windows/512/4a90e2/image-document.png) gates](Paper_1/section_4/chapter_3/gates.png)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) logic_gates](Paper_1/section_4/chapter_3/logic_gates.md)
+- [![PNG file](https://img.icons8.com/windows/512/bb86fc/image-document.png) gates](Paper_1/section_4/chapter_3/gates.png)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) logic_gates](Paper_1/section_4/chapter_3/logic_gates.md)

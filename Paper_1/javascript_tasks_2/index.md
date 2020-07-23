@@ -8,7 +8,7 @@ title: Index of Javascript Tasks 2 | Computer Science
 
 ← [Back to Javascript Tasks 2](..)
 
-- [![JS file](https://img.icons8.com/windows/512/4a90e2/js.png) html](Paper_1/javascript_tasks_2/html.js)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) javascript](Paper_1/javascript_tasks_2/javascript.md)
-- [![HTML file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) markdown](Paper_1/javascript_tasks_2/markdown.html)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) success](Paper_1/javascript_tasks_2/success.md)
+- [![JS file](https://img.icons8.com/windows/512/bb86fc/js.png) html](Paper_1/javascript_tasks_2/html.js)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) javascript](Paper_1/javascript_tasks_2/javascript.md)
+- [![HTML file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) markdown](Paper_1/javascript_tasks_2/markdown.html)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) success](Paper_1/javascript_tasks_2/success.md)

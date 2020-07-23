@@ -10,29 +10,29 @@ title: Index of Section 1 | Computer Science
 
 - <details open><summary><a href='Paper_1/section_1/chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_1</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) cpu_notes](Paper_1/section_1/chapter_1/cpu_notes.md)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) pipelining](Paper_1/section_1/chapter_1/pipelining.md)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) processor_architectures](Paper_1/section_1/chapter_1/processor_architectures.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) cpu_notes](Paper_1/section_1/chapter_1/cpu_notes.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) pipelining](Paper_1/section_1/chapter_1/pipelining.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) processor_architectures](Paper_1/section_1/chapter_1/processor_architectures.md)
 
 </details>
 - <details open><summary><a href='Paper_1/section_1/chapter_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_2</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) cisc_and_risc](Paper_1/section_1/chapter_2/cisc_and_risc.md)
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) gpus](Paper_1/section_1/chapter_2/gpus.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) cisc_and_risc](Paper_1/section_1/chapter_2/cisc_and_risc.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) gpus](Paper_1/section_1/chapter_2/gpus.md)
 
 </details>
 - <details open><summary><a href='Paper_1/section_1/chapter_3'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_3</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) questions](Paper_1/section_1/chapter_3/questions.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) questions](Paper_1/section_1/chapter_3/questions.md)
 
 </details>
 - <details open><summary><a href='Paper_1/section_1/chapter_4'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_4</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) questions](Paper_1/section_1/chapter_4/questions.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) questions](Paper_1/section_1/chapter_4/questions.md)
 
 </details>
 - <details open><summary><a href='Paper_1/section_1/chapter_5'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> chapter_5</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) questions](Paper_1/section_1/chapter_5/questions.md)
+  - [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) questions](Paper_1/section_1/chapter_5/questions.md)
 
 </details>

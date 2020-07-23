@@ -8,5 +8,5 @@ title: Index of Chapter 2 | Computer Science
 
 ← [Back to Chapter 2](..)
 
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) cisc_and_risc](Paper_1/section_1/chapter_2/cisc_and_risc.md)
-- [![MD file](https://img.icons8.com/windows/512/4a90e2/regular-document.png) gpus](Paper_1/section_1/chapter_2/gpus.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) cisc_and_risc](Paper_1/section_1/chapter_2/cisc_and_risc.md)
+- [![MD file](https://img.icons8.com/windows/512/bb86fc/regular-document.png) gpus](Paper_1/section_1/chapter_2/gpus.md)
