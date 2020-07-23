@@ -209,7 +209,7 @@ def format_node(node: Node) -> str:
     :return: The formatted node
     :rtype: str
     """
-    return f"[{get_icon(node[1])} {node[0]}]({node[2]})"
+    return f"[{get_icon(node[1])} {casify(node[0])}]({node[2]})"
 
 
 @lru_cache
@@ -221,7 +221,7 @@ def html_format_node(node: Node) -> str:
     :return: The formatted node
     :rtype: str
     """
-    return f"<a href={node[2]!r}>{get_html_icon(node[1])} {node[0]}</a>"
+    return f"<a href={node[2]!r}>{get_html_icon(node[1])} {casify(node[0])}</a>"
 
 
 @lru_cache

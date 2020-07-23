@@ -84,7 +84,7 @@ def index(folder: str, footer: str, from_folder: str = "") -> None:
                 title=f"Index of {name} | Computer Science",
             ).encode("UTF-8")
         )
-        file.write(f"# {name}\n\n".encode("UTF-8"))
+        file.write(f"# **{name}**\n\n".encode("UTF-8"))
         if from_folder:
             file.write(
                 "← [Back to {}](..)\n\n".format(
