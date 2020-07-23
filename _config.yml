@@ -3,3 +3,6 @@ title: Computer Science
 lang: en-GB
 github:
   is_project_page: no
+markdown: kramdown
+kramdown:
+  parse_block_html: true
