@@ -13,6 +13,11 @@
     </script>
     {% endif %}
     <meta charset="UTF-8">
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#BB86FC">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <style>
         img {
             height: 1.2em;
@@ -27,11 +32,6 @@
             margin-bottom: 0em;
         }
     </style>
-    {% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#BB86FC">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
 
 <body>
