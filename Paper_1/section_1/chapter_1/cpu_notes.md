@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cpu Notes | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.5 "dumb gitignore handling is gone?" ⓒ Starwort, 2020
+footer: Preprocessed by AutoDocs.preprocess 2.0.6 "fix name of root directory" ⓒ Starwort, 2020
 ---
 
 # CPU

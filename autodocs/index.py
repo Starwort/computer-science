@@ -57,6 +57,8 @@ def extless_name_to_display(extless_name: str) -> str:
     :return: Display string described by extless_name
     :rtype: str
     """
+    if extless_name == ".":
+        extless_name = ""
     return casify(extless_name or "Computer Science")
 
 

@@ -1,8 +1,8 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = "2.0.5"
-COMMENT = "dumb gitignore handling is gone?"
+VERSION = "2.0.6"
+COMMENT = "fix name of root directory"
 
 ID_STRING = f'{VERSION} "{COMMENT}"'
 
