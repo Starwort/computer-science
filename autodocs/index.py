@@ -45,7 +45,7 @@ def nodes_to_tree(nodes: List[Node], need_indent: bool = False) -> str:
             )
             out += (
                 nodes_to_tree(cast(List[Node], node), need_indent=True)
-                + "\n</details>\n"
+                + "\n  </details>\n"
             )
         else:
             out += "- " + format_node(node) + "\n"

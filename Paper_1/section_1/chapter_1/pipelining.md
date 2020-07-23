@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pipelining | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.1.0 "collapsible folders (probably)" ⓒ Starwort, 2020
+footer: Preprocessed by AutoDocs.preprocess 2.1.1 "indent </details>" ⓒ Starwort, 2020
 ---
 
 # Pipelining
