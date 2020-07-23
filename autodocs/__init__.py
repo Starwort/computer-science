@@ -1,8 +1,8 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = "2.1.4"
-COMMENT = "update colour again"
+VERSION = "2.2.0"
+COMMENT = "include git commit"
 
 ID_STRING = f'{VERSION} "{COMMENT}"'
 

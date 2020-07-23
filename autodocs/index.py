@@ -80,7 +80,7 @@ def index(folder: str, footer: str, from_folder: str = "") -> None:
         file.write(
             generate_page_meta(
                 layout="index_template",
-                footer=footer,
+                autodoc_footer=footer,
                 title=f"Index of {name} | Computer Science",
             ).encode("UTF-8")
         )

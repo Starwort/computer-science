@@ -47,7 +47,14 @@
         {{ content }}
 
         <footer class="site-footer">
-            <span class="site-footer-credits">{{ page.footer }}</span>
+            <span class="site-footer-credits">
+                {{ page.autodoc_footer }}
+                <br>
+                Currently viewing commit <a
+                    href="https://github.com/Starwort/computer-science/commit/{{ site.github.build_revision }}">
+                    {{ site.github.build_revision | truncate: 7 "" }}
+                </a>
+            </span>
         </footer>
     </main>
 </body>
