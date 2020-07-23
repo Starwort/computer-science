@@ -37,9 +37,7 @@ def casify(source: str) -> str:
     :return: Casified string
     :rtype: str
     """
-    return " ".join(
-        map(casify_word, source.translate(transtable).split(" "))
-    )
+    return " ".join(map(casify_word, source.translate(transtable).split(" ")))
 
 
 @lru_cache
@@ -63,17 +61,37 @@ def get_name_and_extension(path: str) -> Tuple[str, str]:
 
 @lru_cache
 def get_icon(file_extension: str) -> str:
-    """Return the URL icon for the given file_extension
+    """Return the markdown icon for the given file_extension
     
-    :param file_extension: File extension for which to retrieve the icon URL
+    :param file_extension: File extension for which to retrieve the icon
     :type file_extension: str
-    :return: URL for the icon for file_extension
+    :return: Markdown for the icon for file_extension
     :rtype: str
     """
     if file_extension == "folder":
         return "![Folder]({})".format(filetype_to_url["folder"])
     return "![{} file]({})".format(
         file_extension.upper(),
+        filetype_to_url.get(
+            file_extension.lower(),
+            "https://img.icons8.com/windows/512/4a90e2/important-file.png",
+        ),
+    )
+
+
+@lru_cache
+def get_html_icon(file_extension: str) -> str:
+    """Return the HTML icon for the given file_extension
+    
+    :param file_extension: File extension for which to retrieve the icon
+    :type file_extension: str
+    :return: HTML for the icon for file_extension
+    :rtype: str
+    """
+    if file_extension == "folder":
+        return "<img title='Folder' src={!r}>".format(filetype_to_url["folder"])
+    return "<img title={!r} src={!r}>".format(
+        file_extension.upper() + " file",
         filetype_to_url.get(
             file_extension.lower(),
             "https://img.icons8.com/windows/512/4a90e2/important-file.png",
@@ -188,6 +206,7 @@ def sorted_files(source_dir: str) -> List[str]:
     )
 
 
+@lru_cache
 def format_node(node: Node) -> str:
     """Format node as a link
     
@@ -200,15 +219,23 @@ def format_node(node: Node) -> str:
 
 
 @lru_cache
+def html_format_node(node: Node) -> str:
+    """Format node as HTML
+    
+    :param node: The node to format
+    :type node: Node
+    :return: The formatted node
+    :rtype: str
+    """
+    return f"<a href={node[2]!r}>{get_html_icon(node[1])} {node[0]}</a>"
+
+
+@lru_cache
 def generate_page_meta(**kw: str) -> str:
     options = {"layout": "default"}
     options.update(kw)
     return "\n".join(
-        [
-            "---",
-            *(f"{key}: {value}" for key, value in options.items()),
-            "---\n\n",
-        ]
+        ["---", *(f"{key}: {value}" for key, value in options.items()), "---\n\n",]
     )
 
 

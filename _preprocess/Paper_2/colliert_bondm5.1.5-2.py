@@ -11,4 +11,5 @@ def fac(x):
         return 1
     return fac(x - 1) * x
 
+
 print(sum(Decimal(2 * i + 2) / fac(Decimal(2 * i + 1)) for i in range(args.n)))

@@ -1,8 +1,8 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = "2.0.6"
-COMMENT = "fix name of root directory"
+VERSION = "2.1.0"
+COMMENT = "collapsible folders (probably)"
 
 ID_STRING = f'{VERSION} "{COMMENT}"'
 

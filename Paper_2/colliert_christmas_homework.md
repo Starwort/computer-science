@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Colliert Christmas Homework | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.6 "fix name of root directory" ⓒ Starwort, 2020
+footer: Preprocessed by AutoDocs.preprocess 2.1.0 "collapsible folders (probably)" ⓒ Starwort, 2020
 ---
 
 # Christmas Homework

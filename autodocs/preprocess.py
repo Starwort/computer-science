@@ -16,14 +16,10 @@ from .utils import (
 )
 
 with open(".gitignore") as file:
-    ignore_files = [
-        i.strip("/\n") for i in file.readlines() if not i.startswith("#")
-    ]
+    ignore_files = [i.strip("/\n") for i in file.readlines() if not i.startswith("#")]
 
 
-def copy_folder(
-    folder: List[Node], page_footer: str, leave: int = 0
-) -> None:
+def copy_folder(folder: List[Node], page_footer: str, leave: int = 0) -> None:
     """Copy folder from _preprocess to the base directory, recursively
 
     :param folder: The nodes to copy
@@ -76,7 +72,5 @@ def run_preprocess(version: str) -> None:
         rmtree(folder)
     nodes = collect_nodes("_preprocess", ignore_files, 1)
     copy_folder(
-        nodes,
-        f"Preprocessed by AutoDocs.preprocess {version} ⓒ Starwort, 2020",
-        1,
+        nodes, f"Preprocessed by AutoDocs.preprocess {version} ⓒ Starwort, 2020", 1,
     )

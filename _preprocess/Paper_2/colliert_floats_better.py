@@ -22,9 +22,9 @@ class N64Float:
     Exponent = uint8
     Mantissa = uint23"""
 
-    __slots__ = ('sign', 'exponent', 'mantissa')
+    __slots__ = ("sign", "exponent", "mantissa")
 
-    def __init__(self, sign, exponent, mantissa), /:
+    def __init__(self, sign, exponent, mantissa, /):
         if not isinstance(sign, int):
             raise TypeError("sign must be an integer")
         if not isinstance(exponent, int):
