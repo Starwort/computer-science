@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sub Programs | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.1.3 "fix colour of missing files" ⓒ Starwort, 2020
+footer: Preprocessed by AutoDocs.preprocess 2.1.4 "update colour again" ⓒ Starwort, 2020
 ---
 
 # Sub Programs Activities
