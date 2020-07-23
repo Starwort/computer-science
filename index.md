@@ -299,7 +299,7 @@ title: Index of Computer Science | Computer Science
   - [![EXE file](https://img.icons8.com/windows/512/bb86fc/exe.png) fibonacci_no_cache](Paper_2/fibonacci_no_cache.exe)
   - [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) fix_line_endings](Paper_2/fix_line_endings.py)
   - [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) shuffle_sort](Paper_2/shuffle_sort.py)
-  - [![TXT file](https://img.icons8.com/windows/512/bb86fc/document.png) student list](Paper_2/student list.txt)
+  - [![TXT file](https://img.icons8.com/windows/512/bb86fc/document.png) student_list](Paper_2/student_list.txt)
   - [![PY file](https://img.icons8.com/windows/512/bb86fc/py.png) tk_arranger](Paper_2/tk_arranger.py)
 
   </details>

@@ -1,6 +1,6 @@
 from typing import Dict, List, Tuple
 
-with open("./student list.txt") as file:
+with open("./student_list.txt") as file:
     users: Dict[str, Tuple[int, str, List[str]]] = {}
     users_list: List[Tuple[str, List[str]]] = []
     # reading optimisation

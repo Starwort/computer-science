@@ -2,7 +2,7 @@
 REQUIRE python
 
 // open the file
-SET file TO CALL _INTERPRETER.open WITH './student list.txt'
+SET file TO CALL _INTERPRETER.open WITH './student_list.txt'
 // set a sentry
 SET line_tmp TO CALL file.readline
 // initialise the data structures
