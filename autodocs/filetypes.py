@@ -6,6 +6,7 @@ filetype_to_url = {
     "cs": "https://img.icons8.com/windows/512/bb86fc/cs.png",
     "json": "https://img.icons8.com/windows/512/bb86fc/placeholder-thumbnail-json-1.png",
     "css": "https://img.icons8.com/windows/512/bb86fc/css.png",
+    "scss": "https://img.icons8.com/windows/512/bb86fc/css.png",
     "js": "https://img.icons8.com/windows/512/bb86fc/js.png",
     "py": "https://img.icons8.com/windows/512/bb86fc/py.png",
     "dll": "https://img.icons8.com/windows/512/bb86fc/dll.png",
