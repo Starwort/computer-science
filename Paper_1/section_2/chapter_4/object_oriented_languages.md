@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Object_oriented_languages | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.2 "🦀 dumb indenting is gone 🦀" ⓒ Starwort, 2020
+title: Object Oriented Languages | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.5 "dumb gitignore handling is gone?" ⓒ Starwort, 2020
 ---
 
 <style>

@@ -1,8 +1,8 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = "2.0.2"
-COMMENT = "🦀 dumb indenting is gone 🦀"
+VERSION = "2.0.5"
+COMMENT = "dumb gitignore handling is gone?"
 
 ID_STRING = f'{VERSION} "{COMMENT}"'
 

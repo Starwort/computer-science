@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Character_sets | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.2 "🦀 dumb indenting is gone 🦀" ⓒ Starwort, 2020
+title: Character Sets | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.5 "dumb gitignore handling is gone?" ⓒ Starwort, 2020
 ---
 
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Lists_and_linked_lists | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.2 "🦀 dumb indenting is gone 🦀" ⓒ Starwort, 2020
+title: Lists And Linked Lists | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.5 "dumb gitignore handling is gone?" ⓒ Starwort, 2020
 ---
 
 <style>

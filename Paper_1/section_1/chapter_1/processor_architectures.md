@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Processor_architectures | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.0.2 "🦀 dumb indenting is gone 🦀" ⓒ Starwort, 2020
+title: Processor Architectures | Computer Science
+footer: Preprocessed by AutoDocs.preprocess 2.0.5 "dumb gitignore handling is gone?" ⓒ Starwort, 2020
 ---
 
 # Processor Architectures

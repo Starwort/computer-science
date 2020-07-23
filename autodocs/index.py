@@ -23,7 +23,7 @@ with open(".gitignore") as file:
 
 ignore_files.append("_preprocess")
 ignore_files.append(".git")
-transtable = str.maketrans("-_", "  ")
+ignore_files.append("__pycache__")
 
 
 def nodes_to_tree(nodes: List[Node], need_indent: bool = False) -> str:
@@ -57,7 +57,7 @@ def extless_name_to_display(extless_name: str) -> str:
     :return: Display string described by extless_name
     :rtype: str
     """
-    return casify(extless_name) or "Computer Science"
+    return casify(extless_name or "Computer Science")
 
 
 def index(folder: str, footer: str, from_folder: str = "") -> None:

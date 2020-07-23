@@ -11,6 +11,7 @@ BaseNode = Tuple[str, str, str]
 Node = Union[BaseNode, List[BaseNode]]
 BaseFolder = Dict[str, Node]
 Folder = Dict[str, Union[BaseFolder, Node]]
+transtable = str.maketrans("-_", "  ")
 
 
 @lru_cache
@@ -22,6 +23,8 @@ def casify_word(word: str) -> str:
     :return: Casified word
     :rtype: str
     """
+    if not word:
+        return ""
     return word[0].upper() + word[1:]
 
 
@@ -34,7 +37,9 @@ def casify(source: str) -> str:
     :return: Casified string
     :rtype: str
     """
-    return " ".join(map(casify_word, source.split(" ")))
+    return " ".join(
+        map(casify_word, source.translate(transtable).split(" "))
+    )
 
 
 @lru_cache
@@ -94,10 +99,12 @@ def collect_folders(
         desc=f"Scanning {source_directory}",
         leave=bool(leave),
     )
+    if source_directory == ".":
+        source_directory = ""
     folders: Dict[str, Folder] = {}
     for fname in files:
         full_fname = join(source_directory, fname)
-        if full_fname in ignored_folders:
+        if full_fname in ignored_folders or fname in ignored_folders:
             continue
         if isdir(full_fname):
             folders[fname] = collect_folders(
@@ -124,12 +131,14 @@ def collect_nodes(
         desc=f"Scanning {source_directory}",
         leave=bool(leave),
     )
+    if source_directory == ".":
+        source_directory = ""
     nodes: List[Node] = []
     for fname in files:
         if fname == "index.md":
             continue
         full_fname = join(source_directory, fname)
-        if full_fname in ignored_files:
+        if full_fname in ignored_files or fname in ignored_files:
             continue
         name, ext = get_name_and_extension(fname)
         if ext == "" and name in ["clang-format", "gitignore", "licence"]:

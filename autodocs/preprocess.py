@@ -1,14 +1,15 @@
 from genericpath import exists
 from os import mkdir
-from os.path import dirname, isdir, relpath
+from os.path import relpath
 from typing import List, cast
+from shutil import rmtree
 
 from tqdm import tqdm
 
 from .utils import (
-    BaseNode,
     Node,
     casify,
+    collect_folders,
     collect_nodes,
     folder_node,
     generate_page_meta,
@@ -68,6 +69,11 @@ def run_preprocess(version: str) -> None:
     :param version: AutoDocs version string
     :type version: str
     """
+    folders_to_remove = list(collect_folders("_preprocess", []))
+    for folder in tqdm(
+        folders_to_remove, desc="Cleaning preprocessed files", leave=True
+    ):
+        rmtree(folder)
     nodes = collect_nodes("_preprocess", ignore_files, 1)
     copy_folder(
         nodes,
