@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thinking Abstractly | Computer Science
-footer: Preprocessed by AutoDocs.preprocess 2.1.2 "add scss as an alias for css" ⓒ Starwort, 2020
+footer: Preprocessed by AutoDocs.preprocess 2.1.3 "fix colour of missing files" ⓒ Starwort, 2020
 ---
 
 <style>

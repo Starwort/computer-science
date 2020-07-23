@@ -1,8 +1,8 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = "2.1.2"
-COMMENT = "add scss as an alias for css"
+VERSION = "2.1.3"
+COMMENT = "fix colour of missing files"
 
 ID_STRING = f'{VERSION} "{COMMENT}"'
 

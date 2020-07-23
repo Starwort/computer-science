@@ -41,3 +41,5 @@ filetype_to_url = {
     "yml": "https://img.icons8.com/windows/512/bb86fc/code-file.png",
     "folder": "https://starwort.github.io/computer-science/icon-folder.png",
 }
+missing_file = "https://img.icons8.com/windows/512/bb86fc/important-file.png"
+

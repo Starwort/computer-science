@@ -5,7 +5,7 @@ from typing import Tuple, List, Union, Dict, cast
 
 from tqdm.auto import tqdm
 
-from .filetypes import filetype_to_url
+from .filetypes import filetype_to_url, missing_file
 
 BaseNode = Tuple[str, str, str]
 Node = Union[BaseNode, List[BaseNode]]
@@ -72,10 +72,7 @@ def get_icon(file_extension: str) -> str:
         return "![Folder]({})".format(filetype_to_url["folder"])
     return "![{} file]({})".format(
         file_extension.upper(),
-        filetype_to_url.get(
-            file_extension.lower(),
-            "https://img.icons8.com/windows/512/4a90e2/important-file.png",
-        ),
+        filetype_to_url.get(file_extension.lower(), missing_file),
     )
 
 
@@ -92,10 +89,7 @@ def get_html_icon(file_extension: str) -> str:
         return "<img title='Folder' src={!r}>".format(filetype_to_url["folder"])
     return "<img title={!r} src={!r}>".format(
         file_extension.upper() + " file",
-        filetype_to_url.get(
-            file_extension.lower(),
-            "https://img.icons8.com/windows/512/4a90e2/important-file.png",
-        ),
+        filetype_to_url.get(file_extension.lower(), missing_file),
     )
 
 
