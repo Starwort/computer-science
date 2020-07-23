@@ -48,11 +48,11 @@
 
         <footer class="site-footer">
             <span class="site-footer-credits">
-                {{ page.autodoc_footer }}
+                {{ page.autodoc_footer | markdownify }}
                 <br>
                 Currently viewing commit <a
                     href="https://github.com/Starwort/computer-science/commit/{{ site.github.build_revision }}">
-                    {{ site.github.build_revision | truncate: 7 "" }}
+                    {{ site.github.build_revision | truncate: 7, "" }}
                 </a>
             </span>
         </footer>

@@ -209,11 +209,11 @@ def format_node(node: BaseNode) -> str:
     :return: The formatted node
     :rtype: str
     """
-    if node[0].endswith(".md"):
-        name = node[0][:-3] + ".html"
+    if node[2].endswith(".md"):
+        url = node[2][:-3] + ".html"
     else:
-        name = node[0]
-    return f"[{get_icon(node[1])} {casify(name)}]({node[2]})"
+        url = node[2]
+    return f"[{get_icon(node[1])} {casify(node[0])}]({url})"
 
 
 @lru_cache

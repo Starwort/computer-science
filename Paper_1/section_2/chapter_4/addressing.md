@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Addressing | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.2.1 "hotfix - documents actually work now" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.2.2 "hotfix - documents *actually* actually work now" ⓒ Starwort, 2020
 ---
 
 # Addressing modes
