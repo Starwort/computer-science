@@ -9,3 +9,5 @@ title: Index of Summer Homework | Computer Science
 ← [Back to Computer Science](..)
 
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) CSS Questions](./summer_homework/CSS_Questions.html)
+- [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) OOP Questions](./summer_homework/OOP_Questions.html)
+- [![PNG file](https://img.icons8.com/windows/512/03dac6/image-document.png) Oop Img 1](./summer_homework/oop_img_1.png)

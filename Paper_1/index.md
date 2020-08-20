@@ -17,9 +17,9 @@ title: Index of Paper 1 | Computer Science
   </details>
 - <details open><summary><a href='./Paper_1/javascript_tasks_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Javascript Tasks 2</a></summary>
 
-  - [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) Html](./Paper_1/javascript_tasks_2/html.js)
-  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript](./Paper_1/javascript_tasks_2/javascript.html)
-  - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Markdown](./Paper_1/javascript_tasks_2/markdown.html)
+  - [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) HTML](./Paper_1/javascript_tasks_2/HTML.js)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) JavaScript](./Paper_1/javascript_tasks_2/JavaScript.html)
+  - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) MarkDown](./Paper_1/javascript_tasks_2/MarkDown.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Success](./Paper_1/javascript_tasks_2/success.html)
 
   </details>
@@ -77,7 +77,7 @@ title: Index of Paper 1 | Computer Science
 
   - <details open><summary><a href='./Paper_1/section_1/chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 1</a></summary>
 
-    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Cpu Notes](./Paper_1/section_1/chapter_1/cpu_notes.html)
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) CPU Notes](./Paper_1/section_1/chapter_1/CPU_notes.html)
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Pipelining](./Paper_1/section_1/chapter_1/pipelining.html)
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Processor Architectures](./Paper_1/section_1/chapter_1/processor_architectures.html)
 
@@ -163,11 +163,11 @@ title: Index of Paper 1 | Computer Science
     </details>
 
   </details>
+- [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) JS2](./Paper_1/JS2.js)
 - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) England](./Paper_1/england.html)
 - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Html For Miss Brown](./Paper_1/html_for_miss_brown.html)
 - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Tasks](./Paper_1/javascript_tasks.html)
 - [![PNG file](https://img.icons8.com/windows/512/03dac6/image-document.png) Javascript Tasks](./Paper_1/javascript_tasks.png)
-- [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) Js2](./Paper_1/js2.js)
 - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Miss Browns Page](./Paper_1/miss_browns_page.html)
 - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) NorthernIreland](./Paper_1/northernIreland.html)
 - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Oxford](./Paper_1/oxford.html)

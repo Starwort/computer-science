@@ -10,7 +10,7 @@ title: Index of Section 1 | Computer Science
 
 - <details open><summary><a href='./Paper_1/section_1/chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 1</a></summary>
 
-  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Cpu Notes](./Paper_1/section_1/chapter_1/cpu_notes.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) CPU Notes](./Paper_1/section_1/chapter_1/CPU_notes.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Pipelining](./Paper_1/section_1/chapter_1/pipelining.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Processor Architectures](./Paper_1/section_1/chapter_1/processor_architectures.html)
 
