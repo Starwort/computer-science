@@ -5,6 +5,6 @@ repos:
     hooks:
     -   id: autodoc
         name: document
-        entry: bash -c './autodocs.py 2>/dev/null; sleep 0.1' --
+        entry: bash -c './run_autodoc.py 2>/dev/null; sleep 0.5' --
         language: system
         verbose: false
