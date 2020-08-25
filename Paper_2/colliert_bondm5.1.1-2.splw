@@ -1,0 +1,14 @@
+REQUIRE python
+INPUT INT n
+
+SET start TO CALL time.time
+
+SET row TO n + 1
+SET rows TO n / 2
+
+OUTPUT row * rows
+
+SET end TO CALL time.time
+SET interval TO end - start
+SET interval TO CALL _INTERPRETER.round WITH interval * 1000, 2
+OUTPUT Took $interval ms.

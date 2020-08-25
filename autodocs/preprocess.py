@@ -1,8 +1,8 @@
 from genericpath import exists
 from os import mkdir
 from os.path import relpath
-from typing import List, cast
 from shutil import rmtree
+from typing import List, cast
 
 from tqdm import tqdm
 
@@ -69,7 +69,10 @@ def run_preprocess(version: str) -> None:
     for folder in tqdm(
         folders_to_remove, desc="Cleaning preprocessed files", leave=True
     ):
-        rmtree(folder)
+        try:
+            rmtree(folder)
+        except FileNotFoundError:
+            pass
     nodes = collect_nodes("_preprocess", ignore_files, 1)
     copy_folder(
         nodes, f"Preprocessed by AutoDocs.preprocess {version} ⓒ Starwort, 2020", 1,

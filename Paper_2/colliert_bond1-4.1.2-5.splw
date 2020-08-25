@@ -1,0 +1,10 @@
+INPUT POS INT n
+FUNCTION factorial <- INT x -> INT AS
+    IF x < 2 DO
+        SET rv TO 1
+    ELSE DO
+        SET rv TO x * CALL factorial WITH x - 1
+    END IF
+RETURN rv
+SET out TO CALL factorial WITH n
+OUTPUT $out

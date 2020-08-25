@@ -1,0 +1,11 @@
+// https://peterhigginson.co.uk/lmc/
+        INP
+        STA 0
+        INP
+        SUB 0
+        BRZ L_EQ
+        LDA 0
+        OUT
+        HLT
+L_EQ    OUT
+        HLT

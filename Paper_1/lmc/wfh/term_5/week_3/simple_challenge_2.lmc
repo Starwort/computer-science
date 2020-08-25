@@ -1,0 +1,13 @@
+// Write a program that asks for two numbers. It then outputs the first number subtracting the second number and then outputs the second number subtracting the first number. Eg if 3 and 5 were entered the first sum would be 3-5 and the second sum would be 5-3.
+
+        INP
+        STA 0
+        INP
+        STA 1
+        SUB 0
+        STA 2
+        LDA 0
+        SUB 1
+        OUT
+        LDA 2
+        OUT

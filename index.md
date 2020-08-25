@@ -327,6 +327,24 @@ title: Index of Computer Science | Computer Science
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Utils](autodocs/utils.py)
 
   </details>
+- <details open><summary><a href='programming_practice'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Programming Practice</a></summary>
+
+  - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](programming_practice/food_magnate_simulation.py)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Programming Tasks](programming_practice/food_magnate_simulation_programming_tasks.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Questions](programming_practice/food_magnate_simulation_questions.html)
+  - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Pythonic Food Magnate Simulation](programming_practice/pythonic_food_magnate_simulation.py)
+  - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Pythonic Food Magnate Simulation Task 1](programming_practice/pythonic_food_magnate_simulation_task_1.py)
+  - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Pythonic Food Magnate Simulation Task 2](programming_practice/pythonic_food_magnate_simulation_task_2.py)
+  - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Pythonic Food Magnate Simulation Task 3](programming_practice/pythonic_food_magnate_simulation_task_3.py)
+  - [![CAST file](https://img.icons8.com/windows/512/03dac6/important-file.png) Task 1](programming_practice/task_1.cast)
+  - [![DIFF file](https://img.icons8.com/windows/512/03dac6/important-file.png) Task 1](programming_practice/task_1.diff)
+  - [![CAST file](https://img.icons8.com/windows/512/03dac6/important-file.png) Task 2](programming_practice/task_2.cast)
+  - [![DIFF file](https://img.icons8.com/windows/512/03dac6/important-file.png) Task 2](programming_practice/task_2.diff)
+  - [![CAST file](https://img.icons8.com/windows/512/03dac6/important-file.png) Task 3](programming_practice/task_3.cast)
+  - [![DIFF file](https://img.icons8.com/windows/512/03dac6/important-file.png) Task 3](programming_practice/task_3.diff)
+  - [![PNG file](https://img.icons8.com/windows/512/03dac6/image-document.png) Task 3 Logic](programming_practice/task_3_logic.png)
+
+  </details>
 - <details open><summary><a href='summer_homework'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Summer Homework</a></summary>
 
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) CSS Questions](summer_homework/CSS_Questions.html)

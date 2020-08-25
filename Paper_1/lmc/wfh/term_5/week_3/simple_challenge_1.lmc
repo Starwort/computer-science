@@ -1,0 +1,12 @@
+// Write a program that enters 3 numbers such as 5, 8, 3 and then outputs them in reverse as in 3, 8, 5.
+
+        INP
+        STA 0
+        INP
+        STA 1
+        INP
+        OUT
+        LDA 1
+        OUT
+        LDA 0
+        OUT
