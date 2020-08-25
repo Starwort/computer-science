@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Success | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.0 "fix autodoc failing if it already deleted the folders" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.1 "hopefully fix indexes" ⓒ Starwort, 2020
 ---
 
 # Success

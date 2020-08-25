@@ -1,7 +1,7 @@
 from functools import lru_cache
-from os.path import basename, dirname, isdir, join
 from os import listdir
-from typing import Tuple, List, Union, Dict, cast
+from os.path import basename, dirname, isdir, join
+from typing import Dict, List, Tuple, Union, cast
 
 from tqdm.auto import tqdm
 
@@ -126,7 +126,7 @@ def collect_folders(
 
 
 def collect_nodes(
-    source_directory: str, ignored_files: List[str], leave: int = 0
+    source_directory: str, ignored_files: List[str], leave: int = 0, rel_path: str = "."
 ) -> List[Node]:
     """Collect all files within source_directory recursively, returning a
     list of nodes
@@ -150,19 +150,22 @@ def collect_nodes(
         if fname == "index.md":
             continue
         full_fname = join(source_directory, fname)
-        if full_fname in ignored_files or fname in ignored_files:
+        rel_fname = join(rel_path, fname)
+        if (
+            full_fname in ignored_files
+            or rel_fname in ignored_files
+            or fname in ignored_files
+        ):
             continue
         name, ext = get_name_and_extension(fname)
         if ext == "" and name in ["clang-format", "gitignore", "licence"]:
             ext = name
         if isdir(full_fname):
             nodes.append(
-                collect_nodes(
-                    full_fname, ignored_files, max(leave - 1, 0)
-                )  # type: ignore
+                collect_nodes(full_fname, ignored_files, max(leave - 1, 0), rel_fname)  # type: ignore
             )
         else:
-            nodes.append((name, ext, full_fname))
+            nodes.append((name, ext, rel_fname))
     return nodes
 
 
@@ -252,7 +255,7 @@ def folder_node(node: Node) -> BaseNode:
             path = files[0][2]
             for i in range(dirname_calls):
                 path = dirname(path)
-            return basename(path), "folder", path
+            return basename(path), "folder", join(".", path)
         return "[Empty folder]", "folder", "/computer-science/404.html"
     else:
         return node
