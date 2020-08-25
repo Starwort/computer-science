@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Colliert Christmas Homework | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.1 "hopefully fix indexes" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.1 "fix indexes" ⓒ Starwort, 2020
 ---
 
 # Christmas Homework
