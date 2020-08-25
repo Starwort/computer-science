@@ -1,0 +1,10 @@
+{"version": 2, "width": 158, "height": 35, "timestamp": 1598383840, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}, "title": "Food Magnate Simulation task 2"}
+[0.137891, "o", "Enter L for a large settlement, anything else for a normal size settlement: "]
+[2.778, "o", "\r\n"]
+[2.778265, "o", "Enter D for default companies, anything else to add your own start companies: "]
+[4.880497, "o", "D"]
+[5.354441, "o", "\r\n"]
+[5.354841, "o", "\r\n"]
+[5.355045, "o", "*********************************\r\n**********    MENU     **********\r\n*********************************\r\n1. Display details of households\r\n2. Display details of companies\r\n3. Modify company\r\n4. Add new company\r\n6. Advance to next day\r\nQ. Quit\r\n\r\nEnter your choice: "]
+[6.877773, "o", "1"]
+[7.327088, "o", "\r\n\r\n**********************************\r\n*** Details of all households: ***\r\n**********************************\r\n\r\n1     Coordinates: (2, 1)     Eat out probability: 0.8662711191059336\r\n2     Coordinates: (1, 1)     Eat out probability: 0.1560077715586593\r\n3     Coordinates: (2, 2)     Eat out probability: 0.13892032537786936\r\n4     Coordinates: (1, 0)     Eat out probability: 0.06829239990149838\r\n5     Coordinates: (0, 1)     Eat out probability: 0.2641523331392851\r\n6     Coordinates: (1, 2)     Eat out probability: 0.29782383355524933\r\n7     Coordinates: (2, 0)     Eat out probability: 0.3940438125397372\r\n8     Coordinates: (0, 0)     Eat out probability: 0.7402675357827544\r\n\r\n\r\n*********************************\r\n**********    MENU     **********\r\n*********************************\r\n1. Display details of households\r\n2. Display details of companies\r\n3. Modify company\r\n4. Add new company\r\n6. Advance to next day\r\nQ. Quit\r\n\r\nEnter your choice: "]

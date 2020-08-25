@@ -1,0 +1,18 @@
+--- pythonic_food_magnate_simulation.py	2020-08-25 20:26:05.231356597 +0100
++++ pythonic_food_magnate_simulation_task_1.py	2020-08-25 20:25:39.643373414 +0100
+@@ -570,8 +570,14 @@
+         print("1. Open new outlet")
+         print("2. Close outlet")
+         print("3. Expand outlet")
++        print("C. Cancel operation")
+         print()
+-        choice = input("Enter your choice: ")
++        choice = ""
++        while choice not in ["1", "2", "3", "C"]:
++            choice = input("Enter your choice: ")
++        if choice == "C":
++            print("Operation Cancelled")
++            return
+         print()
+         if choice == "2" or choice == "3":
+             outlet_index = int(input("Enter ID of outlet: "))

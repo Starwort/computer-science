@@ -1,0 +1,50 @@
+--- pythonic_food_magnate_simulation_task_2.py	2020-08-25 20:29:13.555230533 +0100
++++ pythonic_food_magnate_simulation_task_3.py	2020-08-25 21:05:16.135878339 +0100
+@@ -36,9 +36,9 @@
+ 
+ class Settlement:
+     def __init__(self) -> None:
+-        self._x_size = 3
+-        self._y_size = 3
+-        self._initial_households = 8
++        self._x_size = 1000
++        self._y_size = 1000
++        self._initial_households = 250
+         self._households: typing.List[Household] = []
+         self._create_households()
+ 
+@@ -496,22 +496,19 @@
+         print("*****   Events:   *****")
+         print("***********************")
+         print()
+-        had_event = False
+         if random.random() < 0.25:
+-            if random.random() < 0.25:
+-                had_event = True
+-                self._process_add_households_event()
+-            if random.random() < 0.5:
+-                had_event = True
+-                self._process_cost_of_fuel_change_event()
+-            if random.random() < 0.5:
+-                had_event = True
+-                self._process_reputation_change_event()
+-            if random.random() >= 0.5:
+-                had_event = True
+-                self._process_cost_change_event()
+-        if not had_event:
+-            print("No events")
++            self._process_add_households_event()
++            return
++        if random.random() < 0.5:
++            self._process_cost_of_fuel_change_event()
++            return
++        if random.random() < 0.5:
++            self._process_reputation_change_event()
++            return
++        if random.random() >= 0.5:
++            self._process_cost_change_event()
++            return
++        print("No events")
+ 
+     def process_day_end(self):
+         total_reputation: float = 0

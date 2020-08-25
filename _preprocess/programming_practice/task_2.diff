@@ -1,0 +1,33 @@
+--- pythonic_food_magnate_simulation_task_1.py	2020-08-25 20:25:39.643373414 +0100
++++ pythonic_food_magnate_simulation_task_2.py	2020-08-25 20:29:13.555230533 +0100
+@@ -36,9 +36,9 @@
+ 
+ class Settlement:
+     def __init__(self) -> None:
+-        self._x_size = 1000
+-        self._y_size = 1000
+-        self._initial_households = 250
++        self._x_size = 3
++        self._y_size = 3
++        self._initial_households = 8
+         self._households: typing.List[Household] = []
+         self._create_households()
+ 
+@@ -55,9 +55,14 @@
+         return self._y_size
+ 
+     def get_random_location(self) -> typing.Tuple[int, int]:
+-        x = random.randint(0, self.x_size - 1)
+-        y = random.randint(0, self.y_size - 1)
+-        return x, y
++        while True:
++            x = random.randint(0, self.x_size - 1)
++            y = random.randint(0, self.y_size - 1)
++            for household in self._households:
++                if (household.x, household.y) == (x, y):
++                    break
++            else:
++                return x, y
+ 
+     def _create_households(self) -> None:
+         for _ in range(self._initial_households):

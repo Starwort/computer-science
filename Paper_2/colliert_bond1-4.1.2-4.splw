@@ -1,3 +1,0 @@
-INPUT POS INT n
-SET out TO n * (n + 1) DIVI 2
-OUTPUT $out

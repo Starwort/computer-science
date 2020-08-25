@@ -5,4 +5,4 @@ import autodocs
 
 if __name__ == "__main__":
     autodocs.run()
-    subprocess.run("git add -Au".split())
+    subprocess.run("git add -A".split())
