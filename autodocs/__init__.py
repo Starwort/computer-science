@@ -1,8 +1,8 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = "2.2.3"
-COMMENT = "parent folders in indexes *should* now display properly"
+VERSION = "2.3.0"
+COMMENT = "fix autodoc failing if it already deleted the folders"
 
 ID_STRING = f'{VERSION} "{COMMENT}"'
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lists And Linked Lists | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.2.3 "parent folders in indexes *should* now display properly" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.0 "fix autodoc failing if it already deleted the folders" ⓒ Starwort, 2020
 ---
 
 <style>
