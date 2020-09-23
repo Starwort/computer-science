@@ -180,6 +180,13 @@ title: Index of Computer Science | Computer Science
   </details>
 - <details open><summary><a href='./Paper_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Paper 2</a></summary>
 
+  - <details open><summary><a href='./Paper_2/classwork'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Classwork</a></summary>
+
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Garden Planner](./Paper_2/classwork/garden_planner.html)
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Mobile Treasure Hunt](./Paper_2/classwork/mobile_treasure_hunt.html)
+    - [![PNG file](https://img.icons8.com/windows/512/03dac6/image-document.png) Oop Img 1](./Paper_2/classwork/oop_img_1.png)
+
+    </details>
   - <details open><summary><a href='./Paper_2/easter_holiday_tasks'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Easter Holiday Tasks</a></summary>
 
     - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) All](./Paper_2/easter_holiday_tasks/all.html)
@@ -329,6 +336,18 @@ title: Index of Computer Science | Computer Science
   </details>
 - <details open><summary><a href='./programming_practice'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Programming Practice</a></summary>
 
+  - <details open><summary><a href='./programming_practice/2020_09_23'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> 2020 09 23</a></summary>
+
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Questions](./programming_practice/2020_09_23/food_magnate_questions.html)
+    - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Pythonic Food Magnate Simulation](./programming_practice/2020_09_23/pythonic_food_magnate_simulation.py)
+    - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Pythonic Food Magnate Simulation Task 1](./programming_practice/2020_09_23/pythonic_food_magnate_simulation_task_1.py)
+    - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Pythonic Food Magnate Simulation Task 2](./programming_practice/2020_09_23/pythonic_food_magnate_simulation_task_2.py)
+    - [![CAST file](https://img.icons8.com/windows/512/03dac6/important-file.png) Task 1](./programming_practice/2020_09_23/task_1.cast)
+    - [![DIFF file](https://img.icons8.com/windows/512/03dac6/important-file.png) Task 1](./programming_practice/2020_09_23/task_1.diff)
+    - [![CAST file](https://img.icons8.com/windows/512/03dac6/important-file.png) Task 2](./programming_practice/2020_09_23/task_2.cast)
+    - [![DIFF file](https://img.icons8.com/windows/512/03dac6/important-file.png) Task 2](./programming_practice/2020_09_23/task_2.diff)
+
+    </details>
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](./programming_practice/food_magnate_simulation.py)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Programming Tasks](./programming_practice/food_magnate_simulation_programming_tasks.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Questions](./programming_practice/food_magnate_simulation_questions.html)

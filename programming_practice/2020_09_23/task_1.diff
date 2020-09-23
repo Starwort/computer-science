@@ -1,0 +1,22 @@
+--- pythonic_food_magnate_simulation.py	2020-09-23 11:58:54.447732873 +0100
++++ pythonic_food_magnate_simulation_task_1.py	2020-09-23 12:09:06.418788911 +0100
+@@ -397,6 +397,7 @@
+         print("2. Display details of companies")
+         print("3. Modify company")
+         print("4. Add new company")
++        print("5. Advance n days")
+         print("6. Advance to next day")
+         print("Q. Quit")
+         print()
+@@ -627,6 +628,11 @@
+                 self.modify_company(index)
+             elif choice == "4":
+                 self.add_company()
++            elif choice == "5":
++                for i in range(
++                    int(input("How many days would you like to advance?\n>>> "))
++                ):
++                    self.process_day_end()
+             elif choice == "6":
+                 self.process_day_end()
+             elif choice == "Q":

@@ -1,0 +1,54 @@
+--- pythonic_food_magnate_simulation_task_1.py	2020-09-23 12:09:06.418788911 +0100
++++ pythonic_food_magnate_simulation_task_2.py	2020-09-23 12:19:07.401744506 +0100
+@@ -103,6 +103,18 @@
+             self.add_household()
+ 
+ 
++class SmallSettlement(Settlement):
++    def __init__(
++        self, reduced_x_size: int, reduced_y_size: int, reduced_households: int
++    ) -> None:
++        super().__init__()
++        self._x_size -= reduced_x_size
++        self._y_size -= reduced_y_size
++        self._initial_households -= reduced_households
++        for _ in range(1, reduced_households + 1):
++            self._households.pop()
++
++
+ class Outlet:
+     def __init__(self, x: int, y: int, max_base_capacity: int) -> None:
+         self._x = x
+@@ -317,8 +329,8 @@
+         self._fuel_cost = 0.0098
+         self._delivery_base_cost = 100
+         choice = input(
+-            "Enter L for a large settlement, anything else for a "
+-            "normal size settlement: "
++            "Enter L for a large settlement, S for a small settlement, "
++            "anything else for a normal size settlement: "
+         ).upper()[:1]
+         if choice == "L":
+             extra_x = int(
+@@ -333,6 +345,21 @@
+             self._simulation_settlement: Settlement = LargeSettlement(
+                 extra_x, extra_y, extra_households
+             )
++        elif choice == "S":
++            reduced_x = int(
++                input("Enter amount by which to reduce X size of settlement: ")
++            )
++            reduced_y = int(
++                input("Enter amount by which to reduce Y size of settlement: ")
++            )
++            reduced_households = int(
++                input(
++                    "Enter amount by which to reduce number of households in settlement: "
++                )
++            )
++            self._simulation_settlement = SmallSettlement(
++                reduced_x, reduced_y, reduced_households
++            )
+         else:
+             self._simulation_settlement = Settlement()
+         choice = input(

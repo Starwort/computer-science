@@ -8,6 +8,13 @@ title: Index of Paper 2 | Computer Science
 
 ← [Back to Computer Science](..)
 
+- <details open><summary><a href='./classwork'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Classwork</a></summary>
+
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Garden Planner](./classwork/garden_planner.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Mobile Treasure Hunt](./classwork/mobile_treasure_hunt.html)
+  - [![PNG file](https://img.icons8.com/windows/512/03dac6/image-document.png) Oop Img 1](./classwork/oop_img_1.png)
+
+  </details>
 - <details open><summary><a href='./easter_holiday_tasks'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Easter Holiday Tasks</a></summary>
 
   - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) All](./easter_holiday_tasks/all.html)
