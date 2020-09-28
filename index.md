@@ -372,6 +372,15 @@ title: Index of Computer Science | Computer Science
   - [![PNG file](https://img.icons8.com/windows/512/03dac6/image-document.png) Task 3 Logic](./programming_practice/task_3_logic.png)
 
   </details>
+- <details open><summary><a href='././programming_project'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Programming Project</a></summary>
+
+  - <details open><summary><a href='./programming_project/lessons'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Lessons</a></summary>
+
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Software Development](./programming_project/lessons/software_development.html)
+
+    </details>
+
+  </details>
 - <details open><summary><a href='./summer_homework'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Summer Homework</a></summary>
 
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) CSS Questions](./summer_homework/CSS_Questions.html)
