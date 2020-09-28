@@ -1,5 +1,7 @@
 # Food Magnate Simulation Programming Tasks
 
+← [Back to Programming Practice](./index.html)
+
 *for the sake of my sanity I choose to complete these tasks in [the more pythonic version I created](./pythonic_food_magnate_simulation.py)*
 
 ## Task 1

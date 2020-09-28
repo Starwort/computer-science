@@ -19,6 +19,8 @@ ol>li:before {
 
 # Food Magnate Simulation Questions
 
+← [Back to Programming Practice](./index.html)
+
 1. State the name of an identifier for:
     1. A subroutine in the `Settlement` class that returns something other than a primitive value
 

@@ -6,6 +6,8 @@ autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.1 "fix indexes" ⓒ Star
 
 # Food Magnate Simulation questions
 
+← [Back to W/B 2020/09/21](./index.html)
+
 You have been given [the code for the Food Magnate Simulation](./pythonic_food_magnate_simulation.py). Using that code, answer the following questions:
 
 *N.B. this code was rewritten from the original by me during the summer so it conforms to [the Python style guide](https://www.python.org/dev/peps/pep-0008/). Most names have been recased from PascalCase to snake_case*
