@@ -1,0 +1,56 @@
+--- pythonic_food_magnate_simulation_task_2.py	2020-09-23 12:19:07.401744506 +0100
++++ pythonic_food_magnate_simulation_task_3.py	2020-09-25 14:45:36.495537146 +0100
+@@ -67,6 +67,10 @@
+         x, y = self.get_random_location()
+         self._households.append(Household(x, y))
+ 
++    def remove_household(self) -> None:
++        index = random.randint(0, self.no_households - 1)
++        self._households.pop(index)
++
+     def display_households(self) -> None:
+         print()
+         print("**********************************")
+@@ -112,7 +116,7 @@
+         self._y_size -= reduced_y_size
+         self._initial_households -= reduced_households
+         for _ in range(1, reduced_households + 1):
+-            self._households.pop()
++            self.remove_household()
+ 
+ 
+ class Outlet:
+@@ -442,11 +446,20 @@
+             print(company.process_day_end())
+             print()
+ 
+-    def _process_add_households_event(self) -> None:
++    def _process_add_remove_households_event(self) -> None:
+         no_new_households = random.randint(1, 4)
+-        for _ in range(no_new_households):
+-            self._simulation_settlement.add_household()
+-        print(f"{no_new_households} new households have been added to the settlement")
++        if random.random() < 0.3:
++            for _ in range(no_new_households):
++                self._simulation_settlement.remove_household()
++            print(
++                f"{no_new_households} new households have been removed from the settlement"
++            )
++        else:
++            for _ in range(no_new_households):
++                self._simulation_settlement.add_household()
++            print(
++                f"{no_new_households} new households have been added to the settlement"
++            )
+ 
+     def _process_cost_of_fuel_change_event(self) -> None:
+         fuel_cost_change = random.randint(1, 9) / 10
+@@ -521,7 +534,7 @@
+         if random.random() < 0.25:
+             if random.random() < 0.25:
+                 had_event = True
+-                self._process_add_households_event()
++                self._process_add_remove_households_event()
+             if random.random() < 0.5:
+                 had_event = True
+                 self._process_cost_of_fuel_change_event()

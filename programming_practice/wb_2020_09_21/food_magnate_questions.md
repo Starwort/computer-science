@@ -30,3 +30,18 @@ You have been given [the code for the Food Magnate Simulation](./pythonic_food_m
         - [Diff](./task_2.diff), [source](./pythonic_food_magnate_simulation_task_2.py)
     2. SCREEN CAPTURE(S) showing the results of the requested change
         - <script id="asciicast-lzwMKAPq7GPrsUgd2DZqMuQgJ" src="https://asciinema.org/a/lzwMKAPq7GPrsUgd2DZqMuQgJ.js" async></script><noscript><a href="https://asciinema.org/a/lzwMKAPq7GPrsUgd2DZqMuQgJ" target="_blank"><img src="https://asciinema.org/a/lzwMKAPq7GPrsUgd2DZqMuQgJ.svg" /></a></noscript>
+    4. '1' This question refers to the subroutine `_process_add_households_event` and the `_display_events_at_day_end` subroutine within the `Simulation` class.
+
+    Modify the subroutine `_process_add_households_event` in the `Simulation` class. Rename the subroutine to `_process_add_remove_households_event` and all calls to it so that they use the new identifier. Instead of just adding 1-4 houses to the settlement, there should be a 30% chance that 1-4 houses will leave the settlement instead.
+
+    The message displayed by the subroutine should be changed so that when houses are removed, it says removed from instead of added to.
+
+    Modify the subroutine `_display_events_at_day_end` in the Simulation class. The subroutine should always call the newly modified subroutine `_process_add_remove_households_event`.
+
+    Test the changes that you have made work:
+    - run the Skeleton Program
+    - leave the first prompt blank, to indicate a normal-sized settlement
+    - enter D at the next prompt for default companies
+    - enter 6 for 'advance to next day'
+    - enter 1 for 'display details of households'
+    - repeat this until households are removed from the settlement (and are added)
