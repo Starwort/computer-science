@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Object Oriented Languages | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.4.1 "remove text backlinks in index files" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.4.2 "fix backlink text" ⓒ Starwort, 2020
 has_back: true
 back_link: ./
 back_text: Back to Object Oriented Languages
