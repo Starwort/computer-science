@@ -16,7 +16,6 @@ from .utils import (
     html_format_node,
 )
 
-
 with open(".gitignore") as file:
     ignore_files = [i.strip("/\n") for i in file.readlines() if not i.startswith("#")]
 
@@ -82,6 +81,9 @@ def index(folder: str, footer: str, from_folder: str = "", leave: int = 0) -> No
                 layout="index_template",
                 autodoc_footer=footer,
                 title=f"Index of {name} | Computer Science",
+                has_title="true" if from_folder else "false",
+                back_link="..",
+                back_text=extless_name_to_display(basename(from_folder)),
             ).encode("UTF-8")
         )
         file.write(f"# **{name}**\n\n".encode("UTF-8"))

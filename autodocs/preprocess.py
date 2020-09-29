@@ -1,9 +1,9 @@
-from genericpath import exists
 from os import mkdir
 from os.path import relpath
 from shutil import rmtree
 from typing import List, cast
 
+from genericpath import exists
 from tqdm import tqdm
 
 from .utils import (
@@ -47,6 +47,7 @@ def copy_folder(folder: List[Node], page_footer: str, leave: int = 0) -> None:
                     data = generate_page_meta(
                         title=f"{casify(node[0])} | Computer Science",
                         autodoc_footer=page_footer,
+                        has_title="false",
                     ).encode("UTF-8")
                 else:
                     data = b""

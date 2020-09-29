@@ -17,13 +17,14 @@ $code-bg-color: rgba(255, 255, 255, 5%);
 $code-text-color: #ffffff;
 
 // Borders
-$border-color: rgba(255,255,255,5%);
+$border-color: rgba(255, 255, 255, 5%);
 $table-border-color: #bb86fc;
 $hr-border-color: #bb86fc;
 
 @import "{{ site.theme }}";
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
-pre, code {
+pre,
+code {
     font-family: "Source Code Pro" !important;
 }
 body {
@@ -38,7 +39,7 @@ body {
     position: absolute;
     overflow: hidden;
     top: -10px;
-  
+
     &:focus {
         position: fixed;
         top: 10px;
@@ -48,4 +49,16 @@ body {
         background: invert($body-link-color);
         outline: thick solid invert($body-link-color);
     }
+}
+#back {
+    position: sticky;
+    top: 10px;
+    left: 0px;
+    height: 75px;
+    margin: auto;
+    text-align: left;
+    background-color: #121212;
+    color: $header-bg-color;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
 }

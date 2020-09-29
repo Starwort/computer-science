@@ -42,4 +42,4 @@
       }
       ```
 
-06. Link the code fom the programming task: [programming_task.py](./programming_task.py)
+06. Link the code fom the programming task: [programming_task.py](https://github.com/Starwort/computer-science/blob/master/_preprocess/programming_practice/wb_2020_09_28/programming_task.py) [(download)](./programming_task.py)

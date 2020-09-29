@@ -2,6 +2,7 @@
 layout: default
 title: Lmc Tasks | Computer Science
 autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.1 "fix indexes" ⓒ Starwort, 2020
+has_title: false
 ---
 
 # LMC work from home

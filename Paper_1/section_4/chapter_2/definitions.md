@@ -2,6 +2,7 @@
 layout: default
 title: Definitions | Computer Science
 autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.1 "fix indexes" ⓒ Starwort, 2020
+has_title: false
 ---
 
 # Data structures definitions

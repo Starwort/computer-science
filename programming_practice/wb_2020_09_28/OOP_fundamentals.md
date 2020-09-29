@@ -2,6 +2,7 @@
 layout: default
 title: OOP Fundamentals | Computer Science
 autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.1 "fix indexes" ⓒ Starwort, 2020
+has_title: false
 ---
 
 # Fundamentals of OOP
@@ -48,4 +49,4 @@ autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.1 "fix indexes" ⓒ Star
       }
       ```
 
-06. Link the code fom the programming task: [programming_task.py](./programming_task.py)
+06. Link the code fom the programming task: [programming_task.py](https://github.com/Starwort/computer-science/blob/master/_preprocess/programming_practice/wb_2020_09_28/programming_task.py) [(download)](./programming_task.py)

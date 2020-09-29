@@ -2,6 +2,7 @@
 layout: default
 title: Nature Of Applications | Computer Science
 autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.1 "fix indexes" ⓒ Starwort, 2020
+has_title: false
 ---
 
 <style>
