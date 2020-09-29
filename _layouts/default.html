@@ -25,9 +25,6 @@
 
     <body>
         <a id="skip-to-content" href="#content">Skip to the content.</a>
-        {% if page.has_back %}
-        <a id="back" href="{{ page.back_link }}">{{ page.back_text }}</a>
-        {% endif %}
 
         <header class="page-header" role="banner">
             <h1 class="project-name">
@@ -37,6 +34,10 @@
                 {{ page.description | default: site.description | default: site.github.project_tagline }}
             </h2>
         </header>
+
+        {% if page.has_back %}
+        <a id="back" href="{{ page.back_link }}">{{ page.back_text }}</a>
+        {% endif %}
 
         <main id="content" class="main-content" role="main">
             {{ content }}
