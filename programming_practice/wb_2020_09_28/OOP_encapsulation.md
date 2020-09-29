@@ -1,10 +1,10 @@
 ---
 layout: default
 title: OOP Encapsulation | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.4.2 "fix backlink text" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.4.3 "fix backlink text for preprocessed MarkDown (hopefully)" ⓒ Starwort, 2020
 has_back: true
 back_link: ./
-back_text: Back to OOP Encapsulation
+back_text: Back to Wb 2020 09 28
 ---
 
 # OOP - encapsulation

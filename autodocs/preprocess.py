@@ -1,5 +1,5 @@
 from os import mkdir
-from os.path import relpath
+from os.path import basename, relpath
 from shutil import rmtree
 from typing import List, cast
 
@@ -49,7 +49,7 @@ def copy_folder(folder: List[Node], page_footer: str, leave: int = 0) -> None:
                         autodoc_footer=page_footer,
                         has_back="true",
                         back_link="./",
-                        back_text=f"Back to {casify(node[0])}",
+                        back_text=f"Back to {casify(basename(dir_name))}",
                     ).encode("UTF-8")
                 else:
                     data = b""

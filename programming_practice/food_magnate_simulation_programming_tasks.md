@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Food Magnate Simulation Programming Tasks | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.4.2 "fix backlink text" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.4.3 "fix backlink text for preprocessed MarkDown (hopefully)" ⓒ Starwort, 2020
 has_back: true
 back_link: ./
-back_text: Back to Food Magnate Simulation Programming Tasks
+back_text: Back to Programming Practice
 ---
 
 # Food Magnate Simulation Programming Tasks
