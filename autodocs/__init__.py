@@ -1,8 +1,8 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = "2.4.0"
-COMMENT = "start adding backlinks"
+VERSION = "2.4.1"
+COMMENT = "remove text backlinks in index files"
 
 ID_STRING = f'{VERSION} "{COMMENT}"'
 

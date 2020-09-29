@@ -87,12 +87,12 @@ def index(folder: str, footer: str, from_folder: str = "", leave: int = 0) -> No
             ).encode("UTF-8")
         )
         file.write(f"# **{name}**\n\n".encode("UTF-8"))
-        if from_folder:
-            file.write(
-                "← [Back to {}](..)\n\n".format(
-                    extless_name_to_display(basename(from_folder))
-                ).encode("UTF-8")
-            )
+        # if from_folder:
+        #     file.write(
+        #         "← [Back to {}](..)\n\n".format(
+        #             extless_name_to_display(basename(from_folder))
+        #         ).encode("UTF-8")
+        #     )
         file.write(
             nodes_to_tree(collect_nodes(folder, ignore_files, leave)).encode("UTF-8")
         )

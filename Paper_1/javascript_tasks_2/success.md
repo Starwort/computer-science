@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Success | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.4.0 "start adding backlinks" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.4.1 "remove text backlinks in index files" ⓒ Starwort, 2020
 has_back: true
 back_link: ./
 back_text: Back to Success
