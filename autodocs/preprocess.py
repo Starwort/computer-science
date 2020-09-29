@@ -47,7 +47,9 @@ def copy_folder(folder: List[Node], page_footer: str, leave: int = 0) -> None:
                     data = generate_page_meta(
                         title=f"{casify(node[0])} | Computer Science",
                         autodoc_footer=page_footer,
-                        has_title="false",
+                        has_back="true",
+                        back_link="./",
+                        back_text=f"Back to {casify(node[0])}",
                     ).encode("UTF-8")
                 else:
                     data = b""

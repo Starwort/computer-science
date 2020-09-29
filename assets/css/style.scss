@@ -55,10 +55,13 @@ body {
     top: 10px;
     left: 0px;
     height: 75px;
-    margin: auto;
+    padding: 5px;
+    margin-top: 10px;
     text-align: left;
     background-color: #121212;
     color: $header-bg-color;
     border-bottom-right-radius: 25px;
     border-top-right-radius: 25px;
+    border: 1px solid $header-bg-color;
+    border-left: 0px solid #121212;
 }

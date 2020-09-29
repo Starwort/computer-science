@@ -81,7 +81,7 @@ def index(folder: str, footer: str, from_folder: str = "", leave: int = 0) -> No
                 layout="index_template",
                 autodoc_footer=footer,
                 title=f"Index of {name} | Computer Science",
-                has_title="true" if from_folder else "false",
+                has_back="true" if from_folder else "false",
                 back_link="..",
                 back_text=extless_name_to_display(basename(from_folder)),
             ).encode("UTF-8")

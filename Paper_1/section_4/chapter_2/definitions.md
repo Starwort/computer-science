@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Definitions | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.3.1 "fix indexes" ⓒ Starwort, 2020
-has_title: false
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.4.0 "start adding backlinks" ⓒ Starwort, 2020
+has_back: true
+back_link: ./
+back_text: Back to Definitions
 ---
 
 # Data structures definitions
