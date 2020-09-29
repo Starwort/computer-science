@@ -2,7 +2,6 @@ filetype_to_url = {
     "html": "https://img.icons8.com/windows/512/03dac6/regular-document.png",
     "htm": "https://img.icons8.com/windows/512/03dac6/regular-document.png",
     "md": "https://img.icons8.com/windows/512/03dac6/regular-document.png",
-    "c": "https://img.icons8.com/windows/512/03dac6/c.png",
     "cs": "https://img.icons8.com/windows/512/03dac6/cs.png",
     "json": "https://img.icons8.com/windows/512/03dac6/placeholder-thumbnail-json-1.png",
     "css": "https://img.icons8.com/windows/512/03dac6/css.png",
@@ -40,6 +39,7 @@ filetype_to_url = {
     "yaml": "https://img.icons8.com/windows/512/03dac6/code-file.png",
     "yml": "https://img.icons8.com/windows/512/03dac6/code-file.png",
     "folder": "https://starwort.github.io/computer-science/icon-folder.png",
+    "c": "https://starwort.github.io/computer-science/icon-c.png",
 }
 missing_file = "https://img.icons8.com/windows/512/03dac6/important-file.png"
 

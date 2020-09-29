@@ -1,8 +1,8 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = "2.4.3"
-COMMENT = "fix backlink text for preprocessed MarkDown (hopefully)"
+VERSION = "2.4.4"
+COMMENT = "fix broken link for 'C' filetype"
 
 ID_STRING = f'{VERSION} "{COMMENT}"'
 
