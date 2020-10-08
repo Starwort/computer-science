@@ -139,6 +139,11 @@ back_text: Back to Computer Science
       - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Encryption](./Paper_1/section_3/chapter_1/encryption.html)
 
       </details>
+    - <details open><summary><a href='./Paper_1/section_3/chapter_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 2</a></summary>
+
+      - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Normalisation](./Paper_1/section_3/chapter_2/normalisation.html)
+
+      </details>
 
     </details>
   - <details open><summary><a href='././Paper_1/section_4'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Section 4</a></summary>
@@ -360,6 +365,11 @@ back_text: Back to Computer Science
     - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Data Oriented](./programming_practice/wb_2020_09_28/data_oriented.py)
     - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Object Oriented](./programming_practice/wb_2020_09_28/object_oriented.py)
     - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Programming Task](./programming_practice/wb_2020_09_28/programming_task.py)
+
+    </details>
+  - <details open><summary><a href='./programming_practice/wb_2020_10_05'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Wb 2020 10 05</a></summary>
+
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Inheritance And Abstraction](./programming_practice/wb_2020_10_05/inheritance_and_abstraction.html)
 
     </details>
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](./programming_practice/food_magnate_simulation.py)

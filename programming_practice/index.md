@@ -32,6 +32,11 @@ back_text: Back to Computer Science
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Programming Task](./wb_2020_09_28/programming_task.py)
 
   </details>
+- <details open><summary><a href='./wb_2020_10_05'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Wb 2020 10 05</a></summary>
+
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Inheritance And Abstraction](./wb_2020_10_05/inheritance_and_abstraction.html)
+
+  </details>
 - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](./food_magnate_simulation.py)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Programming Tasks](./food_magnate_simulation_programming_tasks.html)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Questions](./food_magnate_simulation_questions.html)
