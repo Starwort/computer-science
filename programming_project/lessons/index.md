@@ -9,4 +9,5 @@ back_text: Back to Programming Project
 
 # **Lessons**
 
+- [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Computational Method Features](./computational_method_features.html)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Software Development](./software_development.html)

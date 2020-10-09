@@ -11,6 +11,7 @@ back_text: Back to Computer Science
 
 - <details open><summary><a href='./lessons'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Lessons</a></summary>
 
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Computational Method Features](./lessons/computational_method_features.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Software Development](./lessons/software_development.html)
 
   </details>

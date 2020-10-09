@@ -392,6 +392,7 @@ back_text: Back to Computer Science
 
   - <details open><summary><a href='./programming_project/lessons'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Lessons</a></summary>
 
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Computational Method Features](./programming_project/lessons/computational_method_features.html)
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Software Development](./programming_project/lessons/software_development.html)
 
     </details>
