@@ -36,6 +36,8 @@ back_text: Back to Computer Science
 
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Inheritance And Abstraction](./wb_2020_10_05/inheritance_and_abstraction.html)
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Inheritance And Abstraction Task](./wb_2020_10_05/inheritance_and_abstraction_task.py)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Polymorphism](./wb_2020_10_05/polymorphism.html)
+  - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Polymorphism Task](./wb_2020_10_05/polymorphism_task.py)
 
   </details>
 - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](./food_magnate_simulation.py)
