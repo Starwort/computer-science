@@ -10,3 +10,4 @@ back_text: Back to Programming Practice
 # **Wb 2020 10 05**
 
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Inheritance And Abstraction](./inheritance_and_abstraction.html)
+- [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Inheritance And Abstraction Task](./inheritance_and_abstraction_task.py)

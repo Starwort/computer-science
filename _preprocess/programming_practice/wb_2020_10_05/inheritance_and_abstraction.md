@@ -64,3 +64,7 @@ ol ol {
 06. Define the term *abstract method*, and explain when you might use one.
     - An abstract method is one for which the signature, but no implementation, is defined. Classes containing abstract methods may not be instantiated.
     - Abstract methods may be used when defining a base class that other classes will inherit from, but may not be instantiated, or when defining an interface for use by other classes
+
+## Code task
+
+[Source](https://github.com/Starwort/computer-science/blob/master/_preprocess/programming_practice/wb_2020_10_05/inheritance_and_abstraction_task.py), [download](./inheritance_and_abstraction_task.py)

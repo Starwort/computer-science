@@ -370,6 +370,7 @@ back_text: Back to Computer Science
   - <details open><summary><a href='./programming_practice/wb_2020_10_05'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Wb 2020 10 05</a></summary>
 
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Inheritance And Abstraction](./programming_practice/wb_2020_10_05/inheritance_and_abstraction.html)
+    - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Inheritance And Abstraction Task](./programming_practice/wb_2020_10_05/inheritance_and_abstraction_task.py)
 
     </details>
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](./programming_practice/food_magnate_simulation.py)
