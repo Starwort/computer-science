@@ -60,4 +60,7 @@ ol ol {
 05. Explain the issue caused by allowing multiple inheritance.
 
     - The method resolution order is not immediately clear to inexperienced programmers.
-    - 
+    - Two classes with conflicting interfaces could be inherited from
+06. Define the term *abstract method*, and explain when you might use one.
+    - An abstract method is one for which the signature, but no implementation, is defined. Classes containing abstract methods may not be instantiated.
+    - Abstract methods may be used when defining a base class that other classes will inherit from, but may not be instantiated, or when defining an interface for use by other classes
