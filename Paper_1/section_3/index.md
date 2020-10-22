@@ -16,6 +16,7 @@ back_text: Back to Paper 1
   </details>
 - <details open><summary><a href='./chapter_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 2</a></summary>
 
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) SQL](./chapter_2/SQL.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Normalisation](./chapter_2/normalisation.html)
 
   </details>

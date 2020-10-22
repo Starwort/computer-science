@@ -9,4 +9,5 @@ back_text: Back to Section 3
 
 # **Chapter 2**
 
+- [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) SQL](./SQL.html)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Normalisation](./normalisation.html)

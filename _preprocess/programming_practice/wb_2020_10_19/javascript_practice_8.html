@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+    <body>
+        <select id="days" onchange="fetch_months()">
+            <option value=28>28</option>
+            <option value=29>29</option>
+            <option value=30>30</option>
+            <option value=31>31</option>
+        </select>
+        <p id="output">Select a value to show the months with that many days</p>
+        <script>
+            var months_n_days = {
+                28: ["February"],
+                29: ["February"],
+                30: ["April", "June", "September", "November"],
+                31: ["January", "March", "May", "July", "August", "October", "December"],
+            }
+            function fetch_months() {
+                document.getElementById("output").innerText = months_n_days[document.getElementById("days").value].join("\n");
+            }
+        </script>
+    </body>
+
+</html>

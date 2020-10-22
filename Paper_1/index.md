@@ -139,6 +139,7 @@ back_text: Back to Computer Science
     </details>
   - <details open><summary><a href='./section_3/chapter_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 2</a></summary>
 
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) SQL](./section_3/chapter_2/SQL.html)
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Normalisation](./section_3/chapter_2/normalisation.html)
 
     </details>

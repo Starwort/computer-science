@@ -141,6 +141,7 @@ back_text: Back to Computer Science
       </details>
     - <details open><summary><a href='./Paper_1/section_3/chapter_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 2</a></summary>
 
+      - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) SQL](./Paper_1/section_3/chapter_2/SQL.html)
       - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Normalisation](./Paper_1/section_3/chapter_2/normalisation.html)
 
       </details>
@@ -373,6 +374,18 @@ back_text: Back to Computer Science
     - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Inheritance And Abstraction Task](./programming_practice/wb_2020_10_05/inheritance_and_abstraction_task.py)
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Polymorphism](./programming_practice/wb_2020_10_05/polymorphism.html)
     - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Polymorphism Task](./programming_practice/wb_2020_10_05/polymorphism_task.py)
+
+    </details>
+  - <details open><summary><a href='./programming_practice/wb_2020_10_19'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Wb 2020 10 19</a></summary>
+
+    - [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) Javascript Practice](./programming_practice/wb_2020_10_19/javascript_practice.js)
+    - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 1](./programming_practice/wb_2020_10_19/javascript_practice_1.html)
+    - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 2](./programming_practice/wb_2020_10_19/javascript_practice_2.html)
+    - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 3](./programming_practice/wb_2020_10_19/javascript_practice_3.html)
+    - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 4](./programming_practice/wb_2020_10_19/javascript_practice_4.html)
+    - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 5](./programming_practice/wb_2020_10_19/javascript_practice_5.html)
+    - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 6 And 7](./programming_practice/wb_2020_10_19/javascript_practice_6_and_7.html)
+    - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 8](./programming_practice/wb_2020_10_19/javascript_practice_8.html)
 
     </details>
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](./programming_practice/food_magnate_simulation.py)
