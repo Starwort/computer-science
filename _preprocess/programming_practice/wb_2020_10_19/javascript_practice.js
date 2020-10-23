@@ -2,7 +2,7 @@
 document.getElementById("activity_1").innerText = "This is the second paragraph";
 
 // Activity 2
-document.write("This is the third paragraph");
+document.write("This is the final paragraph");
 
 // Activity 3
 (() => alert("Anonymous function"))();
@@ -38,6 +38,7 @@ function calendar(date) {
 }
 
 // Activity 8
+console.log("\n\n ======== Activity 8 ======== \n\n");
 var months_n_days = {
     28: ["February"],
     29: ["February"],
@@ -54,11 +55,13 @@ for (let i of [28, 29, 30, 31]) {
 }
 
 // Activity 9
+console.log("\n\n ======== Activity 9 ======== \n\n");
 for (let i = 10; i > 0; i--) {
     console.log(i);
 }
 
 // Activity 10
+console.log("\n\n ======== Activity 10 ======== \n\n");
 let cars = ["BMW", "Volvo", "Saab", "Ford"];
 
 for (let car of cars) {
@@ -68,6 +71,7 @@ for (let car of cars) {
 }
 
 // Activity 11
+console.log("\n\n ======== Activity 11 ======== \n\n");
 let car;
 while (car = cars.shift()) {
     if (car != "Ford") {

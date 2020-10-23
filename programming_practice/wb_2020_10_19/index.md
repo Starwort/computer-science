@@ -10,10 +10,4 @@ back_text: Back to Programming Practice
 # **Wb 2020 10 19**
 
 - [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) Javascript Practice](./javascript_practice.js)
-- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 1](./javascript_practice_1.html)
-- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 2](./javascript_practice_2.html)
-- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 3](./javascript_practice_3.html)
-- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 4](./javascript_practice_4.html)
-- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 5](./javascript_practice_5.html)
-- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 6 And 7](./javascript_practice_6_and_7.html)
-- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice 8](./javascript_practice_8.html)
+- [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice](./javascript_practice.html)
