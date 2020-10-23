@@ -31,18 +31,18 @@ back_text: Back to Wb 2020 10 19
 
 <input type="number" id="activity_6" placeholder="Enter time"></input>
 
-<button onclick="clock(document.getElementById('activity_6').value)">
+<button onclick="clock(document.getElementById('activity_6').value)">Click me!</button>
 
 ## Activity 7
 
 <input type="number" id="activity_7" placeholder="Enter month"></input>
 
-<button onclick="calendar(document.getElementById('activity_7').value)">
+<button onclick="calendar(document.getElementById('activity_7').value)">Click me!</button>
 
 ## Activities 8, 9, 10, 11
 
 *check the JavaScript console*
 
-<script src="./javascript_practice.js"></script>
-
 ## Activity 2
+
+<script src="./javascript_practice.js"></script>
