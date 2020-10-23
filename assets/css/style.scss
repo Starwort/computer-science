@@ -1,6 +1,8 @@
 ---
 ---
 
+@use "common.scss";
+
 // Headers
 $header-heading-color: #fff;
 $header-bg-color: #bb86fc;
@@ -65,16 +67,4 @@ body {
     border-top-right-radius: 25px;
     border: 1px solid $header-bg-color;
     border-left: 0px solid #1e1e1e;
-}
-
-button {
-    background-color: #1e1e1e;
-    border-radius: 4px;
-    border: 1px solid #bb86fc;
-}
-
-input {
-    background-color: #242424;
-    border: none;
-    border-bottom: 1px solid #bb86fc;
 }

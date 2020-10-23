@@ -11,6 +11,9 @@ back_text: Back to Computer Science
 
 - <details open><summary><a href='./css'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Css</a></summary>
 
+  - [![SCSS file](https://img.icons8.com/windows/512/03dac6/css.png) Common](./css/common.scss)
+  - [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Dark](./css/dark.css)
+  - [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Light](./css/light.css)
   - [![SCSS file](https://img.icons8.com/windows/512/03dac6/css.png) Style](./css/style.scss)
 
   </details>

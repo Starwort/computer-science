@@ -329,6 +329,9 @@ back_text: Back to Computer Science
 
   - <details open><summary><a href='./assets/css'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Css</a></summary>
 
+    - [![SCSS file](https://img.icons8.com/windows/512/03dac6/css.png) Common](./assets/css/common.scss)
+    - [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Dark](./assets/css/dark.css)
+    - [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Light](./assets/css/light.css)
     - [![SCSS file](https://img.icons8.com/windows/512/03dac6/css.png) Style](./assets/css/style.scss)
 
     </details>
