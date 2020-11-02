@@ -1,0 +1,15 @@
+#heading {
+    color: green;
+    border: 2px solid green;
+    border-radius: 50%;
+}
+
+#subheading {
+    color: blue;
+}
+
+#main {
+    /* Thank god I don't have Comic Sans installed */
+    font-family: "Comic Sans", "Calibri", "Sans-Serif";
+    background-color: #ffff7f; /* 'light yellow but use a Hex code for it' */
+}

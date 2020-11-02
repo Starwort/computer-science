@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <style>
+            .responsive {
+                font-size: 1em;
+                color: #0000ff;
+                font-family: "Bradley Hand", "Handwriting", "Sans-Serif";
+            }
+
+            .responsive-worse {
+                font-size: 0.05vh;
+                color: #0000ff;
+                font-family: "Bradley Hand", "Handwriting", "Sans-Serif";
+            }
+
+            @media (min-width: 600) {
+                .responsive {
+                    font-size: 1.5em;
+                }
+            }
+
+            @media (min-width: 800) {
+                .responsive {
+                    font-size: 2em;
+                }
+            }
+
+            @media (min-width: 1000) {
+                .responsive {
+                    font-size: 2.5em;
+                }
+            }
+
+            @media (min-width: 1200) {
+                .responsive {
+                    font-size: 3em;
+                }
+            }
+        </style>
+    </head>
+
+    <body>
+        <p class="responsive">I'm responsive! Check me at screen widths of:</p>
+        <ul class="responsive">
+            <li>&lt;599px</li>
+            <li>600-799px</li>
+            <li>800-999px</li>
+            <li>1000-1199px</li>
+            <li>&gt;1200px</li>
+        </ul>
+        <p class="responsive-worse">I'm also responsive! Change your window's height!
+        </p>
+    </body>
+
+</html>

@@ -42,8 +42,25 @@ back_text: Back to Computer Science
   </details>
 - <details open><summary><a href='./wb_2020_10_19'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Wb 2020 10 19</a></summary>
 
+  - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 3](./wb_2020_10_19/css_3.html)
+  - [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Css 4](./wb_2020_10_19/css_4.css)
+  - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 4](./wb_2020_10_19/css_4.html)
+  - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 5](./wb_2020_10_19/css_5.html)
+  - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 6](./wb_2020_10_19/css_6.html)
+  - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 7](./wb_2020_10_19/css_7.html)
+  - [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Css 8](./wb_2020_10_19/css_8.css)
+  - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 8](./wb_2020_10_19/css_8.html)
+  - [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Css 9](./wb_2020_10_19/css_9.css)
+  - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 9](./wb_2020_10_19/css_9.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Intro To Css](./wb_2020_10_19/intro_to_css.html)
   - [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) Javascript Practice](./wb_2020_10_19/javascript_practice.js)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice](./wb_2020_10_19/javascript_practice.html)
+  - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Task Template](./wb_2020_10_19/task_template.html)
+
+  </details>
+- <details open><summary><a href='./wb_2020_10_26'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Wb 2020 10 26</a></summary>
+
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Booklet 1](./wb_2020_10_26/booklet_1.html)
 
   </details>
 - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](./food_magnate_simulation.py)

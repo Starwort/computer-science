@@ -9,5 +9,17 @@ back_text: Back to Programming Practice
 
 # **Wb 2020 10 19**
 
+- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 3](./css_3.html)
+- [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Css 4](./css_4.css)
+- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 4](./css_4.html)
+- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 5](./css_5.html)
+- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 6](./css_6.html)
+- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 7](./css_7.html)
+- [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Css 8](./css_8.css)
+- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 8](./css_8.html)
+- [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Css 9](./css_9.css)
+- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Css 9](./css_9.html)
+- [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Intro To Css](./intro_to_css.html)
 - [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) Javascript Practice](./javascript_practice.js)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Javascript Practice](./javascript_practice.html)
+- [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Task Template](./task_template.html)

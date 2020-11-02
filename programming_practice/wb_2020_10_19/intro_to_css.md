@@ -1,0 +1,34 @@
+---
+layout: default
+title: Intro To Css | Computer Science
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.4.4 "fix broken link for 'C' filetype" ⓒ Starwort, 2020
+has_back: true
+back_link: ./
+back_text: Back to Wb 2020 10 19
+---
+
+# Intro to CSS
+
+## Activity 1
+
+File missing, no answer
+
+## Activity 2
+
+File missing, no answer
+
+## Activity 3
+
+[Click here to view](./css_3.html)
+
+## Activity 4
+
+[Click here to view](./css_4.html)
+
+## Activity 5
+
+[Click here to view](./css_5.html)
+
+## Activity 6
+
+[Click here to view](./css_6.html)
