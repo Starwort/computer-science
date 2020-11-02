@@ -32,3 +32,7 @@ File missing, no answer
 ## Activity 6
 
 [Click here to view](./css_6.html)
+
+## Activity 7
+
+[Click here to view](./css_7.html)

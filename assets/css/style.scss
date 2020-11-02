@@ -3,9 +3,9 @@
 
 // @use "common";
 @mixin inset-shadow($dp) {
-    -webkit-box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0);
-    -moz-box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0);
-    box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0);
+    -webkit-box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0, 0);
+    -moz-box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0, 0);
+    box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0, 0);
     -webkit-transition: box-shadow 0.25s ease-out;
     -moz-transition: box-shadow 0.25s ease-out;
     transition: box-shadow 0.25s ease-out;
@@ -534,36 +534,36 @@ meter {
 // @use "dark";
 :root {
     /* accent colours */
-    --primary: #BB86FC;
-    --primary-variant: #3700B3;
-    --secondary: #03DAC6;
-    --secondary-variant: #03DAC6;
-    --error: #CC596E;
-    --success: #81C784;
-    --warn: #FFCC80;
-    --info: #B3E5FC;
+    --primary: #bb86fc;
+    --primary-variant: #3700b3;
+    --secondary: #03dac6;
+    --secondary-variant: #03dac6;
+    --error: #cc596e;
+    --success: #81c784;
+    --warn: #ffcc80;
+    --info: #b3e5fc;
     /* document colours */
-    --surface: #1E1E1E;
+    --surface: #1e1e1e;
     --on-primary: #000000;
     --on-secondary: #000000;
-    --on-surface: #FFFFFF;
+    --on-surface: #ffffff;
     --on-error: #000000;
     --on-success: #000000;
     --on-warn: #000000;
     --on-info: #000000;
     /* elevations */
     --sunken-border: #333333;
-    --elevation-1: #1E1E1E;
+    --elevation-1: #1e1e1e;
     --elevation-2: #222222;
     --elevation-3: #242424;
     --elevation-4: #272727;
     --elevation-5: #272727;
-    --elevation-6: #2C2C2C;
-    --elevation-7: #2C2C2C;
-    --elevation-8: #2E2E2E;
-    --elevation-9: #2E2E2E;
-    --elevation-10: #2E2E2E;
-    --elevation-11: #2E2E2E;
+    --elevation-6: #2c2c2c;
+    --elevation-7: #2c2c2c;
+    --elevation-8: #2e2e2e;
+    --elevation-9: #2e2e2e;
+    --elevation-10: #2e2e2e;
+    --elevation-11: #2e2e2e;
     --elevation-12: #333333;
     --elevation-13: #333333;
     --elevation-14: #333333;
@@ -577,12 +577,12 @@ meter {
     --elevation-22: #353535;
     --elevation-23: #353535;
     --elevation-24: #383838;
-    --elevation-primary: #C79DFC;
-    --primary-overlay: #BB86FC2D;
+    --elevation-primary: #c79dfc;
+    --primary-overlay: #bb86fc2d;
     /* component backgrounds */
-    --input-overlay: #FFFFFF0D;
-    --to-primary: #31273D;
-    --to-surface: #7E5CA7;
+    --input-overlay: #ffffff0d;
+    --to-primary: #31273d;
+    --to-surface: #7e5ca7;
 }
 
 // Headers
