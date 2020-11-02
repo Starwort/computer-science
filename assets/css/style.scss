@@ -3,9 +3,9 @@
 
 // @use "common";
 @mixin inset-shadow($dp) {
-    -webkit-box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0, 0);
-    -moz-box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0, 0);
-    box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0, 0);
+    -webkit-box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0, 1);
+    -moz-box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0, 1);
+    box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0, 1);
     -webkit-transition: box-shadow 0.25s ease-out;
     -moz-transition: box-shadow 0.25s ease-out;
     transition: box-shadow 0.25s ease-out;
@@ -31,10 +31,12 @@
 
 @mixin shadow($dp) {
     -webkit-filter: drop-shadow(
-        ($dp * 0.5px) ($dp * 0.5px) ($dp * 0.25px) rgba(0, 0, 0)
+        ($dp * 0.5px) ($dp * 0.5px) ($dp * 0.25px) rgba(0, 0, 0, 1)
     );
-    -moz-filter: drop-shadow(($dp * 0.5px) ($dp * 0.5px) ($dp * 0.25px) rgba(0, 0, 0));
-    filter: drop-shadow(($dp * 0.5px) ($dp * 0.5px) ($dp * 0.25px) rgba(0, 0, 0));
+    -moz-filter: drop-shadow(
+        ($dp * 0.5px) ($dp * 0.5px) ($dp * 0.25px) rgba(0, 0, 0, 1)
+    );
+    filter: drop-shadow(($dp * 0.5px) ($dp * 0.5px) ($dp * 0.25px) rgba(0, 0, 0, 1));
     -webkit-transition: filter 0.1s ease-out;
     transition: filter 0.1s ease-out;
 }
@@ -107,7 +109,6 @@ body {
     color: var(--on-surface);
     font-size: 18px;
     font-family: Roboto, Helvetica Neue, sans-serif;
-    color-scheme: light dark;
 }
 
 label {
