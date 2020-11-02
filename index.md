@@ -402,6 +402,12 @@ back_text: Back to Computer Science
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Booklet 1](./programming_practice/wb_2020_10_26/booklet_1.html)
 
     </details>
+  - <details open><summary><a href='./programming_practice/wb_2020_11_02'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Wb 2020 11 02</a></summary>
+
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Boolean Algebra](./programming_practice/wb_2020_11_02/boolean_algebra.html)
+    - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Boolean Algebra](./programming_practice/wb_2020_11_02/boolean_algebra.py)
+
+    </details>
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](./programming_practice/food_magnate_simulation.py)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Programming Tasks](./programming_practice/food_magnate_simulation_programming_tasks.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Questions](./programming_practice/food_magnate_simulation_questions.html)
