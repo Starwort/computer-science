@@ -406,6 +406,7 @@ back_text: Back to Computer Science
 
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Boolean Algebra](./programming_practice/wb_2020_11_02/boolean_algebra.html)
     - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Boolean Algebra](./programming_practice/wb_2020_11_02/boolean_algebra.py)
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Karnaugh Maps](./programming_practice/wb_2020_11_02/karnaugh_maps.html)
 
     </details>
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](./programming_practice/food_magnate_simulation.py)

@@ -11,3 +11,4 @@ back_text: Back to Programming Practice
 
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Boolean Algebra](./boolean_algebra.html)
 - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Boolean Algebra](./boolean_algebra.py)
+- [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Karnaugh Maps](./karnaugh_maps.html)
