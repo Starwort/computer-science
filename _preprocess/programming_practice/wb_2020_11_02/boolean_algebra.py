@@ -11,7 +11,7 @@ def name_for_input(input: int) -> str:
     remainder, letter = divmod(input, 26)
     out = chr(ord("A") + letter)
     if remainder:
-        out + name_for_input(remainder - 1)
+        return out + name_for_input(remainder - 1)
     return out
 
 
