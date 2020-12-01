@@ -12,6 +12,7 @@ back_text: Back to Paper 1
 - <details open><summary><a href='./chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 1</a></summary>
 
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Character Sets](./chapter_1/character_sets.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Data Types Questions](./chapter_1/data_types_questions.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Primitive Data Types](./chapter_1/primitive_data_types.html)
 
   </details>

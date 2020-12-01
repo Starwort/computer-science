@@ -10,4 +10,5 @@ back_text: Back to Section 4
 # **Chapter 1**
 
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Character Sets](./character_sets.html)
+- [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Data Types Questions](./data_types_questions.html)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Primitive Data Types](./primitive_data_types.html)
