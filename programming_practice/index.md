@@ -73,6 +73,7 @@ back_text: Back to Computer Science
 - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](./food_magnate_simulation.py)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Programming Tasks](./food_magnate_simulation_programming_tasks.html)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Questions](./food_magnate_simulation_questions.html)
+- [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Graphs And Trees](./graphs_and_trees.html)
 - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Pythonic Food Magnate Simulation](./pythonic_food_magnate_simulation.py)
 - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Pythonic Food Magnate Simulation Task 1](./pythonic_food_magnate_simulation_task_1.py)
 - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Pythonic Food Magnate Simulation Task 2](./pythonic_food_magnate_simulation_task_2.py)
