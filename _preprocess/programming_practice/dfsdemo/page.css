@@ -1,0 +1,43 @@
+body .mdc-card.control-container {
+  position: absolute;
+  justify-content: flex-end;
+  align-items: center;
+  height: 100%;
+  width: 33.33%;
+  left: 33.33%;
+}
+body .mdc-card.stack-container {
+  position: absolute;
+  justify-content: flex-end;
+  align-items: center;
+  height: 100%;
+  width: 33.34%;
+  left: 66.66%;
+  overflow-x: visible;
+  overflow-y: hidden;
+}
+body .mdc-card.stack-container .mdc-card.stack {
+  background-color: var(--mdc-theme-primary);
+  color: var(--mdc-theme-on-primary);
+  height: 100px;
+  min-height: 1em;
+  width: 250px;
+  left: 0px;
+  transition: opacity 1s linear, height 1s ease-in-out, min-height 0s ease-in-out 1s, left 1s ease-out;
+  justify-content: center;
+  text-align: center;
+}
+body .mdc-card.stack-container .mdc-card.stack.hiding {
+  opacity: 0;
+  min-height: 0;
+  left: -250px;
+}
+body .mdc-card.stack-container .mdc-card.stack.hidden {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  opacity: 0;
+  height: 0;
+  min-height: 0;
+  left: -250px;
+}
