@@ -3,4 +3,5 @@ title: Computer Science
 lang: en-GB
 github:
   is_project_page: no
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
+markdown: kramdown
