@@ -9,8 +9,6 @@ back_text: Back to Chapter 1
 
 # Programming Techniques
 
-← [Back to Chapter 1](./index.html)
-
 - recursion, how it can be used and compares to an iterative approach
 - global and local variables
 - modularity, functions and procedures, parameter passing by value and by reference

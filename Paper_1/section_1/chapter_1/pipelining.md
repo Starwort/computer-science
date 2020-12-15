@@ -9,8 +9,6 @@ back_text: Back to Chapter 1
 
 # Pipelining
 
-← [Back to Chapter 1](./index.html)
-
 - Von Neumann is a serial / sequential architecutre
   - While an instruction is being fetched, e.g. the ALU is idle
   - But each part of the Fetch-Decode-Execute cycle uses a different part of the CPU

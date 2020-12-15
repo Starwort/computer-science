@@ -42,8 +42,6 @@ back_text: Back to Chapter 3
 
 # Chapter 3
 
-← [Back to Chapter 3](./index.html)
-
 - Optical disc
 - Prices and part names from: Chillblast
   1. SSDs

@@ -9,8 +9,6 @@ back_text: Back to Week 3
 
 # LMC work from home
 
-← [Back to Week 3](./index.html)
-
 ## Simple challenges
 
 ### S1

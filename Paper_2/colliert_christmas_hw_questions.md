@@ -39,8 +39,6 @@ back_text: Back to Paper 2
 
 # Chapter 61
 
-← [Back to Paper 2](./index.html)
-
 1. In python:
 
     ```py

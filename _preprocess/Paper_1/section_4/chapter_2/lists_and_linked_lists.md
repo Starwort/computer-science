@@ -36,8 +36,6 @@
 
 # Chapter 35
 
-← [Back to Chapter 2](./index.html)
-
 1. Use an array.
 2. &#x200b;
     - `['James', 'Paul', 'Sophie', 'Holly', 'Nathan', 'Tom']`

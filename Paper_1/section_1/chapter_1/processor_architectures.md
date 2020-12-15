@@ -9,8 +9,6 @@ back_text: Back to Chapter 1
 
 # Processor Architectures
 
-← [Back to Chapter 1](./index.html)
-
 ## The stored program concept
 
 - Instructions and data are stored in memory for the program to be executed

@@ -41,8 +41,6 @@ back_text: Back to Chapter 2
 </style>
 # Chapter 48
 
-← [Back to Chapter 2](./index.html)
-
 1.  ```psc
     str[] items = ['hello world', 'out of cheese; redo from start', 'you sunk my battleship']
 

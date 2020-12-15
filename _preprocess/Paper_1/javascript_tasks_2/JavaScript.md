@@ -6,8 +6,6 @@
 
 # Tasks
 
-← [Back to Javascript Tasks 2](./index.html)
-
 1. `<h1>Exam Entry Form</h1>` and all elements after it are displayed in the browser as they are displayed elements. Tables are being used to align the elements (how 1993); additionally, the `<title>Exam entry</title>` tag in the header tells the browser the title of the webpage ('Exam entry')
 2. The submit button calls `validateForm()` to determine whether or not the form may be submitted - if it returns `true` then the form gets submitted, else it is disallowed. `validateForm()` performs the following actions:
     - Check that `document.ExamEntry.name` (the 'name' input box) is not empty - and if it is, to recolour the label red and focus the input box for input

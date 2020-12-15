@@ -9,8 +9,6 @@ back_text: Back to Chapter 1
 
 # Sub Programs Activities
 
-← [Back to Chapter 1](./index.html)
-
 ## Constructs
 
 1. ```psc

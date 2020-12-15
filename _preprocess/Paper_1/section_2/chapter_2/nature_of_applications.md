@@ -33,8 +33,6 @@
 
 # Chapter 9
 
-← [Back to Chapter 2](./index.html)
-
 1. Open source operating system: Linux Kernel
    Open source word processor: LibreOffice Write
 2. &#x200b;

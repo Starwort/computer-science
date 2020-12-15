@@ -42,8 +42,6 @@ back_text: Back to Chapter 2
 
 # Chapter 33
 
-← [Back to Chapter 2](./index.html)
-
 Example 1
 
 ```py

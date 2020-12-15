@@ -1,7 +1,5 @@
 # Recursion
 
-← [Back to Chapter 1](./index.html)
-
 [More on Recursion](./recursion.html)
 
 ## What is recursion

@@ -20,8 +20,6 @@ li:empty {
 
 # CSS Questions
 
-← [Back to Summer Homework](./index.html)
-
 01. 
 02. Part of a website's code is shown below
 

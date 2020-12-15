@@ -49,8 +49,6 @@ back_text: Back to Chapter 5
 
 # Chapter 5
 
-← [Back to Chapter 5](./index.html)
-
 1.
     1. It saves ink or paper, due to the removal of the need to write on physical objects
     2. It allows for displays on any surface, even patterned or curved ones, regardless of the material

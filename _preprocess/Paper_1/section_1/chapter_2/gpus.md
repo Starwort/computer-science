@@ -1,7 +1,5 @@
 # Graphics Processing Unit (GPU)
 
-← [Back to Chapter 2](./index.html)
-
 - All computers have basic graphics chips installed on their motherboard
   - These are fine for everyday use
 - Video games require a lot of processing power

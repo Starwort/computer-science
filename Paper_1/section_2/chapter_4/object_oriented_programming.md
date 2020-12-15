@@ -9,8 +9,6 @@ back_text: Back to Chapter 4
 
 # Object-Oriented Programming Notes and Tasks
 
-← [Back to Chapter 4](./index.html)
-
 An **object** has attributes and methods.
 
 **Attribute**: a dot-accessible label on an object that points to a piece of data  

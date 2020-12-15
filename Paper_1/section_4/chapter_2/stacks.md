@@ -45,8 +45,6 @@ back_text: Back to Chapter 2
 
 # Chapter 36
 
-← [Back to Chapter 2](./index.html)
-
 1. ```SPLIWACA
     FUNCTION peek -> STRING AS
         IF isEmpty DO

@@ -43,8 +43,6 @@ back_text: Back to Chapter 4
 </style>
 # Thinking logically
 
-← [Back to Chapter 4](./index.html)
-
 ## Example Algorithm 1
 
 ```ocrpsc

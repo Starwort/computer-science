@@ -33,8 +33,6 @@
 
 # Chapter 58
 
-← [Back to Chapter 4](./index.html)
-
 1. &#x200b;
     - &#x200b;
         1. Number of legs

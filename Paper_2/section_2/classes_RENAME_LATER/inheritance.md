@@ -9,8 +9,6 @@ back_text: Back to Classes RENAME LATER
 
 # Inheritance
 
-← [Back to Classes](./index.html)
-
 ## Classes
 
 - `School`

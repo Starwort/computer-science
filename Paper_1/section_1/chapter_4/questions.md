@@ -42,8 +42,6 @@ back_text: Back to Chapter 4
 
 # Chapter 4
 
-← [Back to Chapter 4](./index.html)
-
 1. CMOS as it does not need to be particularly high quality and needs to have a low power consumption
 2. ​
     - Yes - for example [deepfake algorithms](https://en.wikipedia.org/wiki/Deepfake) could be used to fool the app.

@@ -48,8 +48,6 @@ back_text: Back to Chapter 2
 
 # Chapter 34
 
-← [Back to Chapter 2](./index.html)
-
 1. Queue operation | Queue contents | Return value
     :--- | :--- | :---
     `q.is_empty()` | `[]` | `True`

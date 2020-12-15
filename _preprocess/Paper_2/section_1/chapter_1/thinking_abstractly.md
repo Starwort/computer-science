@@ -32,8 +32,6 @@
 </style>
 # Chapter 47
 
-← [Back to Chapter 1](./index.html)
-
 1. 2500
 
 ## Exercises

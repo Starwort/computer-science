@@ -33,8 +33,6 @@
 
 # Chapter 29
 
-← [Back to Chapter 1](./index.html)
-
 1. IEEE 1621 defines this as the power symbol; it is derived from IEC 60417-5007 (power-on symbol, line - derived from binary 1 representing 'on') and IEC 60417-5008 (power-off symbol, circle - derived from binary 0 representing 'off') - although IEC 60417-5009 designates this as the standby symbol and IEC 60417-5010 (line fully within a circle) represents a toggle between on and fully off states
 2. As an ASCII or Unicode string. Null-terminated ASCII -> (hex) `43 61 73 00`
 3. 12 bytes -> (hex) `4D 6F 75 73 65 00`

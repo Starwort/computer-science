@@ -34,8 +34,6 @@
 
 # Chapter 7
 
-← [Back to Chapter 1](./index.html)
-
 1. Multitasking is the discipline of running multiple tasks, bit by bit, such that it seems as if they're running in parallel - this could be in lockstep, or shared by an algorithm giving more time to some processes than others. It is not the same as multiprocessing, where multiple tasks are run simultaneously by different cores.
 2. Yes. Installing more RAM would cause my computer to not boot as it is already at boot maximum (the CPU cannot handle more RAM; if it could, it would increase its ability to handle high load as it would reduce swapping)
 

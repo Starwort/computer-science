@@ -44,8 +44,6 @@ back_text: Back to Chapter 3
 </style>
 # Chapter 49
 
-← [Back to Chapter 3](./index.html)
-
 1. &#x200b;
     1. It allows more potential code reuse, saving time during future development
 2. Test times table → Input times table, (Display questions → Generate random number, Calculate answer, Output question, Input answer, Mark question, Output response), Output score

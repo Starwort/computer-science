@@ -33,8 +33,6 @@
 
 # Chapter 28
 
-← [Back to Chapter 1](./index.html)
-
 1. 57, 255
 2. 0b00100101, 0b01100100
 3. 0b10100111

@@ -1,7 +1,5 @@
 # Fundamentals of OOP
 
-← [Back to W/B 2020/09/28](./index.html)
-
 ## Questions
 
 01. Define the term programming paradigm

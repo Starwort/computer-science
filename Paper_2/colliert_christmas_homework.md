@@ -9,8 +9,6 @@ back_text: Back to Paper 2
 
 # Christmas Homework
 
-← [Back to Paper 2](./index.html)
-
 [Questions](colliert_christmas_hw_questions_pandoc_out.html)
 
 Files:

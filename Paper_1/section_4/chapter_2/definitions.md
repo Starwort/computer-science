@@ -9,8 +9,6 @@ back_text: Back to Chapter 2
 
 # Data structures definitions
 
-← [Back to Chapter 2](./index.html)
-
 - Stack
   - A Last In First Out (LIFO) data structure; the last item placed into the stack is the first one to be removed.
 - Queue

@@ -1,7 +1,5 @@
 # Addressing modes
 
-← [Back to Chapter 4](./index.html)
-
 ## Immediate addressing
 
 - The operand is used directly

@@ -1,7 +1,5 @@
 # Logic Gates
 
-← [Back to Chapter 3](./index.html)
-
 Gate | Symbol | Operator
 --- | --- | ---
 Conjuction<br>AND | ![AND gate](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AND_ANSI_Labelled.svg/120px-AND_ANSI_Labelled.svg.png) | ∧

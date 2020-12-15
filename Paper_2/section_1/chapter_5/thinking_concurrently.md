@@ -43,8 +43,6 @@ back_text: Back to Chapter 5
 </style>
 # Thinking concurrently
 
-← [Back to Chapter 5](./index.html)
-
 <x-question>
 
 1. A house may have a burglar alarm system which continually monitors the front door, back door, windows, room upstairs, and downstairs.

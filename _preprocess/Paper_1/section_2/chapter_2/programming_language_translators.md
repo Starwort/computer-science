@@ -33,8 +33,6 @@
 
 # Chapter 10
 
-← [Back to Chapter 2](./index.html)
-
 1. To prevent unauthorised copying or modifications
 
 ## Exercises
