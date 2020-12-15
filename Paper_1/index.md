@@ -158,6 +158,7 @@ back_text: Back to Computer Science
 
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Data Structures](./section_4/chapter_2/data_structures.html)
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Definitions](./section_4/chapter_2/definitions.html)
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Linked Lists And Arrays](./section_4/chapter_2/linked_lists_and_arrays.html)
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Lists And Linked Lists](./section_4/chapter_2/lists_and_linked_lists.html)
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Queues](./section_4/chapter_2/queues.html)
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Stacks](./section_4/chapter_2/stacks.html)

@@ -11,6 +11,7 @@ back_text: Back to Section 4
 
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Data Structures](./data_structures.html)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Definitions](./definitions.html)
+- [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Linked Lists And Arrays](./linked_lists_and_arrays.html)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Lists And Linked Lists](./lists_and_linked_lists.html)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Queues](./queues.html)
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Stacks](./stacks.html)

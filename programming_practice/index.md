@@ -9,6 +9,17 @@ back_text: Back to Computer Science
 
 # **Programming Practice**
 
+- <details open><summary><a href='./dfsdemo'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Dfsdemo</a></summary>
+
+  - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Demo](./dfsdemo/demo.html)
+  - [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Material](./dfsdemo/material.css)
+  - [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) Material](./dfsdemo/material.js)
+  - [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Page](./dfsdemo/page.css)
+  - [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) Page](./dfsdemo/page.js)
+  - [![SCSS file](https://img.icons8.com/windows/512/03dac6/css.png) Page](./dfsdemo/page.scss)
+  - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Page Generator](./dfsdemo/page_generator.py)
+
+  </details>
 - <details open><summary><a href='./wb_2020_09_21'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Wb 2020 09 21</a></summary>
 
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Questions](./wb_2020_09_21/food_magnate_questions.html)

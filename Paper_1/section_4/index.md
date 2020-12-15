@@ -20,6 +20,7 @@ back_text: Back to Paper 1
 
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Data Structures](./chapter_2/data_structures.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Definitions](./chapter_2/definitions.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Linked Lists And Arrays](./chapter_2/linked_lists_and_arrays.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Lists And Linked Lists](./chapter_2/lists_and_linked_lists.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Queues](./chapter_2/queues.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Stacks](./chapter_2/stacks.html)

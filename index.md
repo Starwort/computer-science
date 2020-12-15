@@ -160,6 +160,7 @@ back_text: Back to Computer Science
 
       - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Data Structures](./Paper_1/section_4/chapter_2/data_structures.html)
       - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Definitions](./Paper_1/section_4/chapter_2/definitions.html)
+      - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Linked Lists And Arrays](./Paper_1/section_4/chapter_2/linked_lists_and_arrays.html)
       - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Lists And Linked Lists](./Paper_1/section_4/chapter_2/lists_and_linked_lists.html)
       - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Queues](./Paper_1/section_4/chapter_2/queues.html)
       - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Stacks](./Paper_1/section_4/chapter_2/stacks.html)
@@ -349,6 +350,17 @@ back_text: Back to Computer Science
   </details>
 - <details open><summary><a href='./programming_practice'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Programming Practice</a></summary>
 
+  - <details open><summary><a href='./programming_practice/dfsdemo'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Dfsdemo</a></summary>
+
+    - [![HTML file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Demo](./programming_practice/dfsdemo/demo.html)
+    - [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Material](./programming_practice/dfsdemo/material.css)
+    - [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) Material](./programming_practice/dfsdemo/material.js)
+    - [![CSS file](https://img.icons8.com/windows/512/03dac6/css.png) Page](./programming_practice/dfsdemo/page.css)
+    - [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) Page](./programming_practice/dfsdemo/page.js)
+    - [![SCSS file](https://img.icons8.com/windows/512/03dac6/css.png) Page](./programming_practice/dfsdemo/page.scss)
+    - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Page Generator](./programming_practice/dfsdemo/page_generator.py)
+
+    </details>
   - <details open><summary><a href='./programming_practice/wb_2020_09_21'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Wb 2020 09 21</a></summary>
 
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Questions](./programming_practice/wb_2020_09_21/food_magnate_questions.html)
