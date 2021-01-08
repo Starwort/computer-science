@@ -52,6 +52,6 @@ back_text: Back to Paper 1
 - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Inputting And Storing Numbers](./inputting_and_storing_numbers.lmc)
 - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Interpreter](./interpreter.py)
 - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Medium Tasks](./medium_tasks.lmc)
-- [![ file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Render Concept](./render_concept)
+- [![file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Render Concept](./render_concept)
 - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Render Lmc Computer](./render_lmc_computer.py)
-- [![ file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Render Template](./render_template)
+- [![file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Render Template](./render_template)

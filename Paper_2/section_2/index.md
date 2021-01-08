@@ -12,7 +12,7 @@ back_text: Back to Paper 2
 - <details open><summary><a href='./chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 1</a></summary>
 
   - [![CLANG-FORMAT file](https://img.icons8.com/windows/512/03dac6/file-configuration.png) Clang Format](./chapter_1/.clang-format)
-  - [![ file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Main And Function](./chapter_1/main_and_function)
+  - [![file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Main And Function](./chapter_1/main_and_function)
   - [![C file](https://starwort.github.io/computer-science/icon-c.png) Main And Function](./chapter_1/main_and_function.c)
   - [![OCRPSC file](https://img.icons8.com/windows/512/03dac6/code-file.png) Main And Function](./chapter_1/main_and_function.ocrpsc)
   - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Main And Function](./chapter_1/main_and_function.splw)

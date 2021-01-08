@@ -69,12 +69,12 @@ back_text: Back to Computer Science
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Inputting And Storing Numbers](./lmc/inputting_and_storing_numbers.lmc)
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Interpreter](./lmc/interpreter.py)
   - [![LMC file](https://starwort.github.io/computer-science/icon-lmc.png) Medium Tasks](./lmc/medium_tasks.lmc)
-  - [![ file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Render Concept](./lmc/render_concept)
+  - [![file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Render Concept](./lmc/render_concept)
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Render Lmc Computer](./lmc/render_lmc_computer.py)
-  - [![ file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Render Template](./lmc/render_template)
+  - [![file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Render Template](./lmc/render_template)
 
   </details>
-- <details open><summary><a href='././section_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Section 1</a></summary>
+- <details open><summary><a href='./section_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Section 1</a></summary>
 
   - <details open><summary><a href='./section_1/chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 1</a></summary>
 
@@ -104,9 +104,20 @@ back_text: Back to Computer Science
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Questions](./section_1/chapter_5/questions.html)
 
     </details>
+  - <details open><summary><a href='./section_1/subsection_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Subsection 1</a></summary>
+
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) CPU Notes](./section_1/subsection_1/CPU_notes.html)
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Chapter 3 Questions](./section_1/subsection_1/chapter_3_questions.html)
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Chapter 4 Questions](./section_1/subsection_1/chapter_4_questions.html)
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Chapter 5 Questions](./section_1/subsection_1/chapter_5_questions.html)
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Pipelining](./section_1/subsection_1/pipelining.html)
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Processor Architectures](./section_1/subsection_1/processor_architectures.html)
+
+    </details>
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Overview](./section_1/overview.html)
 
   </details>
-- <details open><summary><a href='././section_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Section 2</a></summary>
+- <details open><summary><a href='./section_2'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Section 2</a></summary>
 
   - <details open><summary><a href='./section_2/chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 1</a></summary>
 
@@ -128,6 +139,7 @@ back_text: Back to Computer Science
     - [![PNG file](https://img.icons8.com/windows/512/03dac6/image-document.png) Wfh Oop Exam Questions](./section_2/chapter_4/wfh_oop_exam_questions.png)
 
     </details>
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Overview](./section_2/overview.html)
 
   </details>
 - <details open><summary><a href='././section_3'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Section 3</a></summary>
@@ -162,6 +174,7 @@ back_text: Back to Computer Science
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Lists And Linked Lists](./section_4/chapter_2/lists_and_linked_lists.html)
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Queues](./section_4/chapter_2/queues.html)
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Stacks](./section_4/chapter_2/stacks.html)
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Trees](./section_4/chapter_2/trees.html)
 
     </details>
   - <details open><summary><a href='./section_4/chapter_3'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 3</a></summary>
@@ -170,6 +183,11 @@ back_text: Back to Computer Science
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Logic Gates](./section_4/chapter_3/logic_gates.html)
 
     </details>
+
+  </details>
+- <details open><summary><a href='./section_5'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Section 5</a></summary>
+
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Legal Moral Cultural Ethical Issues](./section_5/legal_moral_cultural_ethical_issues.html)
 
   </details>
 - [![JS file](https://img.icons8.com/windows/512/03dac6/js.png) JS2](./JS2.js)

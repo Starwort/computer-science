@@ -10,7 +10,7 @@ back_text: Back to Section 2
 # **Chapter 1**
 
 - [![CLANG-FORMAT file](https://img.icons8.com/windows/512/03dac6/file-configuration.png) Clang Format](./.clang-format)
-- [![ file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Main And Function](./main_and_function)
+- [![file](https://img.icons8.com/windows/512/03dac6/binary-file.png) Main And Function](./main_and_function)
 - [![C file](https://starwort.github.io/computer-science/icon-c.png) Main And Function](./main_and_function.c)
 - [![OCRPSC file](https://img.icons8.com/windows/512/03dac6/code-file.png) Main And Function](./main_and_function.ocrpsc)
 - [![SPLW file](https://starwort.github.io/computer-science/icon-splw.png) Main And Function](./main_and_function.splw)

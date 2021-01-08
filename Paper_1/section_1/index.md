@@ -37,3 +37,14 @@ back_text: Back to Paper 1
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Questions](./chapter_5/questions.html)
 
   </details>
+- <details open><summary><a href='./subsection_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Subsection 1</a></summary>
+
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) CPU Notes](./subsection_1/CPU_notes.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Chapter 3 Questions](./subsection_1/chapter_3_questions.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Chapter 4 Questions](./subsection_1/chapter_4_questions.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Chapter 5 Questions](./subsection_1/chapter_5_questions.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Pipelining](./subsection_1/pipelining.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Processor Architectures](./subsection_1/processor_architectures.html)
+
+  </details>
+- [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Overview](./overview.html)

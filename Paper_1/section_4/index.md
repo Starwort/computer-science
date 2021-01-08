@@ -24,6 +24,7 @@ back_text: Back to Paper 1
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Lists And Linked Lists](./chapter_2/lists_and_linked_lists.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Queues](./chapter_2/queues.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Stacks](./chapter_2/stacks.html)
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Trees](./chapter_2/trees.html)
 
   </details>
 - <details open><summary><a href='./chapter_3'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 3</a></summary>
