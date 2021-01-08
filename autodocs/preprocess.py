@@ -1,9 +1,8 @@
 from os import mkdir
-from os.path import basename, relpath
+from os.path import basename, exists, relpath
 from shutil import rmtree
 from typing import List, cast
 
-from genericpath import exists
 from tqdm import tqdm
 
 from .utils import (
@@ -31,6 +30,9 @@ def copy_folder(folder: List[Node], page_footer: str, leave: int = 0) -> None:
     """
     try:
         dir_name = folder_node(cast(Node, folder))[2]
+        if dir_name == "/computer-science/404.html":
+            # the folder is empty, we can't copy it
+            return
         real_path = relpath(dir_name, "_preprocess")
         if not exists(real_path):
             mkdir(real_path)
