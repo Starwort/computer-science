@@ -471,11 +471,13 @@ class Simulation:
         company = random.choice(self._companies)
         if up:
             print(
-                f"The reputation of {company.name} has gone up by", reputation_change,
+                f"The reputation of {company.name} has gone up by",
+                reputation_change,
             )
         else:
             print(
-                f"The reputation of {company.name} has gone down by", reputation_change,
+                f"The reputation of {company.name} has gone down by",
+                reputation_change,
             )
             reputation_change *= -1
         company.alter_reputation(reputation_change)
@@ -542,9 +544,11 @@ class Simulation:
             total_reputation += company.reputation
             cumulative_reputations.append(total_reputation)
         for household_no in range(self._simulation_settlement.no_households):
-            (eats_out, x, y,) = self._simulation_settlement.household_eats_out(
-                household_no
-            )
+            (
+                eats_out,
+                x,
+                y,
+            ) = self._simulation_settlement.household_eats_out(household_no)
             if eats_out:
                 # picked = random.random() * total_reputation
                 picked = random.randint(1, int(total_reputation))  # ???
@@ -564,9 +568,11 @@ class Simulation:
                 "Enter 1 for a fast food company, 2 for a family "
                 "company or 3 for a named chef company: "
             )
-        company_type = {"1": "fast food", "2": "family", "3": "named chef",}[
-            company_type
-        ]
+        company_type = {
+            "1": "fast food",
+            "2": "family",
+            "3": "named chef",
+        }[company_type]
         x, y = self._simulation_settlement.get_random_location()
         self._companies.append(
             Company(

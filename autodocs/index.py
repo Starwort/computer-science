@@ -110,12 +110,17 @@ def rindex(folders: Folder, footer: str, previous: str = "", leave: int = 0) -> 
     :type footer: str
     """
     for folder in tqdm(
-        folders, desc=f"Indexing {previous or 'repository'}", leave=bool(leave),
+        folders,
+        desc=f"Indexing {previous or 'repository'}",
+        leave=bool(leave),
     ):
         full_path = join(previous, folder)
         index(full_path, footer, previous, leave)
         rindex(
-            cast(Folder, folders[folder]), footer, full_path, max(leave - 1, 0),
+            cast(Folder, folders[folder]),
+            footer,
+            full_path,
+            max(leave - 1, 0),
         )
 
 

@@ -78,5 +78,7 @@ def run_preprocess(version: str) -> None:
             pass
     nodes = collect_nodes("_preprocess", ignore_files, 1, "_preprocess")
     copy_folder(
-        nodes, f"Preprocessed by AutoDocs.preprocess {version} ⓒ Starwort, 2020", 1,
+        nodes,
+        f"Preprocessed by AutoDocs.preprocess {version} ⓒ Starwort, 2020",
+        1,
     )

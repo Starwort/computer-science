@@ -105,11 +105,12 @@ class Triangle(BaseShape):
     def area(self) -> None:
         print(f"This triangle has an area of {self._area}")
 
+
 def Shape(a: Length, b: Length = None, c: Length = None) -> BaseShape:
     if c is not None:
-        return Triangle(a,b,c)
+        return Triangle(a, b, c)
     elif b is not None:
-        return Rectangle(a,b)
+        return Rectangle(a, b)
     else:
         return Circle(a)
 

@@ -1,12 +1,12 @@
 from math import trunc, floor, ceil, log2 as log
 
-MAX_8 = 0x7F
+MAX_8 = 0x7f
 MIN_8 = -0x80
 
-MAX_U23 = 0x7FFFFF
+MAX_U23 = 0x7fffff
 MIN_U23 = 0
 
-MAX_U32 = 0xFFFFFFFF
+MAX_U32 = 0xffffffff
 
 INTERVAL_8 = 0x100
 INTERVAL_23 = 0x800000
@@ -82,7 +82,7 @@ class N64Float:
     def from_bits(cls, value):
         sign = 0x80000000 & value
         sign //= 0x80000000
-        exp = 0x7F800000 & value
+        exp = 0x7f800000 & value
         exp //= 0x800000
         mant = MAX_U23 & value
         return cls(sign, exp, mant)
