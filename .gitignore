@@ -139,5 +139,5 @@ render_markdown.sh
 notes.txt
 
 # symlinks that break my page build
-_preprocess/programming_practice/dfsdemo/material.css
-_preprocess/programming_practice/dfsdemo/material.js
+_preprocess/programming_practice/dfsdemo/material_link.css
+_preprocess/programming_practice/dfsdemo/material_link.js
