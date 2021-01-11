@@ -9,4 +9,9 @@ back_text: Back to Paper 1
 
 # **Section 5**
 
+- <details open><summary><a href='./chapter_1'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Chapter 1</a></summary>
+
+  - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Legislation Questions](./chapter_1/legislation_questions.html)
+
+  </details>
 - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Legal Moral Cultural Ethical Issues](./legal_moral_cultural_ethical_issues.html)
