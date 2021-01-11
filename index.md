@@ -445,6 +445,11 @@ back_text: Back to Computer Science
     - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Karnaugh Maps](./programming_practice/wb_2020_11_02/karnaugh_maps.html)
 
     </details>
+  - <details open><summary><a href='./programming_practice/wb_2021_01_11'><img title='Folder' src='https://starwort.github.io/computer-science/icon-folder.png'> Wb 2021 01 11</a></summary>
+
+    - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Algorithmic Complexity](./programming_practice/wb_2021_01_11/algorithmic_complexity.html)
+
+    </details>
   - [![PY file](https://img.icons8.com/windows/512/03dac6/py.png) Food Magnate Simulation](./programming_practice/food_magnate_simulation.py)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Programming Tasks](./programming_practice/food_magnate_simulation_programming_tasks.html)
   - [![MD file](https://img.icons8.com/windows/512/03dac6/regular-document.png) Food Magnate Simulation Questions](./programming_practice/food_magnate_simulation_questions.html)
