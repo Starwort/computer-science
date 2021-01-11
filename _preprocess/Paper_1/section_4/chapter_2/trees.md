@@ -112,3 +112,11 @@ END PROCEDURE
         - `blackbird`, `chaffinch`, `fieldfare`, `linnet`, `magpie`, `pigeon`, `robin`, `skylark`, `thrush`
     03. Post-order traversal
         - `blackbird`, `fieldfare`, `linnet`, `chaffinch`, `pigeon`, `skylark`, `thrush`, `robin`, `magpie`
+
+In a BST, what kind of traversal will retrieve the contents in sorted order?
+
+- In-order traversal
+
+How do we find an object in a BST?
+
+- Check at each node if the object equals the node's value. If it does then it has been found; if not, check if the object is less than the node's value and traverse the left path if it is (and the right path if it is not). If there is no path to travel in this step then the object is not in the tree
