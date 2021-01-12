@@ -8,7 +8,6 @@ A number of laws govern the use of computers. For each of the following scenario
 | Someone downloads a pirated version of a piece of software that users would ordinarily have to pay for |     | √    |     |
 | Someone writes and distributes a virus                                                                 | √   |      |     |
 
-
 *Marks: [3 / 3]* <!-- not a header -->
 
 A town council stores details of the people who live in the town. These details are stored in a database on a newtork. Some people are worried about the storage of their details.
