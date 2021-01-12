@@ -85,3 +85,11 @@ Discuss to what extent each of the following laws is intended to address the iss
   - The CDPA addresses the issue of someone accessing and distributing clips of the film online by making it illegal to:
     - use anybody's intellectual property without permission
     - make or use una
+
+A number of laws govern the use of computers.
+
+Describe the purpose of the Regulation of Investigatory Powers Act.
+
+> The Regulation of Investigatory Powers Act (RIPA) was created with the purpose of allowing law enforcement to inspect online communications at a similar or greater level of ability compared to the physical world.
+>
+> Police, and certain specified government agencies, may (under certain circumstances) collect mass data on individuals' digital communications, without their knowledge or consent. It also allows the seizure of encryption keys, to decrypt encrypted data.
