@@ -1,3 +1,6 @@
+---
+---
+
 // @use "common";
 @mixin inset-shadow($dp) {
     -webkit-box-shadow: inset 0px 7.5px 10px ($dp * 1)-15px rgba(0, 0, 0, 1);
