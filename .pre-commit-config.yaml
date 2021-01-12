@@ -5,7 +5,7 @@ repos:
     hooks:
     -   id: autodoc
         name: document
-        entry: bash -c './run_autodoc.py 2>/dev/null; sleep 0.5' --
+        entry: bash -c './run_autodoc.py 2>log/autodocs_run_$RANDOM.log; sleep 0.5' --
         language: system
         verbose: false
         always_run: true

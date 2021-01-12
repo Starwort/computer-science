@@ -141,3 +141,6 @@ notes.txt
 # symlinks that break my page build
 _preprocess/programming_practice/dfsdemo/material_link.css
 _preprocess/programming_practice/dfsdemo/material_link.js
+
+# log files for hooks
+log/
