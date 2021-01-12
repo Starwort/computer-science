@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!~/.pyenv/versions/3.9.0/bin/python
 import subprocess
 
 import autodocs
