@@ -93,3 +93,11 @@ Describe the purpose of the Regulation of Investigatory Powers Act.
 > The Regulation of Investigatory Powers Act (RIPA) was created with the purpose of allowing law enforcement to inspect online communications at a similar or greater level of ability compared to the physical world.
 >
 > Police, and certain specified government agencies, may (under certain circumstances) collect mass data on individuals' digital communications, without their knowledge or consent. It also allows the seizure of encryption keys, to decrypt encrypted data.
+
+The Investigatory Powers Act has been nicknamed the 'Snoopers Act'. The legislation itself is quite controversial. Discuss why this is so.
+
+> The Investigatory Powers Act (IPA) further enhances the powers of law enforcement from the powers given under the Regulation of Investigatory Powers Act (RIPA). It added sweeping new powers, such as the bulk collection of data, to the previous powers such as seizure of encryption keys.
+>
+> Privacy campaigners felt that the new powers were overly intrusive, and the Civil Rights group Liberty issued a legal challenge against the IPA, stipulating that it does not protect human rights (as defined by the European Convention on Human Rights).
+>
+> Those who support the act, however, suggest that it mainly serves the purpose of bringing digital powers in line with their analogue counterparts.
