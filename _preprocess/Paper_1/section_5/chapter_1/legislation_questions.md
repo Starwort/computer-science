@@ -3,7 +3,7 @@
 A number of laws govern the use of computers. For each of the following scenarios tick one box relating to the law being broken.
 
 | Scenario                                                                                               | CMA | CDPA | DPA |
-|--------------------------------------------------------------------------------------------------------|-:-:-|-:-:--|-:-:-|
+|--------------------------------------------------------------------------------------------------------|:---:|:----:|:---:|
 | A bank accidentally publishes customers' details onto its website                                      |     |      | √   |
 | Someone downloads a pirated version of a piece of software that users would ordinarily have to pay for |     | √    |     |
 | Someone writes and distributes a virus                                                                 | √   |      |     |
