@@ -8,7 +8,9 @@
     - adequate, relevant, and inexcessive
     - accurate and kept up-to-date where necessary
     - kept no longer than is necessary
-    - processed securely
+    - kept in accordance with the data subject's rights
+    - kept securely
+    - kept within the country, unless adequate protection is used
 - Computer Misuse Act 1990
   - Introduced with the widespread use of the internet and the ease of remotely logging into a network; to cope with the increase in hacking and viruses
   - Main aims:
@@ -21,6 +23,16 @@
   - Even work that is freely available to download from the internet is covered by copyright
   - A piece of software such as an applications package, game, or operating system is protected under copyright.
   - **Algorithms** are *not* protected
-- RIPA 2000
+- Regulation of Investigatory Powers Act 2000
+  - Quite a modern law, born out of modern threats being presented by criminal and terrorist organisations.
+  - It gives certain bodies the right to monitor communications and internet activity
+  - It lays out the limits of police and government agencies' powers, and the responsibilities of companies such as ISPs, telecom companies, and social media platforms
+  - Under the act, the police and specified public bodies can, with appropriate authorisation,
+    - demand that ISPs provide access to their customers' digital communications, without informing the customer
+    - carry out mass surveillance of digital communications
+    - demand that ISPs fit equipment to allow for digital surveillance
+    - demand that someone hand over the keys to encrypted information
+    - intercept and monitor ongoing digital communication
+    - keep secret the existence of interception warrants and any data collected under them, even from being revealed in court
 
-Understand that developments in digital technologies have enabled massive transformation in the capacity of organisations
+Understand that developments in digital technologies have enabled massive transformation in the capacity of organisations to monitor behaviour, and amass and analyse personal information.
