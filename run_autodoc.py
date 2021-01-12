@@ -1,4 +1,4 @@
-#!~/.pyenv/versions/3.9.0/bin/python
+#!/home/starwort/.pyenv/versions/3.9.0/bin/python
 import subprocess
 
 import autodocs
