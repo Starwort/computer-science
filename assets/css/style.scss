@@ -663,7 +663,7 @@ details {
 summary {
     background-color: rgba(187, 134, 252, 0.3);
     padding-left: 5px;
-    details[open] & {
+    details[open] > & {
         margin-bottom: 2px;
     }
 }
