@@ -28,10 +28,33 @@
 
             ul {
                 list-style-type: none;
+                padding-left: 25px;
             }
 
             p {
                 margin-bottom: 0em !important;
+            }
+
+            details>summary {
+                list-style: none;
+            }
+
+            details>summary::-webkit-details-marker {
+                display: none;
+            }
+
+            details>summary::before {
+                font-family: "Material Icons";
+                color: var(--secondary);
+                padding-right: 5px;
+            }
+
+            details[open]>summary::before {
+                content: "folder_open";
+            }
+
+            details[open]>summary::before {
+                content: "folder";
             }
         </style>
     </head>
@@ -41,10 +64,12 @@
 
         <header class="page-header" role="banner">
             <h1 class="project-name">
-                {{ page.title | default: site.title | default: site.github.repository_name }}
+                {{ page.title | default: site.title | default:
+                site.github.repository_name }}
             </h1>
             <h2 class="project-tagline">
-                {{ page.description | default: site.description | default: site.github.project_tagline }}
+                {{ page.description | default: site.description | default:
+                site.github.project_tagline }}
             </h2>
         </header>
 
