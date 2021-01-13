@@ -1,8 +1,8 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = "2.4.4"
-COMMENT = "fix broken link for 'C' filetype"
+VERSION = "2.5.0"
+COMMENT = "Switch to Material Icons"
 
 ID_STRING = f'{VERSION} "{COMMENT}"'
 

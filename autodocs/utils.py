@@ -5,7 +5,7 @@ from typing import Union, cast
 
 from tqdm.auto import tqdm
 
-from .filetypes import filetype_to_url, missing_file
+from .filetypes import filetype_to_material  # , missing_file
 
 BaseNode = tuple[str, str, str]
 Node = Union[BaseNode, list[BaseNode]]
@@ -59,21 +59,21 @@ def get_name_and_extension(path: str) -> tuple[str, str]:
     return extension, ""
 
 
-@lru_cache
-def get_icon(file_extension: str) -> str:
-    """Return the markdown icon for the given file_extension
+# @lru_cache
+# def get_icon(file_extension: str) -> str:
+#     """Return the markdown icon for the given file_extension
 
-    :param file_extension: File extension for which to retrieve the icon
-    :type file_extension: str
-    :return: Markdown for the icon for file_extension
-    :rtype: str
-    """
-    if file_extension == "folder":
-        return "![Folder]({})".format(filetype_to_url["folder"])
-    return "![{}file]({})".format(
-        file_extension.upper() + " " if file_extension else "",
-        filetype_to_url.get(file_extension.lower(), missing_file),
-    )
+#     :param file_extension: File extension for which to retrieve the icon
+#     :type file_extension: str
+#     :return: Markdown for the icon for file_extension
+#     :rtype: str
+#     """
+#     if file_extension == "folder":
+#         return "![Folder]({})".format(filetype_to_url["folder"])
+#     return "![{}file]({})".format(
+#         file_extension.upper() + " " if file_extension else "",
+#         filetype_to_url.get(file_extension.lower(), missing_file),
+#     )
 
 
 @lru_cache
@@ -86,10 +86,11 @@ def get_html_icon(file_extension: str) -> str:
     :rtype: str
     """
     if file_extension == "folder":
-        return "<img title='Folder' src={!r}>".format(filetype_to_url["folder"])
-    return "<img title={!r} src={!r}>".format(
+        return ""
+    #     return "<img title='Folder' src={!r}>".format(filetype_to_url["folder"])
+    return '<i title={!r} class="material-icons">{!r}</>'.format(
         file_extension.upper() + " file",
-        filetype_to_url.get(file_extension.lower(), missing_file),
+        filetype_to_material.get(file_extension.lower(), file_extension["missing"]),
     )
 
 
@@ -203,20 +204,20 @@ def sorted_files(source_dir: str) -> list[str]:
     )
 
 
-@lru_cache
-def format_node(node: BaseNode) -> str:
-    """Format node as a link
+# @lru_cache
+# def format_node(node: BaseNode) -> str:
+#     """Format node as a link
 
-    :param node: The node to format
-    :type node: Node
-    :return: The formatted node
-    :rtype: str
-    """
-    if node[2].endswith(".md"):
-        url = node[2][:-3] + ".html"
-    else:
-        url = node[2]
-    return f"[{get_icon(node[1])} {casify(node[0])}]({url})"
+#     :param node: The node to format
+#     :type node: Node
+#     :return: The formatted node
+#     :rtype: str
+#     """
+#     if node[2].endswith(".md"):
+#         url = node[2][:-3] + ".html"
+#     else:
+#         url = node[2]
+#     return f"[{get_icon(node[1])} {casify(node[0])}]({url})"
 
 
 @lru_cache
@@ -228,7 +229,7 @@ def html_format_node(node: Node) -> str:
     :return: The formatted node
     :rtype: str
     """
-    return f"<a href={node[2]!r}>{get_html_icon(node[1])} {casify(node[0])}</a>"
+    return f"<a href={node[2]!r}>{get_html_icon(node[1])}{casify(node[0])}</a>"
 
 
 @lru_cache
