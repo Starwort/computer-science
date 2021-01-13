@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Food Magnate Questions | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.0 "Switch to Material Icons" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.1 "fix a bunch of bugs" ⓒ Starwort, 2020
 has_back: true
 back_link: ./
 back_text: Back to Wb 2020 09 21
