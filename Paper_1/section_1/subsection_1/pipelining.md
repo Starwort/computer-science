@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pipelining | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.4.4 "fix broken link for 'C' filetype" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.0 "Switch to Material Icons" ⓒ Starwort, 2020
 has_back: true
 back_link: ./
 back_text: Back to Subsection 1
