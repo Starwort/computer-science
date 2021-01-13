@@ -47,7 +47,7 @@ def nodes_to_tree(nodes: List[Node], need_indent: bool = False) -> str:
                 + "\n  </details>\n"
             )
         else:
-            out += "- " + format_node(node) + "\n"
+            out += "- " + html_format_node(node) + "\n"
     return indent(out or "- [Empty]", "  " * need_indent)
 
 
