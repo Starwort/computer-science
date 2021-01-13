@@ -9,16 +9,16 @@ back_text: Back to Term 5
 
 # **Week 3**
 
-- <a href='./intermediate_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</>Intermediate Challenge 1</a>
-- <a href='./intermediate_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</>Intermediate Challenge 1</a>
-- <a href='./intermediate_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</>Intermediate Challenge 2</a>
-- <a href='./intermediate_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</>Intermediate Challenge 2</a>
-- <a href='./intermediate_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</>Intermediate Challenge 3</a>
-- <a href='./intermediate_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</>Intermediate Challenge 3</a>
-- <a href='./lmc_tasks.md'><i title='MD file' class="material-icons">'article'</>Lmc Tasks</a>
-- <a href='./simple_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</>Simple Challenge 1</a>
-- <a href='./simple_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</>Simple Challenge 1</a>
-- <a href='./simple_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</>Simple Challenge 2</a>
-- <a href='./simple_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</>Simple Challenge 2</a>
-- <a href='./simple_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</>Simple Challenge 3</a>
-- <a href='./simple_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</>Simple Challenge 3</a>
+- <a href='./intermediate_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</i>Intermediate Challenge 1</a>
+- <a href='./intermediate_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</i>Intermediate Challenge 1</a>
+- <a href='./intermediate_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</i>Intermediate Challenge 2</a>
+- <a href='./intermediate_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</i>Intermediate Challenge 2</a>
+- <a href='./intermediate_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</i>Intermediate Challenge 3</a>
+- <a href='./intermediate_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</i>Intermediate Challenge 3</a>
+- <a href='./lmc_tasks.md'><i title='MD file' class="material-icons">'article'</i>Lmc Tasks</a>
+- <a href='./simple_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</i>Simple Challenge 1</a>
+- <a href='./simple_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</i>Simple Challenge 1</a>
+- <a href='./simple_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</i>Simple Challenge 2</a>
+- <a href='./simple_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</i>Simple Challenge 2</a>
+- <a href='./simple_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</i>Simple Challenge 3</a>
+- <a href='./simple_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</i>Simple Challenge 3</a>

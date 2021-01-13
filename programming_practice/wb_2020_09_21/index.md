@@ -9,13 +9,13 @@ back_text: Back to Programming Practice
 
 # **Wb 2020 09 21**
 
-- <a href='./food_magnate_questions.md'><i title='MD file' class="material-icons">'article'</>Food Magnate Questions</a>
-- <a href='./pythonic_food_magnate_simulation.py'><i title='PY file' class="material-icons">'code'</>Pythonic Food Magnate Simulation</a>
-- <a href='./pythonic_food_magnate_simulation_task_1.py'><i title='PY file' class="material-icons">'code'</>Pythonic Food Magnate Simulation Task 1</a>
-- <a href='./pythonic_food_magnate_simulation_task_2.py'><i title='PY file' class="material-icons">'code'</>Pythonic Food Magnate Simulation Task 2</a>
-- <a href='./pythonic_food_magnate_simulation_task_3.py'><i title='PY file' class="material-icons">'code'</>Pythonic Food Magnate Simulation Task 3</a>
-- <a href='./task_1.cast'><i title='CAST file' class="material-icons">'movie'</>Task 1</a>
-- <a href='./task_1.diff'><i title='DIFF file' class="material-icons">'compare'</>Task 1</a>
-- <a href='./task_2.cast'><i title='CAST file' class="material-icons">'movie'</>Task 2</a>
-- <a href='./task_2.diff'><i title='DIFF file' class="material-icons">'compare'</>Task 2</a>
-- <a href='./task_3.diff'><i title='DIFF file' class="material-icons">'compare'</>Task 3</a>
+- <a href='./food_magnate_questions.md'><i title='MD file' class="material-icons">'article'</i>Food Magnate Questions</a>
+- <a href='./pythonic_food_magnate_simulation.py'><i title='PY file' class="material-icons">'code'</i>Pythonic Food Magnate Simulation</a>
+- <a href='./pythonic_food_magnate_simulation_task_1.py'><i title='PY file' class="material-icons">'code'</i>Pythonic Food Magnate Simulation Task 1</a>
+- <a href='./pythonic_food_magnate_simulation_task_2.py'><i title='PY file' class="material-icons">'code'</i>Pythonic Food Magnate Simulation Task 2</a>
+- <a href='./pythonic_food_magnate_simulation_task_3.py'><i title='PY file' class="material-icons">'code'</i>Pythonic Food Magnate Simulation Task 3</a>
+- <a href='./task_1.cast'><i title='CAST file' class="material-icons">'movie'</i>Task 1</a>
+- <a href='./task_1.diff'><i title='DIFF file' class="material-icons">'compare'</i>Task 1</a>
+- <a href='./task_2.cast'><i title='CAST file' class="material-icons">'movie'</i>Task 2</a>
+- <a href='./task_2.diff'><i title='DIFF file' class="material-icons">'compare'</i>Task 2</a>
+- <a href='./task_3.diff'><i title='DIFF file' class="material-icons">'compare'</i>Task 3</a>

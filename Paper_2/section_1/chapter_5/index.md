@@ -9,4 +9,4 @@ back_text: Back to Section 1
 
 # **Chapter 5**
 
-- <a href='./thinking_concurrently.md'><i title='MD file' class="material-icons">'article'</>Thinking Concurrently</a>
+- <a href='./thinking_concurrently.md'><i title='MD file' class="material-icons">'article'</i>Thinking Concurrently</a>

@@ -9,5 +9,5 @@ back_text: Back to Section 1
 
 # **Chapter 2**
 
-- <a href='./cisc_and_risc.md'><i title='MD file' class="material-icons">'article'</>Cisc And Risc</a>
-- <a href='./gpus.md'><i title='MD file' class="material-icons">'article'</>Gpus</a>
+- <a href='./cisc_and_risc.md'><i title='MD file' class="material-icons">'article'</i>Cisc And Risc</a>
+- <a href='./gpus.md'><i title='MD file' class="material-icons">'article'</i>Gpus</a>

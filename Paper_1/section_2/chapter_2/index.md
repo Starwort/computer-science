@@ -9,5 +9,5 @@ back_text: Back to Section 2
 
 # **Chapter 2**
 
-- <a href='./nature_of_applications.md'><i title='MD file' class="material-icons">'article'</>Nature Of Applications</a>
-- <a href='./programming_language_translators.md'><i title='MD file' class="material-icons">'article'</>Programming Language Translators</a>
+- <a href='./nature_of_applications.md'><i title='MD file' class="material-icons">'article'</i>Nature Of Applications</a>
+- <a href='./programming_language_translators.md'><i title='MD file' class="material-icons">'article'</i>Programming Language Translators</a>

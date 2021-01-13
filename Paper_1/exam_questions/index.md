@@ -9,6 +9,6 @@ back_text: Back to Paper 1
 
 # **Exam Questions**
 
-- <a href='./2020_01_28.md'><i title='MD file' class="material-icons">'article'</>2020 01 28</a>
-- <a href='./2020_02_06.md'><i title='MD file' class="material-icons">'article'</>2020 02 06</a>
-- <a href='./2020_03_03.md'><i title='MD file' class="material-icons">'article'</>2020 03 03</a>
+- <a href='./2020_01_28.md'><i title='MD file' class="material-icons">'article'</i>2020 01 28</a>
+- <a href='./2020_02_06.md'><i title='MD file' class="material-icons">'article'</i>2020 02 06</a>
+- <a href='./2020_03_03.md'><i title='MD file' class="material-icons">'article'</i>2020 03 03</a>

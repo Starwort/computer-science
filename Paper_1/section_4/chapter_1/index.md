@@ -9,6 +9,6 @@ back_text: Back to Section 4
 
 # **Chapter 1**
 
-- <a href='./character_sets.md'><i title='MD file' class="material-icons">'article'</>Character Sets</a>
-- <a href='./data_types_questions.md'><i title='MD file' class="material-icons">'article'</>Data Types Questions</a>
-- <a href='./primitive_data_types.md'><i title='MD file' class="material-icons">'article'</>Primitive Data Types</a>
+- <a href='./character_sets.md'><i title='MD file' class="material-icons">'article'</i>Character Sets</a>
+- <a href='./data_types_questions.md'><i title='MD file' class="material-icons">'article'</i>Data Types Questions</a>
+- <a href='./primitive_data_types.md'><i title='MD file' class="material-icons">'article'</i>Primitive Data Types</a>

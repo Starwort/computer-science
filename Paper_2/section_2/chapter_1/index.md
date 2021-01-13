@@ -9,12 +9,12 @@ back_text: Back to Section 2
 
 # **Chapter 1**
 
-- <a href='./.clang-format'><i title='CLANG-FORMAT file' class="material-icons">'build'</>Clang Format</a>
-- <a href='./main_and_function'><i title=' file' class="material-icons">'get_app'</>Main And Function</a>
-- <a href='./main_and_function.c'><i title='C file' class="material-icons">'code'</>Main And Function</a>
-- <a href='./main_and_function.ocrpsc'><i title='OCRPSC file' class="material-icons">'code'</>Main And Function</a>
-- <a href='./main_and_function.splw'><i title='SPLW file' class="material-icons">'code'</>Main And Function</a>
-- <a href='./programming_techniques.md'><i title='MD file' class="material-icons">'article'</>Programming Techniques</a>
-- <a href='./recursion.md'><i title='MD file' class="material-icons">'article'</>Recursion</a>
-- <a href='./sub_programs.c'><i title='C file' class="material-icons">'code'</>Sub Programs</a>
-- <a href='./sub_programs.md'><i title='MD file' class="material-icons">'article'</>Sub Programs</a>
+- <a href='./.clang-format'><i title='CLANG-FORMAT file' class="material-icons">'build'</i>Clang Format</a>
+- <a href='./main_and_function'><i title=' file' class="material-icons">'get_app'</i>Main And Function</a>
+- <a href='./main_and_function.c'><i title='C file' class="material-icons">'code'</i>Main And Function</a>
+- <a href='./main_and_function.ocrpsc'><i title='OCRPSC file' class="material-icons">'code'</i>Main And Function</a>
+- <a href='./main_and_function.splw'><i title='SPLW file' class="material-icons">'code'</i>Main And Function</a>
+- <a href='./programming_techniques.md'><i title='MD file' class="material-icons">'article'</i>Programming Techniques</a>
+- <a href='./recursion.md'><i title='MD file' class="material-icons">'article'</i>Recursion</a>
+- <a href='./sub_programs.c'><i title='C file' class="material-icons">'code'</i>Sub Programs</a>
+- <a href='./sub_programs.md'><i title='MD file' class="material-icons">'article'</i>Sub Programs</a>

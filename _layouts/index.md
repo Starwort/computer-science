@@ -9,5 +9,5 @@ back_text: Back to Computer Science
 
 # ** Layouts**
 
-- <a href='./default.html'><i title='HTML file' class="material-icons">'web'</>Default</a>
-- <a href='./index_template.html'><i title='HTML file' class="material-icons">'web'</>Index Template</a>
+- <a href='./default.html'><i title='HTML file' class="material-icons">'web'</i>Default</a>
+- <a href='./index_template.html'><i title='HTML file' class="material-icons">'web'</i>Index Template</a>

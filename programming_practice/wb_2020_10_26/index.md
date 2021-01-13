@@ -9,4 +9,4 @@ back_text: Back to Programming Practice
 
 # **Wb 2020 10 26**
 
-- <a href='./booklet_1.md'><i title='MD file' class="material-icons">'article'</>Booklet 1</a>
+- <a href='./booklet_1.md'><i title='MD file' class="material-icons">'article'</i>Booklet 1</a>

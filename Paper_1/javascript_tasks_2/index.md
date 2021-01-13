@@ -9,7 +9,7 @@ back_text: Back to Paper 1
 
 # **Javascript Tasks 2**
 
-- <a href='./HTML.js'><i title='JS file' class="material-icons">'web_asset'</>HTML</a>
-- <a href='./JavaScript.md'><i title='MD file' class="material-icons">'article'</>JavaScript</a>
-- <a href='./MarkDown.html'><i title='HTML file' class="material-icons">'web'</>MarkDown</a>
-- <a href='./success.md'><i title='MD file' class="material-icons">'article'</>Success</a>
+- <a href='./HTML.js'><i title='JS file' class="material-icons">'web_asset'</i>HTML</a>
+- <a href='./JavaScript.md'><i title='MD file' class="material-icons">'article'</i>JavaScript</a>
+- <a href='./MarkDown.html'><i title='HTML file' class="material-icons">'web'</i>MarkDown</a>
+- <a href='./success.md'><i title='MD file' class="material-icons">'article'</i>Success</a>

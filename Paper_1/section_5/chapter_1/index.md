@@ -9,4 +9,4 @@ back_text: Back to Section 5
 
 # **Chapter 1**
 
-- <a href='./legislation_questions.md'><i title='MD file' class="material-icons">'article'</>Legislation Questions</a>
+- <a href='./legislation_questions.md'><i title='MD file' class="material-icons">'article'</i>Legislation Questions</a>

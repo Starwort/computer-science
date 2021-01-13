@@ -11,17 +11,17 @@ back_text: Back to Computer Science
 
 - <details open><summary><a href='./exam_questions'>Exam Questions</a></summary>
 
-  - <a href='./exam_questions/2020_01_28.md'><i title='MD file' class="material-icons">'article'</>2020 01 28</a>
-  - <a href='./exam_questions/2020_02_06.md'><i title='MD file' class="material-icons">'article'</>2020 02 06</a>
-  - <a href='./exam_questions/2020_03_03.md'><i title='MD file' class="material-icons">'article'</>2020 03 03</a>
+  - <a href='./exam_questions/2020_01_28.md'><i title='MD file' class="material-icons">'article'</i>2020 01 28</a>
+  - <a href='./exam_questions/2020_02_06.md'><i title='MD file' class="material-icons">'article'</i>2020 02 06</a>
+  - <a href='./exam_questions/2020_03_03.md'><i title='MD file' class="material-icons">'article'</i>2020 03 03</a>
 
   </details>
 - <details open><summary><a href='./javascript_tasks_2'>Javascript Tasks 2</a></summary>
 
-  - <a href='./javascript_tasks_2/HTML.js'><i title='JS file' class="material-icons">'web_asset'</>HTML</a>
-  - <a href='./javascript_tasks_2/JavaScript.md'><i title='MD file' class="material-icons">'article'</>JavaScript</a>
-  - <a href='./javascript_tasks_2/MarkDown.html'><i title='HTML file' class="material-icons">'web'</>MarkDown</a>
-  - <a href='./javascript_tasks_2/success.md'><i title='MD file' class="material-icons">'article'</>Success</a>
+  - <a href='./javascript_tasks_2/HTML.js'><i title='JS file' class="material-icons">'web_asset'</i>HTML</a>
+  - <a href='./javascript_tasks_2/JavaScript.md'><i title='MD file' class="material-icons">'article'</i>JavaScript</a>
+  - <a href='./javascript_tasks_2/MarkDown.html'><i title='HTML file' class="material-icons">'web'</i>MarkDown</a>
+  - <a href='./javascript_tasks_2/success.md'><i title='MD file' class="material-icons">'article'</i>Success</a>
 
   </details>
 - <details open><summary><a href='./lmc'>Lmc</a></summary>
@@ -32,127 +32,127 @@ back_text: Back to Computer Science
 
       - <details open><summary><a href='./lmc/wfh/term_5/week_3'>Week 3</a></summary>
 
-        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</>Intermediate Challenge 1</a>
-        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</>Intermediate Challenge 1</a>
-        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</>Intermediate Challenge 2</a>
-        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</>Intermediate Challenge 2</a>
-        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</>Intermediate Challenge 3</a>
-        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</>Intermediate Challenge 3</a>
-        - <a href='./lmc/wfh/term_5/week_3/lmc_tasks.md'><i title='MD file' class="material-icons">'article'</>Lmc Tasks</a>
-        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</>Simple Challenge 1</a>
-        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</>Simple Challenge 1</a>
-        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</>Simple Challenge 2</a>
-        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</>Simple Challenge 2</a>
-        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</>Simple Challenge 3</a>
-        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</>Simple Challenge 3</a>
+        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</i>Intermediate Challenge 1</a>
+        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</i>Intermediate Challenge 1</a>
+        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</i>Intermediate Challenge 2</a>
+        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</i>Intermediate Challenge 2</a>
+        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</i>Intermediate Challenge 3</a>
+        - <a href='./lmc/wfh/term_5/week_3/intermediate_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</i>Intermediate Challenge 3</a>
+        - <a href='./lmc/wfh/term_5/week_3/lmc_tasks.md'><i title='MD file' class="material-icons">'article'</i>Lmc Tasks</a>
+        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</i>Simple Challenge 1</a>
+        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</i>Simple Challenge 1</a>
+        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</i>Simple Challenge 2</a>
+        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</i>Simple Challenge 2</a>
+        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</i>Simple Challenge 3</a>
+        - <a href='./lmc/wfh/term_5/week_3/simple_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</i>Simple Challenge 3</a>
 
         </details>
       - <details open><summary><a href='./lmc/wfh/term_5/week_4'>Week 4</a></summary>
 
-        - <a href='./lmc/wfh/term_5/week_4/03._lmc_questions.md'><i title='MD file' class="material-icons">'article'</>03. Lmc Questions</a>
-        - <a href='./lmc/wfh/term_5/week_4/04._lmc_advanced.md'><i title='MD file' class="material-icons">'article'</>04. Lmc Advanced</a>
-        - <a href='./lmc/wfh/term_5/week_4/04_ac1.lmc'><i title='LMC file' class="material-icons">'code'</>04 Ac1</a>
-        - <a href='./lmc/wfh/term_5/week_4/04_ac2.lmc'><i title='LMC file' class="material-icons">'code'</>04 Ac2</a>
-        - <a href='./lmc/wfh/term_5/week_4/05._lmc_questions.md'><i title='MD file' class="material-icons">'article'</>05. Lmc Questions</a>
-        - <a href='./lmc/wfh/term_5/week_4/lmc_questions_feedback.md'><i title='MD file' class="material-icons">'article'</>Lmc Questions Feedback</a>
+        - <a href='./lmc/wfh/term_5/week_4/03._lmc_questions.md'><i title='MD file' class="material-icons">'article'</i>03. Lmc Questions</a>
+        - <a href='./lmc/wfh/term_5/week_4/04._lmc_advanced.md'><i title='MD file' class="material-icons">'article'</i>04. Lmc Advanced</a>
+        - <a href='./lmc/wfh/term_5/week_4/04_ac1.lmc'><i title='LMC file' class="material-icons">'code'</i>04 Ac1</a>
+        - <a href='./lmc/wfh/term_5/week_4/04_ac2.lmc'><i title='LMC file' class="material-icons">'code'</i>04 Ac2</a>
+        - <a href='./lmc/wfh/term_5/week_4/05._lmc_questions.md'><i title='MD file' class="material-icons">'article'</i>05. Lmc Questions</a>
+        - <a href='./lmc/wfh/term_5/week_4/lmc_questions_feedback.md'><i title='MD file' class="material-icons">'article'</i>Lmc Questions Feedback</a>
 
         </details>
 
       </details>
 
     </details>
-  - <a href='./lmc/advanced_tasks.lmc'><i title='LMC file' class="material-icons">'code'</>Advanced Tasks</a>
-  - <a href='./lmc/beginner_tasks.lmc'><i title='LMC file' class="material-icons">'code'</>Beginner Tasks</a>
-  - <a href='./lmc/bundled_interpreter.py'><i title='PY file' class="material-icons">'code'</>Bundled Interpreter</a>
-  - <a href='./lmc/difference.lmc'><i title='LMC file' class="material-icons">'code'</>Difference</a>
-  - <a href='./lmc/equality.lmc'><i title='LMC file' class="material-icons">'code'</>Equality</a>
-  - <a href='./lmc/inputting_and_storing_numbers.lmc'><i title='LMC file' class="material-icons">'code'</>Inputting And Storing Numbers</a>
-  - <a href='./lmc/interpreter.py'><i title='PY file' class="material-icons">'code'</>Interpreter</a>
-  - <a href='./lmc/medium_tasks.lmc'><i title='LMC file' class="material-icons">'code'</>Medium Tasks</a>
-  - <a href='./lmc/render_concept'><i title=' file' class="material-icons">'get_app'</>Render Concept</a>
-  - <a href='./lmc/render_lmc_computer.py'><i title='PY file' class="material-icons">'code'</>Render Lmc Computer</a>
-  - <a href='./lmc/render_template'><i title=' file' class="material-icons">'get_app'</>Render Template</a>
+  - <a href='./lmc/advanced_tasks.lmc'><i title='LMC file' class="material-icons">'code'</i>Advanced Tasks</a>
+  - <a href='./lmc/beginner_tasks.lmc'><i title='LMC file' class="material-icons">'code'</i>Beginner Tasks</a>
+  - <a href='./lmc/bundled_interpreter.py'><i title='PY file' class="material-icons">'code'</i>Bundled Interpreter</a>
+  - <a href='./lmc/difference.lmc'><i title='LMC file' class="material-icons">'code'</i>Difference</a>
+  - <a href='./lmc/equality.lmc'><i title='LMC file' class="material-icons">'code'</i>Equality</a>
+  - <a href='./lmc/inputting_and_storing_numbers.lmc'><i title='LMC file' class="material-icons">'code'</i>Inputting And Storing Numbers</a>
+  - <a href='./lmc/interpreter.py'><i title='PY file' class="material-icons">'code'</i>Interpreter</a>
+  - <a href='./lmc/medium_tasks.lmc'><i title='LMC file' class="material-icons">'code'</i>Medium Tasks</a>
+  - <a href='./lmc/render_concept'><i title=' file' class="material-icons">'get_app'</i>Render Concept</a>
+  - <a href='./lmc/render_lmc_computer.py'><i title='PY file' class="material-icons">'code'</i>Render Lmc Computer</a>
+  - <a href='./lmc/render_template'><i title=' file' class="material-icons">'get_app'</i>Render Template</a>
 
   </details>
 - <details open><summary><a href='./section_1'>Section 1</a></summary>
 
   - <details open><summary><a href='./section_1/chapter_1'>Chapter 1</a></summary>
 
-    - <a href='./section_1/chapter_1/CPU_notes.md'><i title='MD file' class="material-icons">'article'</>CPU Notes</a>
-    - <a href='./section_1/chapter_1/pipelining.md'><i title='MD file' class="material-icons">'article'</>Pipelining</a>
-    - <a href='./section_1/chapter_1/processor_architectures.md'><i title='MD file' class="material-icons">'article'</>Processor Architectures</a>
+    - <a href='./section_1/chapter_1/CPU_notes.md'><i title='MD file' class="material-icons">'article'</i>CPU Notes</a>
+    - <a href='./section_1/chapter_1/pipelining.md'><i title='MD file' class="material-icons">'article'</i>Pipelining</a>
+    - <a href='./section_1/chapter_1/processor_architectures.md'><i title='MD file' class="material-icons">'article'</i>Processor Architectures</a>
 
     </details>
   - <details open><summary><a href='./section_1/chapter_2'>Chapter 2</a></summary>
 
-    - <a href='./section_1/chapter_2/cisc_and_risc.md'><i title='MD file' class="material-icons">'article'</>Cisc And Risc</a>
-    - <a href='./section_1/chapter_2/gpus.md'><i title='MD file' class="material-icons">'article'</>Gpus</a>
+    - <a href='./section_1/chapter_2/cisc_and_risc.md'><i title='MD file' class="material-icons">'article'</i>Cisc And Risc</a>
+    - <a href='./section_1/chapter_2/gpus.md'><i title='MD file' class="material-icons">'article'</i>Gpus</a>
 
     </details>
   - <details open><summary><a href='./section_1/chapter_3'>Chapter 3</a></summary>
 
-    - <a href='./section_1/chapter_3/questions.md'><i title='MD file' class="material-icons">'article'</>Questions</a>
+    - <a href='./section_1/chapter_3/questions.md'><i title='MD file' class="material-icons">'article'</i>Questions</a>
 
     </details>
   - <details open><summary><a href='./section_1/chapter_4'>Chapter 4</a></summary>
 
-    - <a href='./section_1/chapter_4/questions.md'><i title='MD file' class="material-icons">'article'</>Questions</a>
+    - <a href='./section_1/chapter_4/questions.md'><i title='MD file' class="material-icons">'article'</i>Questions</a>
 
     </details>
   - <details open><summary><a href='./section_1/chapter_5'>Chapter 5</a></summary>
 
-    - <a href='./section_1/chapter_5/questions.md'><i title='MD file' class="material-icons">'article'</>Questions</a>
+    - <a href='./section_1/chapter_5/questions.md'><i title='MD file' class="material-icons">'article'</i>Questions</a>
 
     </details>
   - <details open><summary><a href='./section_1/subsection_1'>Subsection 1</a></summary>
 
-    - <a href='./section_1/subsection_1/CPU_notes.md'><i title='MD file' class="material-icons">'article'</>CPU Notes</a>
-    - <a href='./section_1/subsection_1/chapter_3_questions.md'><i title='MD file' class="material-icons">'article'</>Chapter 3 Questions</a>
-    - <a href='./section_1/subsection_1/chapter_4_questions.md'><i title='MD file' class="material-icons">'article'</>Chapter 4 Questions</a>
-    - <a href='./section_1/subsection_1/chapter_5_questions.md'><i title='MD file' class="material-icons">'article'</>Chapter 5 Questions</a>
-    - <a href='./section_1/subsection_1/pipelining.md'><i title='MD file' class="material-icons">'article'</>Pipelining</a>
-    - <a href='./section_1/subsection_1/processor_architectures.md'><i title='MD file' class="material-icons">'article'</>Processor Architectures</a>
+    - <a href='./section_1/subsection_1/CPU_notes.md'><i title='MD file' class="material-icons">'article'</i>CPU Notes</a>
+    - <a href='./section_1/subsection_1/chapter_3_questions.md'><i title='MD file' class="material-icons">'article'</i>Chapter 3 Questions</a>
+    - <a href='./section_1/subsection_1/chapter_4_questions.md'><i title='MD file' class="material-icons">'article'</i>Chapter 4 Questions</a>
+    - <a href='./section_1/subsection_1/chapter_5_questions.md'><i title='MD file' class="material-icons">'article'</i>Chapter 5 Questions</a>
+    - <a href='./section_1/subsection_1/pipelining.md'><i title='MD file' class="material-icons">'article'</i>Pipelining</a>
+    - <a href='./section_1/subsection_1/processor_architectures.md'><i title='MD file' class="material-icons">'article'</i>Processor Architectures</a>
 
     </details>
-  - <a href='./section_1/overview.md'><i title='MD file' class="material-icons">'article'</>Overview</a>
+  - <a href='./section_1/overview.md'><i title='MD file' class="material-icons">'article'</i>Overview</a>
 
   </details>
 - <details open><summary><a href='./section_2'>Section 2</a></summary>
 
   - <details open><summary><a href='./section_2/chapter_1'>Chapter 1</a></summary>
 
-    - <a href='./section_2/chapter_1/operating_systems.md'><i title='MD file' class="material-icons">'article'</>Operating Systems</a>
+    - <a href='./section_2/chapter_1/operating_systems.md'><i title='MD file' class="material-icons">'article'</i>Operating Systems</a>
 
     </details>
   - <details open><summary><a href='./section_2/chapter_2'>Chapter 2</a></summary>
 
-    - <a href='./section_2/chapter_2/nature_of_applications.md'><i title='MD file' class="material-icons">'article'</>Nature Of Applications</a>
-    - <a href='./section_2/chapter_2/programming_language_translators.md'><i title='MD file' class="material-icons">'article'</>Programming Language Translators</a>
+    - <a href='./section_2/chapter_2/nature_of_applications.md'><i title='MD file' class="material-icons">'article'</i>Nature Of Applications</a>
+    - <a href='./section_2/chapter_2/programming_language_translators.md'><i title='MD file' class="material-icons">'article'</i>Programming Language Translators</a>
 
     </details>
   - <details open><summary><a href='./section_2/chapter_4'>Chapter 4</a></summary>
 
-    - <a href='./section_2/chapter_4/addressing.md'><i title='MD file' class="material-icons">'article'</>Addressing</a>
-    - <a href='./section_2/chapter_4/object_oriented_languages.md'><i title='MD file' class="material-icons">'article'</>Object Oriented Languages</a>
-    - <a href='./section_2/chapter_4/object_oriented_programming.md'><i title='MD file' class="material-icons">'article'</>Object Oriented Programming</a>
-    - <a href='./section_2/chapter_4/wfh_oop_exam_questions.md'><i title='MD file' class="material-icons">'article'</>Wfh Oop Exam Questions</a>
-    - <a href='./section_2/chapter_4/wfh_oop_exam_questions.png'><i title='PNG file' class="material-icons">'photo'</>Wfh Oop Exam Questions</a>
+    - <a href='./section_2/chapter_4/addressing.md'><i title='MD file' class="material-icons">'article'</i>Addressing</a>
+    - <a href='./section_2/chapter_4/object_oriented_languages.md'><i title='MD file' class="material-icons">'article'</i>Object Oriented Languages</a>
+    - <a href='./section_2/chapter_4/object_oriented_programming.md'><i title='MD file' class="material-icons">'article'</i>Object Oriented Programming</a>
+    - <a href='./section_2/chapter_4/wfh_oop_exam_questions.md'><i title='MD file' class="material-icons">'article'</i>Wfh Oop Exam Questions</a>
+    - <a href='./section_2/chapter_4/wfh_oop_exam_questions.png'><i title='PNG file' class="material-icons">'photo'</i>Wfh Oop Exam Questions</a>
 
     </details>
-  - <a href='./section_2/overview.md'><i title='MD file' class="material-icons">'article'</>Overview</a>
+  - <a href='./section_2/overview.md'><i title='MD file' class="material-icons">'article'</i>Overview</a>
 
   </details>
 - <details open><summary><a href='././section_3'>Section 3</a></summary>
 
   - <details open><summary><a href='./section_3/chapter_1'>Chapter 1</a></summary>
 
-    - <a href='./section_3/chapter_1/encryption.md'><i title='MD file' class="material-icons">'article'</>Encryption</a>
+    - <a href='./section_3/chapter_1/encryption.md'><i title='MD file' class="material-icons">'article'</i>Encryption</a>
 
     </details>
   - <details open><summary><a href='./section_3/chapter_2'>Chapter 2</a></summary>
 
-    - <a href='./section_3/chapter_2/SQL.md'><i title='MD file' class="material-icons">'article'</>SQL</a>
-    - <a href='./section_3/chapter_2/normalisation.md'><i title='MD file' class="material-icons">'article'</>Normalisation</a>
+    - <a href='./section_3/chapter_2/SQL.md'><i title='MD file' class="material-icons">'article'</i>SQL</a>
+    - <a href='./section_3/chapter_2/normalisation.md'><i title='MD file' class="material-icons">'article'</i>Normalisation</a>
 
     </details>
 
@@ -161,26 +161,26 @@ back_text: Back to Computer Science
 
   - <details open><summary><a href='./section_4/chapter_1'>Chapter 1</a></summary>
 
-    - <a href='./section_4/chapter_1/character_sets.md'><i title='MD file' class="material-icons">'article'</>Character Sets</a>
-    - <a href='./section_4/chapter_1/data_types_questions.md'><i title='MD file' class="material-icons">'article'</>Data Types Questions</a>
-    - <a href='./section_4/chapter_1/primitive_data_types.md'><i title='MD file' class="material-icons">'article'</>Primitive Data Types</a>
+    - <a href='./section_4/chapter_1/character_sets.md'><i title='MD file' class="material-icons">'article'</i>Character Sets</a>
+    - <a href='./section_4/chapter_1/data_types_questions.md'><i title='MD file' class="material-icons">'article'</i>Data Types Questions</a>
+    - <a href='./section_4/chapter_1/primitive_data_types.md'><i title='MD file' class="material-icons">'article'</i>Primitive Data Types</a>
 
     </details>
   - <details open><summary><a href='./section_4/chapter_2'>Chapter 2</a></summary>
 
-    - <a href='./section_4/chapter_2/data_structures.md'><i title='MD file' class="material-icons">'article'</>Data Structures</a>
-    - <a href='./section_4/chapter_2/definitions.md'><i title='MD file' class="material-icons">'article'</>Definitions</a>
-    - <a href='./section_4/chapter_2/linked_lists_and_arrays.md'><i title='MD file' class="material-icons">'article'</>Linked Lists And Arrays</a>
-    - <a href='./section_4/chapter_2/lists_and_linked_lists.md'><i title='MD file' class="material-icons">'article'</>Lists And Linked Lists</a>
-    - <a href='./section_4/chapter_2/queues.md'><i title='MD file' class="material-icons">'article'</>Queues</a>
-    - <a href='./section_4/chapter_2/stacks.md'><i title='MD file' class="material-icons">'article'</>Stacks</a>
-    - <a href='./section_4/chapter_2/trees.md'><i title='MD file' class="material-icons">'article'</>Trees</a>
+    - <a href='./section_4/chapter_2/data_structures.md'><i title='MD file' class="material-icons">'article'</i>Data Structures</a>
+    - <a href='./section_4/chapter_2/definitions.md'><i title='MD file' class="material-icons">'article'</i>Definitions</a>
+    - <a href='./section_4/chapter_2/linked_lists_and_arrays.md'><i title='MD file' class="material-icons">'article'</i>Linked Lists And Arrays</a>
+    - <a href='./section_4/chapter_2/lists_and_linked_lists.md'><i title='MD file' class="material-icons">'article'</i>Lists And Linked Lists</a>
+    - <a href='./section_4/chapter_2/queues.md'><i title='MD file' class="material-icons">'article'</i>Queues</a>
+    - <a href='./section_4/chapter_2/stacks.md'><i title='MD file' class="material-icons">'article'</i>Stacks</a>
+    - <a href='./section_4/chapter_2/trees.md'><i title='MD file' class="material-icons">'article'</i>Trees</a>
 
     </details>
   - <details open><summary><a href='./section_4/chapter_3'>Chapter 3</a></summary>
 
-    - <a href='./section_4/chapter_3/gates.png'><i title='PNG file' class="material-icons">'photo'</>Gates</a>
-    - <a href='./section_4/chapter_3/logic_gates.md'><i title='MD file' class="material-icons">'article'</>Logic Gates</a>
+    - <a href='./section_4/chapter_3/gates.png'><i title='PNG file' class="material-icons">'photo'</i>Gates</a>
+    - <a href='./section_4/chapter_3/logic_gates.md'><i title='MD file' class="material-icons">'article'</i>Logic Gates</a>
 
     </details>
 
@@ -189,22 +189,22 @@ back_text: Back to Computer Science
 
   - <details open><summary><a href='./section_5/chapter_1'>Chapter 1</a></summary>
 
-    - <a href='./section_5/chapter_1/legislation_questions.md'><i title='MD file' class="material-icons">'article'</>Legislation Questions</a>
+    - <a href='./section_5/chapter_1/legislation_questions.md'><i title='MD file' class="material-icons">'article'</i>Legislation Questions</a>
 
     </details>
-  - <a href='./section_5/legal_moral_cultural_ethical_issues.md'><i title='MD file' class="material-icons">'article'</>Legal Moral Cultural Ethical Issues</a>
+  - <a href='./section_5/legal_moral_cultural_ethical_issues.md'><i title='MD file' class="material-icons">'article'</i>Legal Moral Cultural Ethical Issues</a>
 
   </details>
-- <a href='./JS2.js'><i title='JS file' class="material-icons">'web_asset'</>JS2</a>
-- <a href='./england.html'><i title='HTML file' class="material-icons">'web'</>England</a>
-- <a href='./html_for_miss_brown.html'><i title='HTML file' class="material-icons">'web'</>Html For Miss Brown</a>
-- <a href='./javascript_tasks.html'><i title='HTML file' class="material-icons">'web'</>Javascript Tasks</a>
-- <a href='./javascript_tasks.png'><i title='PNG file' class="material-icons">'photo'</>Javascript Tasks</a>
-- <a href='./miss_browns_page.html'><i title='HTML file' class="material-icons">'web'</>Miss Browns Page</a>
-- <a href='./northernIreland.html'><i title='HTML file' class="material-icons">'web'</>NorthernIreland</a>
-- <a href='./oxford.html'><i title='HTML file' class="material-icons">'web'</>Oxford</a>
-- <a href='./oxford_style.css'><i title='CSS file' class="material-icons">'web_asset'</>Oxford Style</a>
-- <a href='./page135questions.txt'><i title='TXT file' class="material-icons">'description'</>Page135questions</a>
-- <a href='./scotland.html'><i title='HTML file' class="material-icons">'web'</>Scotland</a>
-- <a href='./style.css'><i title='CSS file' class="material-icons">'web_asset'</>Style</a>
-- <a href='./wales.html'><i title='HTML file' class="material-icons">'web'</>Wales</a>
+- <a href='./JS2.js'><i title='JS file' class="material-icons">'web_asset'</i>JS2</a>
+- <a href='./england.html'><i title='HTML file' class="material-icons">'web'</i>England</a>
+- <a href='./html_for_miss_brown.html'><i title='HTML file' class="material-icons">'web'</i>Html For Miss Brown</a>
+- <a href='./javascript_tasks.html'><i title='HTML file' class="material-icons">'web'</i>Javascript Tasks</a>
+- <a href='./javascript_tasks.png'><i title='PNG file' class="material-icons">'photo'</i>Javascript Tasks</a>
+- <a href='./miss_browns_page.html'><i title='HTML file' class="material-icons">'web'</i>Miss Browns Page</a>
+- <a href='./northernIreland.html'><i title='HTML file' class="material-icons">'web'</i>NorthernIreland</a>
+- <a href='./oxford.html'><i title='HTML file' class="material-icons">'web'</i>Oxford</a>
+- <a href='./oxford_style.css'><i title='CSS file' class="material-icons">'web_asset'</i>Oxford Style</a>
+- <a href='./page135questions.txt'><i title='TXT file' class="material-icons">'description'</i>Page135questions</a>
+- <a href='./scotland.html'><i title='HTML file' class="material-icons">'web'</i>Scotland</a>
+- <a href='./style.css'><i title='CSS file' class="material-icons">'web_asset'</i>Style</a>
+- <a href='./wales.html'><i title='HTML file' class="material-icons">'web'</i>Wales</a>

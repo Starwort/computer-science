@@ -9,4 +9,4 @@ back_text: Back to Programming Practice
 
 # **Wb 2021 01 11**
 
-- <a href='./algorithmic_complexity.md'><i title='MD file' class="material-icons">'article'</>Algorithmic Complexity</a>
+- <a href='./algorithmic_complexity.md'><i title='MD file' class="material-icons">'article'</i>Algorithmic Complexity</a>

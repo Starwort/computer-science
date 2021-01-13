@@ -9,5 +9,5 @@ back_text: Back to Section 4
 
 # **Chapter 3**
 
-- <a href='./gates.png'><i title='PNG file' class="material-icons">'photo'</>Gates</a>
-- <a href='./logic_gates.md'><i title='MD file' class="material-icons">'article'</>Logic Gates</a>
+- <a href='./gates.png'><i title='PNG file' class="material-icons">'photo'</i>Gates</a>
+- <a href='./logic_gates.md'><i title='MD file' class="material-icons">'article'</i>Logic Gates</a>

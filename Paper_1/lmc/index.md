@@ -15,43 +15,43 @@ back_text: Back to Paper 1
 
     - <details open><summary><a href='./wfh/term_5/week_3'>Week 3</a></summary>
 
-      - <a href='./wfh/term_5/week_3/intermediate_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</>Intermediate Challenge 1</a>
-      - <a href='./wfh/term_5/week_3/intermediate_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</>Intermediate Challenge 1</a>
-      - <a href='./wfh/term_5/week_3/intermediate_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</>Intermediate Challenge 2</a>
-      - <a href='./wfh/term_5/week_3/intermediate_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</>Intermediate Challenge 2</a>
-      - <a href='./wfh/term_5/week_3/intermediate_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</>Intermediate Challenge 3</a>
-      - <a href='./wfh/term_5/week_3/intermediate_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</>Intermediate Challenge 3</a>
-      - <a href='./wfh/term_5/week_3/lmc_tasks.md'><i title='MD file' class="material-icons">'article'</>Lmc Tasks</a>
-      - <a href='./wfh/term_5/week_3/simple_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</>Simple Challenge 1</a>
-      - <a href='./wfh/term_5/week_3/simple_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</>Simple Challenge 1</a>
-      - <a href='./wfh/term_5/week_3/simple_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</>Simple Challenge 2</a>
-      - <a href='./wfh/term_5/week_3/simple_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</>Simple Challenge 2</a>
-      - <a href='./wfh/term_5/week_3/simple_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</>Simple Challenge 3</a>
-      - <a href='./wfh/term_5/week_3/simple_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</>Simple Challenge 3</a>
+      - <a href='./wfh/term_5/week_3/intermediate_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</i>Intermediate Challenge 1</a>
+      - <a href='./wfh/term_5/week_3/intermediate_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</i>Intermediate Challenge 1</a>
+      - <a href='./wfh/term_5/week_3/intermediate_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</i>Intermediate Challenge 2</a>
+      - <a href='./wfh/term_5/week_3/intermediate_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</i>Intermediate Challenge 2</a>
+      - <a href='./wfh/term_5/week_3/intermediate_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</i>Intermediate Challenge 3</a>
+      - <a href='./wfh/term_5/week_3/intermediate_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</i>Intermediate Challenge 3</a>
+      - <a href='./wfh/term_5/week_3/lmc_tasks.md'><i title='MD file' class="material-icons">'article'</i>Lmc Tasks</a>
+      - <a href='./wfh/term_5/week_3/simple_challenge_1.gif'><i title='GIF file' class="material-icons">'gif'</i>Simple Challenge 1</a>
+      - <a href='./wfh/term_5/week_3/simple_challenge_1.lmc'><i title='LMC file' class="material-icons">'code'</i>Simple Challenge 1</a>
+      - <a href='./wfh/term_5/week_3/simple_challenge_2.gif'><i title='GIF file' class="material-icons">'gif'</i>Simple Challenge 2</a>
+      - <a href='./wfh/term_5/week_3/simple_challenge_2.lmc'><i title='LMC file' class="material-icons">'code'</i>Simple Challenge 2</a>
+      - <a href='./wfh/term_5/week_3/simple_challenge_3.gif'><i title='GIF file' class="material-icons">'gif'</i>Simple Challenge 3</a>
+      - <a href='./wfh/term_5/week_3/simple_challenge_3.lmc'><i title='LMC file' class="material-icons">'code'</i>Simple Challenge 3</a>
 
       </details>
     - <details open><summary><a href='./wfh/term_5/week_4'>Week 4</a></summary>
 
-      - <a href='./wfh/term_5/week_4/03._lmc_questions.md'><i title='MD file' class="material-icons">'article'</>03. Lmc Questions</a>
-      - <a href='./wfh/term_5/week_4/04._lmc_advanced.md'><i title='MD file' class="material-icons">'article'</>04. Lmc Advanced</a>
-      - <a href='./wfh/term_5/week_4/04_ac1.lmc'><i title='LMC file' class="material-icons">'code'</>04 Ac1</a>
-      - <a href='./wfh/term_5/week_4/04_ac2.lmc'><i title='LMC file' class="material-icons">'code'</>04 Ac2</a>
-      - <a href='./wfh/term_5/week_4/05._lmc_questions.md'><i title='MD file' class="material-icons">'article'</>05. Lmc Questions</a>
-      - <a href='./wfh/term_5/week_4/lmc_questions_feedback.md'><i title='MD file' class="material-icons">'article'</>Lmc Questions Feedback</a>
+      - <a href='./wfh/term_5/week_4/03._lmc_questions.md'><i title='MD file' class="material-icons">'article'</i>03. Lmc Questions</a>
+      - <a href='./wfh/term_5/week_4/04._lmc_advanced.md'><i title='MD file' class="material-icons">'article'</i>04. Lmc Advanced</a>
+      - <a href='./wfh/term_5/week_4/04_ac1.lmc'><i title='LMC file' class="material-icons">'code'</i>04 Ac1</a>
+      - <a href='./wfh/term_5/week_4/04_ac2.lmc'><i title='LMC file' class="material-icons">'code'</i>04 Ac2</a>
+      - <a href='./wfh/term_5/week_4/05._lmc_questions.md'><i title='MD file' class="material-icons">'article'</i>05. Lmc Questions</a>
+      - <a href='./wfh/term_5/week_4/lmc_questions_feedback.md'><i title='MD file' class="material-icons">'article'</i>Lmc Questions Feedback</a>
 
       </details>
 
     </details>
 
   </details>
-- <a href='./advanced_tasks.lmc'><i title='LMC file' class="material-icons">'code'</>Advanced Tasks</a>
-- <a href='./beginner_tasks.lmc'><i title='LMC file' class="material-icons">'code'</>Beginner Tasks</a>
-- <a href='./bundled_interpreter.py'><i title='PY file' class="material-icons">'code'</>Bundled Interpreter</a>
-- <a href='./difference.lmc'><i title='LMC file' class="material-icons">'code'</>Difference</a>
-- <a href='./equality.lmc'><i title='LMC file' class="material-icons">'code'</>Equality</a>
-- <a href='./inputting_and_storing_numbers.lmc'><i title='LMC file' class="material-icons">'code'</>Inputting And Storing Numbers</a>
-- <a href='./interpreter.py'><i title='PY file' class="material-icons">'code'</>Interpreter</a>
-- <a href='./medium_tasks.lmc'><i title='LMC file' class="material-icons">'code'</>Medium Tasks</a>
-- <a href='./render_concept'><i title=' file' class="material-icons">'get_app'</>Render Concept</a>
-- <a href='./render_lmc_computer.py'><i title='PY file' class="material-icons">'code'</>Render Lmc Computer</a>
-- <a href='./render_template'><i title=' file' class="material-icons">'get_app'</>Render Template</a>
+- <a href='./advanced_tasks.lmc'><i title='LMC file' class="material-icons">'code'</i>Advanced Tasks</a>
+- <a href='./beginner_tasks.lmc'><i title='LMC file' class="material-icons">'code'</i>Beginner Tasks</a>
+- <a href='./bundled_interpreter.py'><i title='PY file' class="material-icons">'code'</i>Bundled Interpreter</a>
+- <a href='./difference.lmc'><i title='LMC file' class="material-icons">'code'</i>Difference</a>
+- <a href='./equality.lmc'><i title='LMC file' class="material-icons">'code'</i>Equality</a>
+- <a href='./inputting_and_storing_numbers.lmc'><i title='LMC file' class="material-icons">'code'</i>Inputting And Storing Numbers</a>
+- <a href='./interpreter.py'><i title='PY file' class="material-icons">'code'</i>Interpreter</a>
+- <a href='./medium_tasks.lmc'><i title='LMC file' class="material-icons">'code'</i>Medium Tasks</a>
+- <a href='./render_concept'><i title=' file' class="material-icons">'get_app'</i>Render Concept</a>
+- <a href='./render_lmc_computer.py'><i title='PY file' class="material-icons">'code'</i>Render Lmc Computer</a>
+- <a href='./render_template'><i title=' file' class="material-icons">'get_app'</i>Render Template</a>

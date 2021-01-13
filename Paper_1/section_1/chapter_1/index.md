@@ -9,6 +9,6 @@ back_text: Back to Section 1
 
 # **Chapter 1**
 
-- <a href='./CPU_notes.md'><i title='MD file' class="material-icons">'article'</>CPU Notes</a>
-- <a href='./pipelining.md'><i title='MD file' class="material-icons">'article'</>Pipelining</a>
-- <a href='./processor_architectures.md'><i title='MD file' class="material-icons">'article'</>Processor Architectures</a>
+- <a href='./CPU_notes.md'><i title='MD file' class="material-icons">'article'</i>CPU Notes</a>
+- <a href='./pipelining.md'><i title='MD file' class="material-icons">'article'</i>Pipelining</a>
+- <a href='./processor_architectures.md'><i title='MD file' class="material-icons">'article'</i>Processor Architectures</a>

@@ -11,22 +11,22 @@ back_text: Back to Paper 1
 
 - <details open><summary><a href='./chapter_1'>Chapter 1</a></summary>
 
-  - <a href='./chapter_1/operating_systems.md'><i title='MD file' class="material-icons">'article'</>Operating Systems</a>
+  - <a href='./chapter_1/operating_systems.md'><i title='MD file' class="material-icons">'article'</i>Operating Systems</a>
 
   </details>
 - <details open><summary><a href='./chapter_2'>Chapter 2</a></summary>
 
-  - <a href='./chapter_2/nature_of_applications.md'><i title='MD file' class="material-icons">'article'</>Nature Of Applications</a>
-  - <a href='./chapter_2/programming_language_translators.md'><i title='MD file' class="material-icons">'article'</>Programming Language Translators</a>
+  - <a href='./chapter_2/nature_of_applications.md'><i title='MD file' class="material-icons">'article'</i>Nature Of Applications</a>
+  - <a href='./chapter_2/programming_language_translators.md'><i title='MD file' class="material-icons">'article'</i>Programming Language Translators</a>
 
   </details>
 - <details open><summary><a href='./chapter_4'>Chapter 4</a></summary>
 
-  - <a href='./chapter_4/addressing.md'><i title='MD file' class="material-icons">'article'</>Addressing</a>
-  - <a href='./chapter_4/object_oriented_languages.md'><i title='MD file' class="material-icons">'article'</>Object Oriented Languages</a>
-  - <a href='./chapter_4/object_oriented_programming.md'><i title='MD file' class="material-icons">'article'</>Object Oriented Programming</a>
-  - <a href='./chapter_4/wfh_oop_exam_questions.md'><i title='MD file' class="material-icons">'article'</>Wfh Oop Exam Questions</a>
-  - <a href='./chapter_4/wfh_oop_exam_questions.png'><i title='PNG file' class="material-icons">'photo'</>Wfh Oop Exam Questions</a>
+  - <a href='./chapter_4/addressing.md'><i title='MD file' class="material-icons">'article'</i>Addressing</a>
+  - <a href='./chapter_4/object_oriented_languages.md'><i title='MD file' class="material-icons">'article'</i>Object Oriented Languages</a>
+  - <a href='./chapter_4/object_oriented_programming.md'><i title='MD file' class="material-icons">'article'</i>Object Oriented Programming</a>
+  - <a href='./chapter_4/wfh_oop_exam_questions.md'><i title='MD file' class="material-icons">'article'</i>Wfh Oop Exam Questions</a>
+  - <a href='./chapter_4/wfh_oop_exam_questions.png'><i title='PNG file' class="material-icons">'photo'</i>Wfh Oop Exam Questions</a>
 
   </details>
-- <a href='./overview.md'><i title='MD file' class="material-icons">'article'</>Overview</a>
+- <a href='./overview.md'><i title='MD file' class="material-icons">'article'</i>Overview</a>

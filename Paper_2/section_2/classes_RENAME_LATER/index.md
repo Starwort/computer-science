@@ -9,8 +9,8 @@ back_text: Back to Section 2
 
 # **Classes RENAME LATER**
 
-- <a href='./inheritance.md'><i title='MD file' class="material-icons">'article'</>Inheritance</a>
-- <a href='./inheritance.psc'><i title='PSC file' class="material-icons">'code'</>Inheritance</a>
-- <a href='./inheritance.py'><i title='PY file' class="material-icons">'code'</>Inheritance</a>
-- <a href='./shape.py'><i title='PY file' class="material-icons">'code'</>Shape</a>
-- <a href='./shape.splw'><i title='SPLW file' class="material-icons">'code'</>Shape</a>
+- <a href='./inheritance.md'><i title='MD file' class="material-icons">'article'</i>Inheritance</a>
+- <a href='./inheritance.psc'><i title='PSC file' class="material-icons">'code'</i>Inheritance</a>
+- <a href='./inheritance.py'><i title='PY file' class="material-icons">'code'</i>Inheritance</a>
+- <a href='./shape.py'><i title='PY file' class="material-icons">'code'</i>Shape</a>
+- <a href='./shape.splw'><i title='SPLW file' class="material-icons">'code'</i>Shape</a>

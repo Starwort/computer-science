@@ -11,7 +11,7 @@ back_text: Back to Computer Science
 
 - <details open><summary><a href='./lessons'>Lessons</a></summary>
 
-  - <a href='./lessons/computational_method_features.md'><i title='MD file' class="material-icons">'article'</>Computational Method Features</a>
-  - <a href='./lessons/software_development.md'><i title='MD file' class="material-icons">'article'</>Software Development</a>
+  - <a href='./lessons/computational_method_features.md'><i title='MD file' class="material-icons">'article'</i>Computational Method Features</a>
+  - <a href='./lessons/software_development.md'><i title='MD file' class="material-icons">'article'</i>Software Development</a>
 
   </details>

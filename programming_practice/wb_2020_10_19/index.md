@@ -9,17 +9,17 @@ back_text: Back to Programming Practice
 
 # **Wb 2020 10 19**
 
-- <a href='./css_3.html'><i title='HTML file' class="material-icons">'web'</>Css 3</a>
-- <a href='./css_4.css'><i title='CSS file' class="material-icons">'web_asset'</>Css 4</a>
-- <a href='./css_4.html'><i title='HTML file' class="material-icons">'web'</>Css 4</a>
-- <a href='./css_5.html'><i title='HTML file' class="material-icons">'web'</>Css 5</a>
-- <a href='./css_6.html'><i title='HTML file' class="material-icons">'web'</>Css 6</a>
-- <a href='./css_7.html'><i title='HTML file' class="material-icons">'web'</>Css 7</a>
-- <a href='./css_8.css'><i title='CSS file' class="material-icons">'web_asset'</>Css 8</a>
-- <a href='./css_8.html'><i title='HTML file' class="material-icons">'web'</>Css 8</a>
-- <a href='./css_9.css'><i title='CSS file' class="material-icons">'web_asset'</>Css 9</a>
-- <a href='./css_9.html'><i title='HTML file' class="material-icons">'web'</>Css 9</a>
-- <a href='./intro_to_css.md'><i title='MD file' class="material-icons">'article'</>Intro To Css</a>
-- <a href='./javascript_practice.js'><i title='JS file' class="material-icons">'web_asset'</>Javascript Practice</a>
-- <a href='./javascript_practice.md'><i title='MD file' class="material-icons">'article'</>Javascript Practice</a>
-- <a href='./task_template.html'><i title='HTML file' class="material-icons">'web'</>Task Template</a>
+- <a href='./css_3.html'><i title='HTML file' class="material-icons">'web'</i>Css 3</a>
+- <a href='./css_4.css'><i title='CSS file' class="material-icons">'web_asset'</i>Css 4</a>
+- <a href='./css_4.html'><i title='HTML file' class="material-icons">'web'</i>Css 4</a>
+- <a href='./css_5.html'><i title='HTML file' class="material-icons">'web'</i>Css 5</a>
+- <a href='./css_6.html'><i title='HTML file' class="material-icons">'web'</i>Css 6</a>
+- <a href='./css_7.html'><i title='HTML file' class="material-icons">'web'</i>Css 7</a>
+- <a href='./css_8.css'><i title='CSS file' class="material-icons">'web_asset'</i>Css 8</a>
+- <a href='./css_8.html'><i title='HTML file' class="material-icons">'web'</i>Css 8</a>
+- <a href='./css_9.css'><i title='CSS file' class="material-icons">'web_asset'</i>Css 9</a>
+- <a href='./css_9.html'><i title='HTML file' class="material-icons">'web'</i>Css 9</a>
+- <a href='./intro_to_css.md'><i title='MD file' class="material-icons">'article'</i>Intro To Css</a>
+- <a href='./javascript_practice.js'><i title='JS file' class="material-icons">'web_asset'</i>Javascript Practice</a>
+- <a href='./javascript_practice.md'><i title='MD file' class="material-icons">'article'</i>Javascript Practice</a>
+- <a href='./task_template.html'><i title='HTML file' class="material-icons">'web'</i>Task Template</a>

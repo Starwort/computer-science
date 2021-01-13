@@ -88,7 +88,7 @@ def get_html_icon(file_extension: str) -> str:
     if file_extension == "folder":
         return ""
     #     return "<img title='Folder' src={!r}>".format(filetype_to_url["folder"])
-    return '<i title={!r} class="material-icons">{!r}</>'.format(
+    return '<i title={!r} class="material-icons">{!r}</i>'.format(
         file_extension.upper() + " file",
         filetype_to_material.get(
             file_extension.lower(), filetype_to_material["missing"]

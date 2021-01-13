@@ -9,10 +9,10 @@ back_text: Back to Section 4
 
 # **Chapter 2**
 
-- <a href='./data_structures.md'><i title='MD file' class="material-icons">'article'</>Data Structures</a>
-- <a href='./definitions.md'><i title='MD file' class="material-icons">'article'</>Definitions</a>
-- <a href='./linked_lists_and_arrays.md'><i title='MD file' class="material-icons">'article'</>Linked Lists And Arrays</a>
-- <a href='./lists_and_linked_lists.md'><i title='MD file' class="material-icons">'article'</>Lists And Linked Lists</a>
-- <a href='./queues.md'><i title='MD file' class="material-icons">'article'</>Queues</a>
-- <a href='./stacks.md'><i title='MD file' class="material-icons">'article'</>Stacks</a>
-- <a href='./trees.md'><i title='MD file' class="material-icons">'article'</>Trees</a>
+- <a href='./data_structures.md'><i title='MD file' class="material-icons">'article'</i>Data Structures</a>
+- <a href='./definitions.md'><i title='MD file' class="material-icons">'article'</i>Definitions</a>
+- <a href='./linked_lists_and_arrays.md'><i title='MD file' class="material-icons">'article'</i>Linked Lists And Arrays</a>
+- <a href='./lists_and_linked_lists.md'><i title='MD file' class="material-icons">'article'</i>Lists And Linked Lists</a>
+- <a href='./queues.md'><i title='MD file' class="material-icons">'article'</i>Queues</a>
+- <a href='./stacks.md'><i title='MD file' class="material-icons">'article'</i>Stacks</a>
+- <a href='./trees.md'><i title='MD file' class="material-icons">'article'</i>Trees</a>

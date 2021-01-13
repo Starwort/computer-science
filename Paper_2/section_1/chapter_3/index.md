@@ -9,4 +9,4 @@ back_text: Back to Section 1
 
 # **Chapter 3**
 
-- <a href='./thinking_procedurally.md'><i title='MD file' class="material-icons">'article'</>Thinking Procedurally</a>
+- <a href='./thinking_procedurally.md'><i title='MD file' class="material-icons">'article'</i>Thinking Procedurally</a>

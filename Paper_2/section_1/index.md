@@ -11,26 +11,26 @@ back_text: Back to Paper 2
 
 - <details open><summary><a href='./chapter_1'>Chapter 1</a></summary>
 
-  - <a href='./chapter_1/thinking_abstractly.md'><i title='MD file' class="material-icons">'article'</>Thinking Abstractly</a>
+  - <a href='./chapter_1/thinking_abstractly.md'><i title='MD file' class="material-icons">'article'</i>Thinking Abstractly</a>
 
   </details>
 - <details open><summary><a href='./chapter_2'>Chapter 2</a></summary>
 
-  - <a href='./chapter_2/thinking_ahead.md'><i title='MD file' class="material-icons">'article'</>Thinking Ahead</a>
+  - <a href='./chapter_2/thinking_ahead.md'><i title='MD file' class="material-icons">'article'</i>Thinking Ahead</a>
 
   </details>
 - <details open><summary><a href='./chapter_3'>Chapter 3</a></summary>
 
-  - <a href='./chapter_3/thinking_procedurally.md'><i title='MD file' class="material-icons">'article'</>Thinking Procedurally</a>
+  - <a href='./chapter_3/thinking_procedurally.md'><i title='MD file' class="material-icons">'article'</i>Thinking Procedurally</a>
 
   </details>
 - <details open><summary><a href='./chapter_4'>Chapter 4</a></summary>
 
-  - <a href='./chapter_4/thinking_logically.md'><i title='MD file' class="material-icons">'article'</>Thinking Logically</a>
+  - <a href='./chapter_4/thinking_logically.md'><i title='MD file' class="material-icons">'article'</i>Thinking Logically</a>
 
   </details>
 - <details open><summary><a href='./chapter_5'>Chapter 5</a></summary>
 
-  - <a href='./chapter_5/thinking_concurrently.md'><i title='MD file' class="material-icons">'article'</>Thinking Concurrently</a>
+  - <a href='./chapter_5/thinking_concurrently.md'><i title='MD file' class="material-icons">'article'</i>Thinking Concurrently</a>
 
   </details>

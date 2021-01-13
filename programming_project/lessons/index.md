@@ -9,5 +9,5 @@ back_text: Back to Programming Project
 
 # **Lessons**
 
-- <a href='./computational_method_features.md'><i title='MD file' class="material-icons">'article'</>Computational Method Features</a>
-- <a href='./software_development.md'><i title='MD file' class="material-icons">'article'</>Software Development</a>
+- <a href='./computational_method_features.md'><i title='MD file' class="material-icons">'article'</i>Computational Method Features</a>
+- <a href='./software_development.md'><i title='MD file' class="material-icons">'article'</i>Software Development</a>

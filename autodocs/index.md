@@ -9,8 +9,8 @@ back_text: Back to Computer Science
 
 # **Autodocs**
 
-- <a href='./__init__.py'><i title='PY file' class="material-icons">'code'</>  Init  </a>
-- <a href='./filetypes.py'><i title='PY file' class="material-icons">'code'</>Filetypes</a>
-- <a href='./index.py'><i title='PY file' class="material-icons">'code'</>Index</a>
-- <a href='./preprocess.py'><i title='PY file' class="material-icons">'code'</>Preprocess</a>
-- <a href='./utils.py'><i title='PY file' class="material-icons">'code'</>Utils</a>
+- <a href='./__init__.py'><i title='PY file' class="material-icons">'code'</i>  Init  </a>
+- <a href='./filetypes.py'><i title='PY file' class="material-icons">'code'</i>Filetypes</a>
+- <a href='./index.py'><i title='PY file' class="material-icons">'code'</i>Index</a>
+- <a href='./preprocess.py'><i title='PY file' class="material-icons">'code'</i>Preprocess</a>
+- <a href='./utils.py'><i title='PY file' class="material-icons">'code'</i>Utils</a>

@@ -9,4 +9,4 @@ back_text: Back to Section 2
 
 # **Chapter 1**
 
-- <a href='./operating_systems.md'><i title='MD file' class="material-icons">'article'</>Operating Systems</a>
+- <a href='./operating_systems.md'><i title='MD file' class="material-icons">'article'</i>Operating Systems</a>

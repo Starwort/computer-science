@@ -9,4 +9,4 @@ back_text: Back to Section 1
 
 # **Chapter 4**
 
-- <a href='./thinking_logically.md'><i title='MD file' class="material-icons">'article'</>Thinking Logically</a>
+- <a href='./thinking_logically.md'><i title='MD file' class="material-icons">'article'</i>Thinking Logically</a>

@@ -11,9 +11,9 @@ back_text: Back to Computer Science
 
 - <details open><summary><a href='./css'>Css</a></summary>
 
-  - <a href='./css/common.scss'><i title='SCSS file' class="material-icons">'web_asset'</>Common</a>
-  - <a href='./css/dark.css'><i title='CSS file' class="material-icons">'web_asset'</>Dark</a>
-  - <a href='./css/light.css'><i title='CSS file' class="material-icons">'web_asset'</>Light</a>
-  - <a href='./css/style.scss'><i title='SCSS file' class="material-icons">'web_asset'</>Style</a>
+  - <a href='./css/common.scss'><i title='SCSS file' class="material-icons">'web_asset'</i>Common</a>
+  - <a href='./css/dark.css'><i title='CSS file' class="material-icons">'web_asset'</i>Dark</a>
+  - <a href='./css/light.css'><i title='CSS file' class="material-icons">'web_asset'</i>Light</a>
+  - <a href='./css/style.scss'><i title='SCSS file' class="material-icons">'web_asset'</i>Style</a>
 
   </details>

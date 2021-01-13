@@ -11,23 +11,23 @@ back_text: Back to Paper 2
 
 - <details open><summary><a href='./chapter_1'>Chapter 1</a></summary>
 
-  - <a href='./chapter_1/.clang-format'><i title='CLANG-FORMAT file' class="material-icons">'build'</>Clang Format</a>
-  - <a href='./chapter_1/main_and_function'><i title=' file' class="material-icons">'get_app'</>Main And Function</a>
-  - <a href='./chapter_1/main_and_function.c'><i title='C file' class="material-icons">'code'</>Main And Function</a>
-  - <a href='./chapter_1/main_and_function.ocrpsc'><i title='OCRPSC file' class="material-icons">'code'</>Main And Function</a>
-  - <a href='./chapter_1/main_and_function.splw'><i title='SPLW file' class="material-icons">'code'</>Main And Function</a>
-  - <a href='./chapter_1/programming_techniques.md'><i title='MD file' class="material-icons">'article'</>Programming Techniques</a>
-  - <a href='./chapter_1/recursion.md'><i title='MD file' class="material-icons">'article'</>Recursion</a>
-  - <a href='./chapter_1/sub_programs.c'><i title='C file' class="material-icons">'code'</>Sub Programs</a>
-  - <a href='./chapter_1/sub_programs.md'><i title='MD file' class="material-icons">'article'</>Sub Programs</a>
+  - <a href='./chapter_1/.clang-format'><i title='CLANG-FORMAT file' class="material-icons">'build'</i>Clang Format</a>
+  - <a href='./chapter_1/main_and_function'><i title=' file' class="material-icons">'get_app'</i>Main And Function</a>
+  - <a href='./chapter_1/main_and_function.c'><i title='C file' class="material-icons">'code'</i>Main And Function</a>
+  - <a href='./chapter_1/main_and_function.ocrpsc'><i title='OCRPSC file' class="material-icons">'code'</i>Main And Function</a>
+  - <a href='./chapter_1/main_and_function.splw'><i title='SPLW file' class="material-icons">'code'</i>Main And Function</a>
+  - <a href='./chapter_1/programming_techniques.md'><i title='MD file' class="material-icons">'article'</i>Programming Techniques</a>
+  - <a href='./chapter_1/recursion.md'><i title='MD file' class="material-icons">'article'</i>Recursion</a>
+  - <a href='./chapter_1/sub_programs.c'><i title='C file' class="material-icons">'code'</i>Sub Programs</a>
+  - <a href='./chapter_1/sub_programs.md'><i title='MD file' class="material-icons">'article'</i>Sub Programs</a>
 
   </details>
 - <details open><summary><a href='./classes_RENAME_LATER'>Classes RENAME LATER</a></summary>
 
-  - <a href='./classes_RENAME_LATER/inheritance.md'><i title='MD file' class="material-icons">'article'</>Inheritance</a>
-  - <a href='./classes_RENAME_LATER/inheritance.psc'><i title='PSC file' class="material-icons">'code'</>Inheritance</a>
-  - <a href='./classes_RENAME_LATER/inheritance.py'><i title='PY file' class="material-icons">'code'</>Inheritance</a>
-  - <a href='./classes_RENAME_LATER/shape.py'><i title='PY file' class="material-icons">'code'</>Shape</a>
-  - <a href='./classes_RENAME_LATER/shape.splw'><i title='SPLW file' class="material-icons">'code'</>Shape</a>
+  - <a href='./classes_RENAME_LATER/inheritance.md'><i title='MD file' class="material-icons">'article'</i>Inheritance</a>
+  - <a href='./classes_RENAME_LATER/inheritance.psc'><i title='PSC file' class="material-icons">'code'</i>Inheritance</a>
+  - <a href='./classes_RENAME_LATER/inheritance.py'><i title='PY file' class="material-icons">'code'</i>Inheritance</a>
+  - <a href='./classes_RENAME_LATER/shape.py'><i title='PY file' class="material-icons">'code'</i>Shape</a>
+  - <a href='./classes_RENAME_LATER/shape.splw'><i title='SPLW file' class="material-icons">'code'</i>Shape</a>
 
   </details>

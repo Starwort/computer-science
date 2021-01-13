@@ -9,8 +9,8 @@ back_text: Back to Programming Practice
 
 # **Wb 2020 09 28**
 
-- <a href='./OOP_encapsulation.md'><i title='MD file' class="material-icons">'article'</>OOP Encapsulation</a>
-- <a href='./OOP_fundamentals.md'><i title='MD file' class="material-icons">'article'</>OOP Fundamentals</a>
-- <a href='./data_oriented.py'><i title='PY file' class="material-icons">'code'</>Data Oriented</a>
-- <a href='./object_oriented.py'><i title='PY file' class="material-icons">'code'</>Object Oriented</a>
-- <a href='./programming_task.py'><i title='PY file' class="material-icons">'code'</>Programming Task</a>
+- <a href='./OOP_encapsulation.md'><i title='MD file' class="material-icons">'article'</i>OOP Encapsulation</a>
+- <a href='./OOP_fundamentals.md'><i title='MD file' class="material-icons">'article'</i>OOP Fundamentals</a>
+- <a href='./data_oriented.py'><i title='PY file' class="material-icons">'code'</i>Data Oriented</a>
+- <a href='./object_oriented.py'><i title='PY file' class="material-icons">'code'</i>Object Oriented</a>
+- <a href='./programming_task.py'><i title='PY file' class="material-icons">'code'</i>Programming Task</a>

@@ -9,6 +9,6 @@ back_text: Back to Paper 2
 
 # **Classwork**
 
-- <a href='./garden_planner.md'><i title='MD file' class="material-icons">'article'</>Garden Planner</a>
-- <a href='./mobile_treasure_hunt.md'><i title='MD file' class="material-icons">'article'</>Mobile Treasure Hunt</a>
-- <a href='./oop_img_1.png'><i title='PNG file' class="material-icons">'photo'</>Oop Img 1</a>
+- <a href='./garden_planner.md'><i title='MD file' class="material-icons">'article'</i>Garden Planner</a>
+- <a href='./mobile_treasure_hunt.md'><i title='MD file' class="material-icons">'article'</i>Mobile Treasure Hunt</a>
+- <a href='./oop_img_1.png'><i title='PNG file' class="material-icons">'photo'</i>Oop Img 1</a>

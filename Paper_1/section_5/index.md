@@ -11,7 +11,7 @@ back_text: Back to Paper 1
 
 - <details open><summary><a href='./chapter_1'>Chapter 1</a></summary>
 
-  - <a href='./chapter_1/legislation_questions.md'><i title='MD file' class="material-icons">'article'</>Legislation Questions</a>
+  - <a href='./chapter_1/legislation_questions.md'><i title='MD file' class="material-icons">'article'</i>Legislation Questions</a>
 
   </details>
-- <a href='./legal_moral_cultural_ethical_issues.md'><i title='MD file' class="material-icons">'article'</>Legal Moral Cultural Ethical Issues</a>
+- <a href='./legal_moral_cultural_ethical_issues.md'><i title='MD file' class="material-icons">'article'</i>Legal Moral Cultural Ethical Issues</a>

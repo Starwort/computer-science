@@ -9,8 +9,8 @@ back_text: Back to Section 2
 
 # **Chapter 4**
 
-- <a href='./addressing.md'><i title='MD file' class="material-icons">'article'</>Addressing</a>
-- <a href='./object_oriented_languages.md'><i title='MD file' class="material-icons">'article'</>Object Oriented Languages</a>
-- <a href='./object_oriented_programming.md'><i title='MD file' class="material-icons">'article'</>Object Oriented Programming</a>
-- <a href='./wfh_oop_exam_questions.md'><i title='MD file' class="material-icons">'article'</>Wfh Oop Exam Questions</a>
-- <a href='./wfh_oop_exam_questions.png'><i title='PNG file' class="material-icons">'photo'</>Wfh Oop Exam Questions</a>
+- <a href='./addressing.md'><i title='MD file' class="material-icons">'article'</i>Addressing</a>
+- <a href='./object_oriented_languages.md'><i title='MD file' class="material-icons">'article'</i>Object Oriented Languages</a>
+- <a href='./object_oriented_programming.md'><i title='MD file' class="material-icons">'article'</i>Object Oriented Programming</a>
+- <a href='./wfh_oop_exam_questions.md'><i title='MD file' class="material-icons">'article'</i>Wfh Oop Exam Questions</a>
+- <a href='./wfh_oop_exam_questions.png'><i title='PNG file' class="material-icons">'photo'</i>Wfh Oop Exam Questions</a>

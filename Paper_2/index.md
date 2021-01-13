@@ -11,44 +11,44 @@ back_text: Back to Computer Science
 
 - <details open><summary><a href='./classwork'>Classwork</a></summary>
 
-  - <a href='./classwork/garden_planner.md'><i title='MD file' class="material-icons">'article'</>Garden Planner</a>
-  - <a href='./classwork/mobile_treasure_hunt.md'><i title='MD file' class="material-icons">'article'</>Mobile Treasure Hunt</a>
-  - <a href='./classwork/oop_img_1.png'><i title='PNG file' class="material-icons">'photo'</>Oop Img 1</a>
+  - <a href='./classwork/garden_planner.md'><i title='MD file' class="material-icons">'article'</i>Garden Planner</a>
+  - <a href='./classwork/mobile_treasure_hunt.md'><i title='MD file' class="material-icons">'article'</i>Mobile Treasure Hunt</a>
+  - <a href='./classwork/oop_img_1.png'><i title='PNG file' class="material-icons">'photo'</i>Oop Img 1</a>
 
   </details>
 - <details open><summary><a href='./easter_holiday_tasks'>Easter Holiday Tasks</a></summary>
 
-  - <a href='./easter_holiday_tasks/all.html'><i title='HTML file' class="material-icons">'web'</>All</a>
-  - <a href='./easter_holiday_tasks/calculator.html'><i title='HTML file' class="material-icons">'web'</>Calculator</a>
-  - <a href='./easter_holiday_tasks/dropdown.html'><i title='HTML file' class="material-icons">'web'</>Dropdown</a>
-  - <a href='./easter_holiday_tasks/textfile.html'><i title='HTML file' class="material-icons">'web'</>Textfile</a>
+  - <a href='./easter_holiday_tasks/all.html'><i title='HTML file' class="material-icons">'web'</i>All</a>
+  - <a href='./easter_holiday_tasks/calculator.html'><i title='HTML file' class="material-icons">'web'</i>Calculator</a>
+  - <a href='./easter_holiday_tasks/dropdown.html'><i title='HTML file' class="material-icons">'web'</i>Dropdown</a>
+  - <a href='./easter_holiday_tasks/textfile.html'><i title='HTML file' class="material-icons">'web'</i>Textfile</a>
 
   </details>
 - <details open><summary><a href='././section_1'>Section 1</a></summary>
 
   - <details open><summary><a href='./section_1/chapter_1'>Chapter 1</a></summary>
 
-    - <a href='./section_1/chapter_1/thinking_abstractly.md'><i title='MD file' class="material-icons">'article'</>Thinking Abstractly</a>
+    - <a href='./section_1/chapter_1/thinking_abstractly.md'><i title='MD file' class="material-icons">'article'</i>Thinking Abstractly</a>
 
     </details>
   - <details open><summary><a href='./section_1/chapter_2'>Chapter 2</a></summary>
 
-    - <a href='./section_1/chapter_2/thinking_ahead.md'><i title='MD file' class="material-icons">'article'</>Thinking Ahead</a>
+    - <a href='./section_1/chapter_2/thinking_ahead.md'><i title='MD file' class="material-icons">'article'</i>Thinking Ahead</a>
 
     </details>
   - <details open><summary><a href='./section_1/chapter_3'>Chapter 3</a></summary>
 
-    - <a href='./section_1/chapter_3/thinking_procedurally.md'><i title='MD file' class="material-icons">'article'</>Thinking Procedurally</a>
+    - <a href='./section_1/chapter_3/thinking_procedurally.md'><i title='MD file' class="material-icons">'article'</i>Thinking Procedurally</a>
 
     </details>
   - <details open><summary><a href='./section_1/chapter_4'>Chapter 4</a></summary>
 
-    - <a href='./section_1/chapter_4/thinking_logically.md'><i title='MD file' class="material-icons">'article'</>Thinking Logically</a>
+    - <a href='./section_1/chapter_4/thinking_logically.md'><i title='MD file' class="material-icons">'article'</i>Thinking Logically</a>
 
     </details>
   - <details open><summary><a href='./section_1/chapter_5'>Chapter 5</a></summary>
 
-    - <a href='./section_1/chapter_5/thinking_concurrently.md'><i title='MD file' class="material-icons">'article'</>Thinking Concurrently</a>
+    - <a href='./section_1/chapter_5/thinking_concurrently.md'><i title='MD file' class="material-icons">'article'</i>Thinking Concurrently</a>
 
     </details>
 
@@ -57,83 +57,83 @@ back_text: Back to Computer Science
 
   - <details open><summary><a href='./section_2/chapter_1'>Chapter 1</a></summary>
 
-    - <a href='./section_2/chapter_1/.clang-format'><i title='CLANG-FORMAT file' class="material-icons">'build'</>Clang Format</a>
-    - <a href='./section_2/chapter_1/main_and_function'><i title=' file' class="material-icons">'get_app'</>Main And Function</a>
-    - <a href='./section_2/chapter_1/main_and_function.c'><i title='C file' class="material-icons">'code'</>Main And Function</a>
-    - <a href='./section_2/chapter_1/main_and_function.ocrpsc'><i title='OCRPSC file' class="material-icons">'code'</>Main And Function</a>
-    - <a href='./section_2/chapter_1/main_and_function.splw'><i title='SPLW file' class="material-icons">'code'</>Main And Function</a>
-    - <a href='./section_2/chapter_1/programming_techniques.md'><i title='MD file' class="material-icons">'article'</>Programming Techniques</a>
-    - <a href='./section_2/chapter_1/recursion.md'><i title='MD file' class="material-icons">'article'</>Recursion</a>
-    - <a href='./section_2/chapter_1/sub_programs.c'><i title='C file' class="material-icons">'code'</>Sub Programs</a>
-    - <a href='./section_2/chapter_1/sub_programs.md'><i title='MD file' class="material-icons">'article'</>Sub Programs</a>
+    - <a href='./section_2/chapter_1/.clang-format'><i title='CLANG-FORMAT file' class="material-icons">'build'</i>Clang Format</a>
+    - <a href='./section_2/chapter_1/main_and_function'><i title=' file' class="material-icons">'get_app'</i>Main And Function</a>
+    - <a href='./section_2/chapter_1/main_and_function.c'><i title='C file' class="material-icons">'code'</i>Main And Function</a>
+    - <a href='./section_2/chapter_1/main_and_function.ocrpsc'><i title='OCRPSC file' class="material-icons">'code'</i>Main And Function</a>
+    - <a href='./section_2/chapter_1/main_and_function.splw'><i title='SPLW file' class="material-icons">'code'</i>Main And Function</a>
+    - <a href='./section_2/chapter_1/programming_techniques.md'><i title='MD file' class="material-icons">'article'</i>Programming Techniques</a>
+    - <a href='./section_2/chapter_1/recursion.md'><i title='MD file' class="material-icons">'article'</i>Recursion</a>
+    - <a href='./section_2/chapter_1/sub_programs.c'><i title='C file' class="material-icons">'code'</i>Sub Programs</a>
+    - <a href='./section_2/chapter_1/sub_programs.md'><i title='MD file' class="material-icons">'article'</i>Sub Programs</a>
 
     </details>
   - <details open><summary><a href='./section_2/classes_RENAME_LATER'>Classes RENAME LATER</a></summary>
 
-    - <a href='./section_2/classes_RENAME_LATER/inheritance.md'><i title='MD file' class="material-icons">'article'</>Inheritance</a>
-    - <a href='./section_2/classes_RENAME_LATER/inheritance.psc'><i title='PSC file' class="material-icons">'code'</>Inheritance</a>
-    - <a href='./section_2/classes_RENAME_LATER/inheritance.py'><i title='PY file' class="material-icons">'code'</>Inheritance</a>
-    - <a href='./section_2/classes_RENAME_LATER/shape.py'><i title='PY file' class="material-icons">'code'</>Shape</a>
-    - <a href='./section_2/classes_RENAME_LATER/shape.splw'><i title='SPLW file' class="material-icons">'code'</>Shape</a>
+    - <a href='./section_2/classes_RENAME_LATER/inheritance.md'><i title='MD file' class="material-icons">'article'</i>Inheritance</a>
+    - <a href='./section_2/classes_RENAME_LATER/inheritance.psc'><i title='PSC file' class="material-icons">'code'</i>Inheritance</a>
+    - <a href='./section_2/classes_RENAME_LATER/inheritance.py'><i title='PY file' class="material-icons">'code'</i>Inheritance</a>
+    - <a href='./section_2/classes_RENAME_LATER/shape.py'><i title='PY file' class="material-icons">'code'</i>Shape</a>
+    - <a href='./section_2/classes_RENAME_LATER/shape.splw'><i title='SPLW file' class="material-icons">'code'</i>Shape</a>
 
     </details>
 
   </details>
-- <a href='./Caching.dll'><i title='DLL file' class="material-icons">'code'</>Caching</a>
-- <a href='./bondm51122cython.c'><i title='C file' class="material-icons">'code'</>Bondm51122cython</a>
-- <a href='./bondm51122cython.py'><i title='PY file' class="material-icons">'code'</>Bondm51122cython</a>
-- <a href='./bubble.cs'><i title='CS file' class="material-icons">'code'</>Bubble</a>
-- <a href='./bubble.exe'><i title='EXE file' class="material-icons">'build'</>Bubble</a>
-- <a href='./build.sh'><i title='SH file' class="material-icons">'code'</>Build</a>
-- <a href='./colliert_algorithms.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Algorithms</a>
-- <a href='./colliert_bond1-4.1.2-1.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Bond1 4.1.2 1</a>
-- <a href='./colliert_bond1-4.1.2-2.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Bond1 4.1.2 2</a>
-- <a href='./colliert_bond1-4.1.2-3.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Bond1 4.1.2 3</a>
-- <a href='./colliert_bond1-4.1.2-4.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Bond1 4.1.2 4</a>
-- <a href='./colliert_bond1-4.1.2-5.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Bond1 4.1.2 5</a>
-- <a href='./colliert_bondm5.1.1-1.py'><i title='PY file' class="material-icons">'code'</>Colliert Bondm5.1.1 1</a>
-- <a href='./colliert_bondm5.1.1-1_v2.py'><i title='PY file' class="material-icons">'code'</>Colliert Bondm5.1.1 1 V2</a>
-- <a href='./colliert_bondm5.1.1-2.py'><i title='PY file' class="material-icons">'code'</>Colliert Bondm5.1.1 2</a>
-- <a href='./colliert_bondm5.1.1-2.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Bondm5.1.1 2</a>
-- <a href='./colliert_bondm5.1.1-2_v2.py'><i title='PY file' class="material-icons">'code'</>Colliert Bondm5.1.1 2 V2</a>
-- <a href='./colliert_bondm5.1.3-1.py'><i title='PY file' class="material-icons">'code'</>Colliert Bondm5.1.3 1</a>
-- <a href='./colliert_bondm5.1.5-1.py'><i title='PY file' class="material-icons">'code'</>Colliert Bondm5.1.5 1</a>
-- <a href='./colliert_bondm5.1.5-2.py'><i title='PY file' class="material-icons">'code'</>Colliert Bondm5.1.5 2</a>
-- <a href='./colliert_bubble_questions.txt'><i title='TXT file' class="material-icons">'description'</>Colliert Bubble Questions</a>
-- <a href='./colliert_christmas_homework.html'><i title='HTML file' class="material-icons">'web'</>Colliert Christmas Homework</a>
-- <a href='./colliert_christmas_homework.md'><i title='MD file' class="material-icons">'article'</>Colliert Christmas Homework</a>
-- <a href='./colliert_christmas_hw_questions.md'><i title='MD file' class="material-icons">'article'</>Colliert Christmas Hw Questions</a>
-- <a href='./colliert_christmas_hw_questions_pandoc_out.html'><i title='HTML file' class="material-icons">'web'</>Colliert Christmas Hw Questions Pandoc Out</a>
-- <a href='./colliert_cipher.py'><i title='PY file' class="material-icons">'code'</>Colliert Cipher</a>
-- <a href='./colliert_cipher.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Cipher</a>
-- <a href='./colliert_data1.txt'><i title='TXT file' class="material-icons">'description'</>Colliert Data1</a>
-- <a href='./colliert_data2-1.py'><i title='PY file' class="material-icons">'code'</>Colliert Data2 1</a>
-- <a href='./colliert_data2-2.py'><i title='PY file' class="material-icons">'code'</>Colliert Data2 2</a>
-- <a href='./colliert_data2-3.py'><i title='PY file' class="material-icons">'code'</>Colliert Data2 3</a>
-- <a href='./colliert_dicts.py'><i title='PY file' class="material-icons">'code'</>Colliert Dicts</a>
-- <a href='./colliert_fixed-point.py'><i title='PY file' class="material-icons">'code'</>Colliert Fixed Point</a>
-- <a href='./colliert_fixed-point_minified.py'><i title='PY file' class="material-icons">'code'</>Colliert Fixed Point Minified</a>
-- <a href='./colliert_floats.py'><i title='PY file' class="material-icons">'code'</>Colliert Floats</a>
-- <a href='./colliert_floats.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Floats</a>
-- <a href='./colliert_floats_better.py'><i title='PY file' class="material-icons">'code'</>Colliert Floats Better</a>
-- <a href='./colliert_mappings.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Mappings</a>
-- <a href='./colliert_merge_question_3.png'><i title='PNG file' class="material-icons">'photo'</>Colliert Merge Question 3</a>
-- <a href='./colliert_merge_question_3.txt'><i title='TXT file' class="material-icons">'description'</>Colliert Merge Question 3</a>
-- <a href='./colliert_merge_questions.txt'><i title='TXT file' class="material-icons">'description'</>Colliert Merge Questions</a>
-- <a href='./colliert_multiply_divide_up_to_16-crlf.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Multiply Divide Up To 16 Crlf</a>
-- <a href='./colliert_multiply_divide_up_to_16.py'><i title='PY file' class="material-icons">'code'</>Colliert Multiply Divide Up To 16</a>
-- <a href='./colliert_multiply_divide_up_to_16.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Multiply Divide Up To 16</a>
-- <a href='./colliert_partition_exchange_sort.py'><i title='PY file' class="material-icons">'code'</>Colliert Partition Exchange Sort</a>
-- <a href='./colliert_quick_sort.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Quick Sort</a>
-- <a href='./colliert_sorts.py'><i title='PY file' class="material-icons">'code'</>Colliert Sorts</a>
-- <a href='./colliert_sorts.splw'><i title='SPLW file' class="material-icons">'code'</>Colliert Sorts</a>
-- <a href='./fibonacci.cs'><i title='CS file' class="material-icons">'code'</>Fibonacci</a>
-- <a href='./fibonacci.exe'><i title='EXE file' class="material-icons">'build'</>Fibonacci</a>
-- <a href='./fibonacci.py'><i title='PY file' class="material-icons">'code'</>Fibonacci</a>
-- <a href='./fibonacci.splw'><i title='SPLW file' class="material-icons">'code'</>Fibonacci</a>
-- <a href='./fibonacci_no_cache.cs'><i title='CS file' class="material-icons">'code'</>Fibonacci No Cache</a>
-- <a href='./fibonacci_no_cache.exe'><i title='EXE file' class="material-icons">'build'</>Fibonacci No Cache</a>
-- <a href='./fix_line_endings.py'><i title='PY file' class="material-icons">'code'</>Fix Line Endings</a>
-- <a href='./shuffle_sort.py'><i title='PY file' class="material-icons">'code'</>Shuffle Sort</a>
-- <a href='./student_list.txt'><i title='TXT file' class="material-icons">'description'</>Student List</a>
-- <a href='./tk_arranger.py'><i title='PY file' class="material-icons">'code'</>Tk Arranger</a>
+- <a href='./Caching.dll'><i title='DLL file' class="material-icons">'code'</i>Caching</a>
+- <a href='./bondm51122cython.c'><i title='C file' class="material-icons">'code'</i>Bondm51122cython</a>
+- <a href='./bondm51122cython.py'><i title='PY file' class="material-icons">'code'</i>Bondm51122cython</a>
+- <a href='./bubble.cs'><i title='CS file' class="material-icons">'code'</i>Bubble</a>
+- <a href='./bubble.exe'><i title='EXE file' class="material-icons">'build'</i>Bubble</a>
+- <a href='./build.sh'><i title='SH file' class="material-icons">'code'</i>Build</a>
+- <a href='./colliert_algorithms.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Algorithms</a>
+- <a href='./colliert_bond1-4.1.2-1.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Bond1 4.1.2 1</a>
+- <a href='./colliert_bond1-4.1.2-2.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Bond1 4.1.2 2</a>
+- <a href='./colliert_bond1-4.1.2-3.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Bond1 4.1.2 3</a>
+- <a href='./colliert_bond1-4.1.2-4.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Bond1 4.1.2 4</a>
+- <a href='./colliert_bond1-4.1.2-5.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Bond1 4.1.2 5</a>
+- <a href='./colliert_bondm5.1.1-1.py'><i title='PY file' class="material-icons">'code'</i>Colliert Bondm5.1.1 1</a>
+- <a href='./colliert_bondm5.1.1-1_v2.py'><i title='PY file' class="material-icons">'code'</i>Colliert Bondm5.1.1 1 V2</a>
+- <a href='./colliert_bondm5.1.1-2.py'><i title='PY file' class="material-icons">'code'</i>Colliert Bondm5.1.1 2</a>
+- <a href='./colliert_bondm5.1.1-2.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Bondm5.1.1 2</a>
+- <a href='./colliert_bondm5.1.1-2_v2.py'><i title='PY file' class="material-icons">'code'</i>Colliert Bondm5.1.1 2 V2</a>
+- <a href='./colliert_bondm5.1.3-1.py'><i title='PY file' class="material-icons">'code'</i>Colliert Bondm5.1.3 1</a>
+- <a href='./colliert_bondm5.1.5-1.py'><i title='PY file' class="material-icons">'code'</i>Colliert Bondm5.1.5 1</a>
+- <a href='./colliert_bondm5.1.5-2.py'><i title='PY file' class="material-icons">'code'</i>Colliert Bondm5.1.5 2</a>
+- <a href='./colliert_bubble_questions.txt'><i title='TXT file' class="material-icons">'description'</i>Colliert Bubble Questions</a>
+- <a href='./colliert_christmas_homework.html'><i title='HTML file' class="material-icons">'web'</i>Colliert Christmas Homework</a>
+- <a href='./colliert_christmas_homework.md'><i title='MD file' class="material-icons">'article'</i>Colliert Christmas Homework</a>
+- <a href='./colliert_christmas_hw_questions.md'><i title='MD file' class="material-icons">'article'</i>Colliert Christmas Hw Questions</a>
+- <a href='./colliert_christmas_hw_questions_pandoc_out.html'><i title='HTML file' class="material-icons">'web'</i>Colliert Christmas Hw Questions Pandoc Out</a>
+- <a href='./colliert_cipher.py'><i title='PY file' class="material-icons">'code'</i>Colliert Cipher</a>
+- <a href='./colliert_cipher.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Cipher</a>
+- <a href='./colliert_data1.txt'><i title='TXT file' class="material-icons">'description'</i>Colliert Data1</a>
+- <a href='./colliert_data2-1.py'><i title='PY file' class="material-icons">'code'</i>Colliert Data2 1</a>
+- <a href='./colliert_data2-2.py'><i title='PY file' class="material-icons">'code'</i>Colliert Data2 2</a>
+- <a href='./colliert_data2-3.py'><i title='PY file' class="material-icons">'code'</i>Colliert Data2 3</a>
+- <a href='./colliert_dicts.py'><i title='PY file' class="material-icons">'code'</i>Colliert Dicts</a>
+- <a href='./colliert_fixed-point.py'><i title='PY file' class="material-icons">'code'</i>Colliert Fixed Point</a>
+- <a href='./colliert_fixed-point_minified.py'><i title='PY file' class="material-icons">'code'</i>Colliert Fixed Point Minified</a>
+- <a href='./colliert_floats.py'><i title='PY file' class="material-icons">'code'</i>Colliert Floats</a>
+- <a href='./colliert_floats.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Floats</a>
+- <a href='./colliert_floats_better.py'><i title='PY file' class="material-icons">'code'</i>Colliert Floats Better</a>
+- <a href='./colliert_mappings.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Mappings</a>
+- <a href='./colliert_merge_question_3.png'><i title='PNG file' class="material-icons">'photo'</i>Colliert Merge Question 3</a>
+- <a href='./colliert_merge_question_3.txt'><i title='TXT file' class="material-icons">'description'</i>Colliert Merge Question 3</a>
+- <a href='./colliert_merge_questions.txt'><i title='TXT file' class="material-icons">'description'</i>Colliert Merge Questions</a>
+- <a href='./colliert_multiply_divide_up_to_16-crlf.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Multiply Divide Up To 16 Crlf</a>
+- <a href='./colliert_multiply_divide_up_to_16.py'><i title='PY file' class="material-icons">'code'</i>Colliert Multiply Divide Up To 16</a>
+- <a href='./colliert_multiply_divide_up_to_16.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Multiply Divide Up To 16</a>
+- <a href='./colliert_partition_exchange_sort.py'><i title='PY file' class="material-icons">'code'</i>Colliert Partition Exchange Sort</a>
+- <a href='./colliert_quick_sort.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Quick Sort</a>
+- <a href='./colliert_sorts.py'><i title='PY file' class="material-icons">'code'</i>Colliert Sorts</a>
+- <a href='./colliert_sorts.splw'><i title='SPLW file' class="material-icons">'code'</i>Colliert Sorts</a>
+- <a href='./fibonacci.cs'><i title='CS file' class="material-icons">'code'</i>Fibonacci</a>
+- <a href='./fibonacci.exe'><i title='EXE file' class="material-icons">'build'</i>Fibonacci</a>
+- <a href='./fibonacci.py'><i title='PY file' class="material-icons">'code'</i>Fibonacci</a>
+- <a href='./fibonacci.splw'><i title='SPLW file' class="material-icons">'code'</i>Fibonacci</a>
+- <a href='./fibonacci_no_cache.cs'><i title='CS file' class="material-icons">'code'</i>Fibonacci No Cache</a>
+- <a href='./fibonacci_no_cache.exe'><i title='EXE file' class="material-icons">'build'</i>Fibonacci No Cache</a>
+- <a href='./fix_line_endings.py'><i title='PY file' class="material-icons">'code'</i>Fix Line Endings</a>
+- <a href='./shuffle_sort.py'><i title='PY file' class="material-icons">'code'</i>Shuffle Sort</a>
+- <a href='./student_list.txt'><i title='TXT file' class="material-icons">'description'</i>Student List</a>
+- <a href='./tk_arranger.py'><i title='PY file' class="material-icons">'code'</i>Tk Arranger</a>

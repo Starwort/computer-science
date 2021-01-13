@@ -9,7 +9,7 @@ back_text: Back to Paper 2
 
 # **Easter Holiday Tasks**
 
-- <a href='./all.html'><i title='HTML file' class="material-icons">'web'</>All</a>
-- <a href='./calculator.html'><i title='HTML file' class="material-icons">'web'</>Calculator</a>
-- <a href='./dropdown.html'><i title='HTML file' class="material-icons">'web'</>Dropdown</a>
-- <a href='./textfile.html'><i title='HTML file' class="material-icons">'web'</>Textfile</a>
+- <a href='./all.html'><i title='HTML file' class="material-icons">'web'</i>All</a>
+- <a href='./calculator.html'><i title='HTML file' class="material-icons">'web'</i>Calculator</a>
+- <a href='./dropdown.html'><i title='HTML file' class="material-icons">'web'</i>Dropdown</a>
+- <a href='./textfile.html'><i title='HTML file' class="material-icons">'web'</i>Textfile</a>

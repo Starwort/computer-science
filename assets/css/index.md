@@ -9,7 +9,7 @@ back_text: Back to Assets
 
 # **Css**
 
-- <a href='./common.scss'><i title='SCSS file' class="material-icons">'web_asset'</>Common</a>
-- <a href='./dark.css'><i title='CSS file' class="material-icons">'web_asset'</>Dark</a>
-- <a href='./light.css'><i title='CSS file' class="material-icons">'web_asset'</>Light</a>
-- <a href='./style.scss'><i title='SCSS file' class="material-icons">'web_asset'</>Style</a>
+- <a href='./common.scss'><i title='SCSS file' class="material-icons">'web_asset'</i>Common</a>
+- <a href='./dark.css'><i title='CSS file' class="material-icons">'web_asset'</i>Dark</a>
+- <a href='./light.css'><i title='CSS file' class="material-icons">'web_asset'</i>Light</a>
+- <a href='./style.scss'><i title='SCSS file' class="material-icons">'web_asset'</i>Style</a>

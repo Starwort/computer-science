@@ -9,9 +9,9 @@ back_text: Back to Section 1
 
 # **Subsection 1**
 
-- <a href='./CPU_notes.md'><i title='MD file' class="material-icons">'article'</>CPU Notes</a>
-- <a href='./chapter_3_questions.md'><i title='MD file' class="material-icons">'article'</>Chapter 3 Questions</a>
-- <a href='./chapter_4_questions.md'><i title='MD file' class="material-icons">'article'</>Chapter 4 Questions</a>
-- <a href='./chapter_5_questions.md'><i title='MD file' class="material-icons">'article'</>Chapter 5 Questions</a>
-- <a href='./pipelining.md'><i title='MD file' class="material-icons">'article'</>Pipelining</a>
-- <a href='./processor_architectures.md'><i title='MD file' class="material-icons">'article'</>Processor Architectures</a>
+- <a href='./CPU_notes.md'><i title='MD file' class="material-icons">'article'</i>CPU Notes</a>
+- <a href='./chapter_3_questions.md'><i title='MD file' class="material-icons">'article'</i>Chapter 3 Questions</a>
+- <a href='./chapter_4_questions.md'><i title='MD file' class="material-icons">'article'</i>Chapter 4 Questions</a>
+- <a href='./chapter_5_questions.md'><i title='MD file' class="material-icons">'article'</i>Chapter 5 Questions</a>
+- <a href='./pipelining.md'><i title='MD file' class="material-icons">'article'</i>Pipelining</a>
+- <a href='./processor_architectures.md'><i title='MD file' class="material-icons">'article'</i>Processor Architectures</a>

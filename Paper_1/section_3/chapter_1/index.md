@@ -9,4 +9,4 @@ back_text: Back to Section 3
 
 # **Chapter 1**
 
-- <a href='./encryption.md'><i title='MD file' class="material-icons">'article'</>Encryption</a>
+- <a href='./encryption.md'><i title='MD file' class="material-icons">'article'</i>Encryption</a>

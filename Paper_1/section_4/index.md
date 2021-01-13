@@ -11,25 +11,25 @@ back_text: Back to Paper 1
 
 - <details open><summary><a href='./chapter_1'>Chapter 1</a></summary>
 
-  - <a href='./chapter_1/character_sets.md'><i title='MD file' class="material-icons">'article'</>Character Sets</a>
-  - <a href='./chapter_1/data_types_questions.md'><i title='MD file' class="material-icons">'article'</>Data Types Questions</a>
-  - <a href='./chapter_1/primitive_data_types.md'><i title='MD file' class="material-icons">'article'</>Primitive Data Types</a>
+  - <a href='./chapter_1/character_sets.md'><i title='MD file' class="material-icons">'article'</i>Character Sets</a>
+  - <a href='./chapter_1/data_types_questions.md'><i title='MD file' class="material-icons">'article'</i>Data Types Questions</a>
+  - <a href='./chapter_1/primitive_data_types.md'><i title='MD file' class="material-icons">'article'</i>Primitive Data Types</a>
 
   </details>
 - <details open><summary><a href='./chapter_2'>Chapter 2</a></summary>
 
-  - <a href='./chapter_2/data_structures.md'><i title='MD file' class="material-icons">'article'</>Data Structures</a>
-  - <a href='./chapter_2/definitions.md'><i title='MD file' class="material-icons">'article'</>Definitions</a>
-  - <a href='./chapter_2/linked_lists_and_arrays.md'><i title='MD file' class="material-icons">'article'</>Linked Lists And Arrays</a>
-  - <a href='./chapter_2/lists_and_linked_lists.md'><i title='MD file' class="material-icons">'article'</>Lists And Linked Lists</a>
-  - <a href='./chapter_2/queues.md'><i title='MD file' class="material-icons">'article'</>Queues</a>
-  - <a href='./chapter_2/stacks.md'><i title='MD file' class="material-icons">'article'</>Stacks</a>
-  - <a href='./chapter_2/trees.md'><i title='MD file' class="material-icons">'article'</>Trees</a>
+  - <a href='./chapter_2/data_structures.md'><i title='MD file' class="material-icons">'article'</i>Data Structures</a>
+  - <a href='./chapter_2/definitions.md'><i title='MD file' class="material-icons">'article'</i>Definitions</a>
+  - <a href='./chapter_2/linked_lists_and_arrays.md'><i title='MD file' class="material-icons">'article'</i>Linked Lists And Arrays</a>
+  - <a href='./chapter_2/lists_and_linked_lists.md'><i title='MD file' class="material-icons">'article'</i>Lists And Linked Lists</a>
+  - <a href='./chapter_2/queues.md'><i title='MD file' class="material-icons">'article'</i>Queues</a>
+  - <a href='./chapter_2/stacks.md'><i title='MD file' class="material-icons">'article'</i>Stacks</a>
+  - <a href='./chapter_2/trees.md'><i title='MD file' class="material-icons">'article'</i>Trees</a>
 
   </details>
 - <details open><summary><a href='./chapter_3'>Chapter 3</a></summary>
 
-  - <a href='./chapter_3/gates.png'><i title='PNG file' class="material-icons">'photo'</>Gates</a>
-  - <a href='./chapter_3/logic_gates.md'><i title='MD file' class="material-icons">'article'</>Logic Gates</a>
+  - <a href='./chapter_3/gates.png'><i title='PNG file' class="material-icons">'photo'</i>Gates</a>
+  - <a href='./chapter_3/logic_gates.md'><i title='MD file' class="material-icons">'article'</i>Logic Gates</a>
 
   </details>

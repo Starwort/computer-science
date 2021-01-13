@@ -9,5 +9,5 @@ back_text: Back to Section 3
 
 # **Chapter 2**
 
-- <a href='./SQL.md'><i title='MD file' class="material-icons">'article'</>SQL</a>
-- <a href='./normalisation.md'><i title='MD file' class="material-icons">'article'</>Normalisation</a>
+- <a href='./SQL.md'><i title='MD file' class="material-icons">'article'</i>SQL</a>
+- <a href='./normalisation.md'><i title='MD file' class="material-icons">'article'</i>Normalisation</a>

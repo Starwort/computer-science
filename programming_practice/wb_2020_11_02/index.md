@@ -9,6 +9,6 @@ back_text: Back to Programming Practice
 
 # **Wb 2020 11 02**
 
-- <a href='./boolean_algebra.md'><i title='MD file' class="material-icons">'article'</>Boolean Algebra</a>
-- <a href='./boolean_algebra.py'><i title='PY file' class="material-icons">'code'</>Boolean Algebra</a>
-- <a href='./karnaugh_maps.md'><i title='MD file' class="material-icons">'article'</>Karnaugh Maps</a>
+- <a href='./boolean_algebra.md'><i title='MD file' class="material-icons">'article'</i>Boolean Algebra</a>
+- <a href='./boolean_algebra.py'><i title='PY file' class="material-icons">'code'</i>Boolean Algebra</a>
+- <a href='./karnaugh_maps.md'><i title='MD file' class="material-icons">'article'</i>Karnaugh Maps</a>

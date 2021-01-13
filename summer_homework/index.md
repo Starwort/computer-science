@@ -9,7 +9,7 @@ back_text: Back to Computer Science
 
 # **Summer Homework**
 
-- <a href='./CSS_Questions.md'><i title='MD file' class="material-icons">'article'</>CSS Questions</a>
-- <a href='./LMC_Questions.md'><i title='MD file' class="material-icons">'article'</>LMC Questions</a>
-- <a href='./OOP_Questions.md'><i title='MD file' class="material-icons">'article'</>OOP Questions</a>
-- <a href='./oop_img_1.png'><i title='PNG file' class="material-icons">'photo'</>Oop Img 1</a>
+- <a href='./CSS_Questions.md'><i title='MD file' class="material-icons">'article'</i>CSS Questions</a>
+- <a href='./LMC_Questions.md'><i title='MD file' class="material-icons">'article'</i>LMC Questions</a>
+- <a href='./OOP_Questions.md'><i title='MD file' class="material-icons">'article'</i>OOP Questions</a>
+- <a href='./oop_img_1.png'><i title='PNG file' class="material-icons">'photo'</i>Oop Img 1</a>

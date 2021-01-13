@@ -9,10 +9,10 @@ back_text: Back to Programming Practice
 
 # **Dfsdemo**
 
-- <a href='./demo.html'><i title='HTML file' class="material-icons">'web'</>Demo</a>
-- <a href='./material.css'><i title='CSS file' class="material-icons">'web_asset'</>Material</a>
-- <a href='./material.js'><i title='JS file' class="material-icons">'web_asset'</>Material</a>
-- <a href='./page.css'><i title='CSS file' class="material-icons">'web_asset'</>Page</a>
-- <a href='./page.js'><i title='JS file' class="material-icons">'web_asset'</>Page</a>
-- <a href='./page.scss'><i title='SCSS file' class="material-icons">'web_asset'</>Page</a>
-- <a href='./page_generator.py'><i title='PY file' class="material-icons">'code'</>Page Generator</a>
+- <a href='./demo.html'><i title='HTML file' class="material-icons">'web'</i>Demo</a>
+- <a href='./material.css'><i title='CSS file' class="material-icons">'web_asset'</i>Material</a>
+- <a href='./material.js'><i title='JS file' class="material-icons">'web_asset'</i>Material</a>
+- <a href='./page.css'><i title='CSS file' class="material-icons">'web_asset'</i>Page</a>
+- <a href='./page.js'><i title='JS file' class="material-icons">'web_asset'</i>Page</a>
+- <a href='./page.scss'><i title='SCSS file' class="material-icons">'web_asset'</i>Page</a>
+- <a href='./page_generator.py'><i title='PY file' class="material-icons">'code'</i>Page Generator</a>

@@ -9,7 +9,7 @@ back_text: Back to Programming Practice
 
 # **Wb 2020 10 05**
 
-- <a href='./inheritance_and_abstraction.md'><i title='MD file' class="material-icons">'article'</>Inheritance And Abstraction</a>
-- <a href='./inheritance_and_abstraction_task.py'><i title='PY file' class="material-icons">'code'</>Inheritance And Abstraction Task</a>
-- <a href='./polymorphism.md'><i title='MD file' class="material-icons">'article'</>Polymorphism</a>
-- <a href='./polymorphism_task.py'><i title='PY file' class="material-icons">'code'</>Polymorphism Task</a>
+- <a href='./inheritance_and_abstraction.md'><i title='MD file' class="material-icons">'article'</i>Inheritance And Abstraction</a>
+- <a href='./inheritance_and_abstraction_task.py'><i title='PY file' class="material-icons">'code'</i>Inheritance And Abstraction Task</a>
+- <a href='./polymorphism.md'><i title='MD file' class="material-icons">'article'</i>Polymorphism</a>
+- <a href='./polymorphism_task.py'><i title='PY file' class="material-icons">'code'</i>Polymorphism Task</a>
