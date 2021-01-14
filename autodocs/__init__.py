@@ -1,8 +1,8 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = "2.5.1"
-COMMENT = "fix a bunch of bugs"
+VERSION = "2.5.2"
+COMMENT = "fix links to documents"
 
 ID_STRING = f'{VERSION} "{COMMENT}"'
 

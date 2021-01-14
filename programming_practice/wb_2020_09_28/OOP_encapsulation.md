@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OOP Encapsulation | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.1 "fix a bunch of bugs" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.2 "fix links to documents" ⓒ Starwort, 2020
 has_back: true
 back_link: ./
 back_text: Back to Wb 2020 09 28

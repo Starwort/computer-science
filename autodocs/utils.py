@@ -231,7 +231,11 @@ def html_format_node(node: Node) -> str:
     :return: The formatted node
     :rtype: str
     """
-    return f"<a href={node[2]!r}>{get_html_icon(node[1])}{casify(node[0])}</a>"
+    if node[2].endswith(".md"):
+        url = node[2][:-3] + ".html"
+    else:
+        url = node[2]
+    return f"<a href={url!r}>{get_html_icon(node[1])}{casify(node[0])}</a>"
 
 
 @lru_cache
