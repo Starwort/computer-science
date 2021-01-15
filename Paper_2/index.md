@@ -135,5 +135,6 @@ back_text: Back to Computer Science
 - <a href='./fibonacci_no_cache.exe'><i title='EXE file' class="material-icons">build</i>Fibonacci No Cache</a>
 - <a href='./fix_line_endings.py'><i title='PY file' class="material-icons">code</i>Fix Line Endings</a>
 - <a href='./shuffle_sort.py'><i title='PY file' class="material-icons">code</i>Shuffle Sort</a>
+- <a href='./sorting_workshop.ipynb'><i title='IPYNB file' class="material-icons">integration_instructions</i>Sorting Workshop</a>
 - <a href='./student_list.txt'><i title='TXT file' class="material-icons">description</i>Student List</a>
 - <a href='./tk_arranger.py'><i title='PY file' class="material-icons">code</i>Tk Arranger</a>

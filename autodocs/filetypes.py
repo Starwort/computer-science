@@ -91,4 +91,5 @@ filetype_to_material = {
     "diff": "compare",
     "cast": "movie",
     "sh": "code",
+    "ipynb": "integration_instructions",
 }
