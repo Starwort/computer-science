@@ -11,6 +11,7 @@ back_text: Back to Paper 2
 
 - <details open><summary><a href='./chapter_1'>Chapter 1</a></summary>
 
+  - <a href='./chapter_1/sorting_algorithms_theory.html'><i title='MD file' class="material-icons">article</i>Sorting Algorithms Theory</a>
   - <a href='./chapter_1/sorting_workshop.ipynb'><i title='IPYNB file' class="material-icons">integration_instructions</i>Sorting Workshop</a>
 
   </details>

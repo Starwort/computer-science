@@ -9,4 +9,5 @@ back_text: Back to Section 3
 
 # **Chapter 1**
 
+- <a href='./sorting_algorithms_theory.html'><i title='MD file' class="material-icons">article</i>Sorting Algorithms Theory</a>
 - <a href='./sorting_workshop.ipynb'><i title='IPYNB file' class="material-icons">integration_instructions</i>Sorting Workshop</a>
