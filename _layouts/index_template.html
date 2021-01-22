@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: " en-US" }}">
 
     <head>
 
@@ -53,7 +53,7 @@
                 content: "folder_open";
             }
 
-            details[open]>summary::before {
+            details:not([open])>summary::before {
                 content: "folder";
             }
         </style>
