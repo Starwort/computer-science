@@ -201,7 +201,7 @@ def merge_sort(to_sort: list) -> list:
     - All cases: O(nlogn)
 04. What about the space complexity?
     - Best implementation: O(n) total, O(1) auxiliary
-    - My implementation: O(nlogn) total, O(logn) auxiliary
+    - My implementation: O(n) total, O(n) auxiliary
     - Naive implementation: O(n(logn)<sup>2</sup>) total, O((logn)<sup>2</sup>) auxiliary
 
 ### Quick Sort
