@@ -97,7 +97,8 @@ Algorithm | Best-case Time Complexity | Average-case Time Complexity | Worst-cas
 ---|---|---|---|---
 Bubble Sort | O(n) | O(n<sup>2</sup>) | O(n<sup>2</sup>) | O(n) total, O(1) auxiliary
 Insertion Sort | O(n) | O(n<sup>2</sup>) | O(n<sup>2</sup>) | O(n) total, O(1) auxiliary
-Merge Sort | O(nlogn) | O(nlogn) | O(nlogn) | O(n) total, O(n) auxiliary (my in-place algorithm) / O(nlogn) total, O(nlogn) auxiliary (naive merge sort)
+Merge Sort | O(nlogn) | O(nlogn) | O(nlogn) | O(n) total, O(logn) auxiliary (my in-place algorithm) / O(n(logn)<sup>2</sup>) total, O((logn)<sup>2</sup>) auxiliary (naive merge sort)
+Quick Sort | O(nlogn) | O(nlogn) | O(n<sup>2</sup>) | O(n) total, O(1) auxiliary
 
 ## O(nlogn) algorithms
 
@@ -195,3 +196,24 @@ def merge_sort(to_sort: list) -> list:
     02. *`[54]` and `[36]`*
     03. ~~`[54, 36]` and `[66, 78]`~~
     04. ~~`[19, 36, 42, 44, 54, 64, 66, 78]` and `[22, 51,62, 67, 72, 79, 81, 89]`~~
+
+03. What is the best/average/worst time complexity of merge sort?
+    - All cases: O(nlogn)
+04. What about the space complexity?
+    - Best implementation: O(n) total, O(1) auxiliary
+    - My implementation: O(nlogn) total, O(logn) auxiliary
+    - Naive implementation: O(n(logn)<sup>2</sup>) total, O((logn)<sup>2</sup>) auxiliary
+
+### Quick Sort
+
+01. Explain the key steps in the quick sort algorithm
+    - Pick a pivot
+    - Move all values less than the pivot to before the pivot
+    - Move all values greater than the pivot to after the pivot
+    - Sort each partition recursively
+02. What is the best/average/worst time complexity of quick sort?
+    - Best case: O(nlogn)
+    - Average case: O(nlogn)
+    - Worst case: O(n<sup>2</sup>)
+03. What about the space complexity?
+    - O(n) total, O(1) auxiliary
