@@ -97,7 +97,7 @@ Algorithm | Best-case Time Complexity | Average-case Time Complexity | Worst-cas
 ---|---|---|---|---
 Bubble Sort | O(n) | O(n<sup>2</sup>) | O(n<sup>2</sup>) | O(n) total, O(1) auxiliary
 Insertion Sort | O(n) | O(n<sup>2</sup>) | O(n<sup>2</sup>) | O(n) total, O(1) auxiliary
-Merge Sort | O(nlogn) | O(nlogn) | O(nlogn) | O(n) total, O(logn) auxiliary (my in-place algorithm) / O(n(logn)<sup>2</sup>) total, O((logn)<sup>2</sup>) auxiliary (naive merge sort)
+Merge Sort | O(nlogn) | O(nlogn) | O(nlogn) | O(n) total, O(n) auxiliary (my in-place algorithm) / O(nlogn) total, O(nlogn) auxiliary (naive merge sort)
 Quick Sort | O(nlogn) | O(nlogn) | O(n<sup>2</sup>) | O(n) total, O(1) auxiliary
 
 ## O(nlogn) algorithms
@@ -202,7 +202,7 @@ def merge_sort(to_sort: list) -> list:
 04. What about the space complexity?
     - Best implementation: O(n) total, O(1) auxiliary
     - My implementation: O(n) total, O(n) auxiliary
-    - Naive implementation: O(n(logn)<sup>2</sup>) total, O((logn)<sup>2</sup>) auxiliary
+    - Naive implementation: O(nlogn) total, O(nlogn) auxiliary
 
 ### Quick Sort
 
