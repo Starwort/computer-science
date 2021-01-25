@@ -290,6 +290,7 @@ back_text: Back to Computer Science
 
       - <a href='./Paper_2/section_3/chapter_1/sorting_algorithms_theory.html'><i title='MD file' class="material-icons">article</i>Sorting Algorithms Theory</a>
       - <a href='./Paper_2/section_3/chapter_1/sorting_workshop.ipynb'><i title='IPYNB file' class="material-icons">integration_instructions</i>Sorting Workshop</a>
+      - <a href='./Paper_2/section_3/chapter_1/sorting_workshop_2.ipynb'><i title='IPYNB file' class="material-icons">integration_instructions</i>Sorting Workshop 2</a>
 
       </details>
 
