@@ -56,6 +56,11 @@
             details:not([open])>summary::before {
                 content: "folder";
             }
+
+            a:not(#skip-to-content):not(#commit_link):not(#back) {
+                display: flex;
+                align-items: center;
+            }
         </style>
     </head>
 
@@ -83,7 +88,7 @@
             <footer class="site-footer">
                 <span class="site-footer-credits">
                     {{ page.autodoc_footer | markdownify }}
-                    Currently viewing commit <a
+                    Currently viewing commit <a id="commit_link"
                        href="https://github.com/Starwort/computer-science/commit/{{ site.github.build_revision }}">
                         {{ site.github.build_revision | truncate: 7, "" }}
                     </a>
