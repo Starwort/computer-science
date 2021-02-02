@@ -43,7 +43,7 @@ Fixed-point numbers have simple arithmetic but limited range and precision; Floa
 
 ## Activities
 
-Using 8.3 two's-complement fixed-point notation, encode 3.5625
+Using 8.3 two's-complement fixed-point notation, encode 3.625
 
 | Decimal | -128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 | ½ | ¼ | ⅛ |
 |--------:|-----:|---:|---:|---:|--:|--:|--:|--:|--:|--:|--:|
