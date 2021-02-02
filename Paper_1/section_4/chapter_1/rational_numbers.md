@@ -118,3 +118,8 @@ Using 5e4 two's-complement floating-point representation, normalise 000110010 an
   - Mantissa was multiplied by 4, so subtract 4
   - Exponent = -6 = 1010
 - Normalised number: 100001010
+
+Show the denary number -5.25 in two's-complement floating-point binary form, representing the mantissa and exponent in as few bits as possible
+
+- 101.01 = 0.10101 × 2<sup>11</sup>
+- 01010111 (6.2)
