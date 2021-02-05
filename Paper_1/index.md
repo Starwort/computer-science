@@ -147,6 +147,7 @@ back_text: Back to Computer Science
   - <details open><summary><a href='./section_3/chapter_1'>Chapter 1</a></summary>
 
     - <a href='./section_3/chapter_1/encryption.html'><i title='MD file' class="material-icons">article</i>Encryption</a>
+    - <a href='./section_3/chapter_1/encryption_hashing.html'><i title='MD file' class="material-icons">article</i>Encryption Hashing</a>
 
     </details>
   - <details open><summary><a href='./section_3/chapter_2'>Chapter 2</a></summary>

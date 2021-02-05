@@ -10,3 +10,4 @@ back_text: Back to Section 3
 # **Chapter 1**
 
 - <a href='./encryption.html'><i title='MD file' class="material-icons">article</i>Encryption</a>
+- <a href='./encryption_hashing.html'><i title='MD file' class="material-icons">article</i>Encryption Hashing</a>
