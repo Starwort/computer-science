@@ -667,3 +667,10 @@ summary {
         margin-bottom: 2px;
     }
 }
+
+ol ol {
+    list-style-type: lower-alpha;
+    & ol {
+        list-style-type: lower-roman;
+    }
+}

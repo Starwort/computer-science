@@ -21,13 +21,12 @@
         <link rel="stylesheet"
               href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
         <style>
-            img {
-                height: 1.2em;
-                margin-bottom: -0.25em;
-            }
-
             ul {
                 list-style-type: none;
+                padding-left: 0;
+            }
+
+            ul ul {
                 padding-left: 25px;
             }
 
@@ -37,6 +36,7 @@
 
             details>summary {
                 list-style: none;
+                display: flex;
             }
 
             details>summary::-webkit-details-marker {
