@@ -468,6 +468,11 @@ back_text: Back to Computer Science
     - <a href='./programming_practice/wb_2021_01_11/algorithmic_complexity.html'><i title='MD file' class="material-icons">article</i>Algorithmic Complexity</a>
 
     </details>
+  - <details open><summary><a href='./programming_practice/wb_2021_02_08'>Wb 2021 02 08</a></summary>
+
+    - <a href='./programming_practice/wb_2021_02_08/list_comprehension_workshop.ipynb'><i title='IPYNB file' class="material-icons">integration_instructions</i>List Comprehension Workshop</a>
+
+    </details>
   - <a href='./programming_practice/food_magnate_simulation.py'><i title='PY file' class="material-icons">code</i>Food Magnate Simulation</a>
   - <a href='./programming_practice/food_magnate_simulation_programming_tasks.html'><i title='MD file' class="material-icons">article</i>Food Magnate Simulation Programming Tasks</a>
   - <a href='./programming_practice/food_magnate_simulation_questions.html'><i title='MD file' class="material-icons">article</i>Food Magnate Simulation Questions</a>
