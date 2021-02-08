@@ -158,6 +158,11 @@ back_text: Back to Computer Science
       - <a href='./Paper_1/section_3/chapter_2/normalisation.html'><i title='MD file' class="material-icons">article</i>Normalisation</a>
 
       </details>
+    - <details open><summary><a href='./Paper_1/section_3/chapter_4'>Chapter 4</a></summary>
+
+      - <a href='./Paper_1/section_3/chapter_4/search_engines_and_pagerank.html'><i title='MD file' class="material-icons">article</i>Search Engines And Pagerank</a>
+
+      </details>
 
     </details>
   - <details open><summary><a href='././Paper_1/section_4'>Section 4</a></summary>

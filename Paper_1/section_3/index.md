@@ -21,3 +21,8 @@ back_text: Back to Paper 1
   - <a href='./chapter_2/normalisation.html'><i title='MD file' class="material-icons">article</i>Normalisation</a>
 
   </details>
+- <details open><summary><a href='./chapter_4'>Chapter 4</a></summary>
+
+  - <a href='./chapter_4/search_engines_and_pagerank.html'><i title='MD file' class="material-icons">article</i>Search Engines And Pagerank</a>
+
+  </details>
