@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thinking Ahead | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.2 "fix links to documents" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.3 "add tag to make &lt;base&gt; work" ⓒ Starwort, 2020
 has_back: true
 back_link: ./
 back_text: Back to Chapter 2

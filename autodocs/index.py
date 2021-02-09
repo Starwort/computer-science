@@ -4,14 +4,13 @@ from typing import List, cast
 
 from tqdm import tqdm  # type: ignore
 
-from .utils import (
+from .utils import (  # format_node,
     Folder,
     Node,
     casify,
     collect_folders,
     collect_nodes,
     folder_node,
-    # format_node,
     generate_page_meta,
     html_format_node,
 )
@@ -84,6 +83,7 @@ def index(folder: str, footer: str, from_folder: str = "", leave: int = 0) -> No
                 has_back="true" if from_folder else "false",
                 back_link="..",
                 back_text="Back to " + extless_name_to_display(basename(from_folder)),
+                location=folder,
             ).encode("UTF-8")
         )
         file.write(f"# **{name}**\n\n".encode("UTF-8"))
