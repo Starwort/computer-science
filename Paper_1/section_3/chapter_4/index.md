@@ -11,3 +11,4 @@ location: ./Paper_1/section_3/chapter_4
 # **Chapter 4**
 
 - <a href='./search_engines_and_pagerank.html'><i title='MD file' class="material-icons">article</i>Search Engines And Pagerank</a>
+- <a href='./server_and_client_side_processing.html'><i title='MD file' class="material-icons">article</i>Server And Client Side Processing</a>

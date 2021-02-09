@@ -22,8 +22,14 @@ location: ./Paper_1/section_3
   - <a href='./chapter_2/normalisation.html'><i title='MD file' class="material-icons">article</i>Normalisation</a>
 
   </details>
+- <details open><summary><a href='./chapter_3'>Chapter 3</a></summary>
+
+  - <a href='./chapter_3/client-server_and_peer-to-peer.html'><i title='MD file' class="material-icons">article</i>Client Server And Peer To Peer</a>
+
+  </details>
 - <details open><summary><a href='./chapter_4'>Chapter 4</a></summary>
 
   - <a href='./chapter_4/search_engines_and_pagerank.html'><i title='MD file' class="material-icons">article</i>Search Engines And Pagerank</a>
+  - <a href='./chapter_4/server_and_client_side_processing.html'><i title='MD file' class="material-icons">article</i>Server And Client Side Processing</a>
 
   </details>
