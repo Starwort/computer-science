@@ -50,7 +50,7 @@ def copy_folder(folder: List[Node], page_footer: str, leave: int = 0) -> None:
                         title=f"{casify(node[0])} | Computer Science",
                         autodoc_footer=page_footer,
                         has_back="true",
-                        back_link="./",
+                        back_link="./" + real_path,
                         back_text=f"Back to {casify(basename(dir_name))}",
                     ).encode("UTF-8")
                 else:

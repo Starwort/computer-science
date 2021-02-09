@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Client Server And Peer To Peer | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.3 "add tag to make &lt;base&gt; work" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.4 "make back URLs relative" ⓒ Starwort, 2020
 has_back: true
-back_link: ./
+back_link: ./Paper_1/section_3/chapter_3
 back_text: Back to Chapter 3
 ---
 

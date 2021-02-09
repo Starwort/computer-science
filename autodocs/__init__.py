@@ -1,8 +1,8 @@
 from .index import run_index
 from .preprocess import run_preprocess
 
-VERSION = "2.5.3"
-COMMENT = "add tag to make &lt;base&gt; work"
+VERSION = "2.5.4"
+COMMENT = "make back URLs relative"
 
 ID_STRING = f'{VERSION} "{COMMENT}"'
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: OOP Fundamentals | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.3 "add tag to make &lt;base&gt; work" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.4 "make back URLs relative" ⓒ Starwort, 2020
 has_back: true
-back_link: ./
+back_link: ./programming_practice/wb_2020_09_28
 back_text: Back to Wb 2020 09 28
 ---
 

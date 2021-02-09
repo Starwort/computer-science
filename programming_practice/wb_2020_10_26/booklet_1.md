@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Booklet 1 | Computer Science
-autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.3 "add tag to make &lt;base&gt; work" ⓒ Starwort, 2020
+autodoc_footer: Preprocessed by AutoDocs.preprocess 2.5.4 "make back URLs relative" ⓒ Starwort, 2020
 has_back: true
-back_link: ./
+back_link: ./programming_practice/wb_2020_10_26
 back_text: Back to Wb 2020 10 26
 ---
 
