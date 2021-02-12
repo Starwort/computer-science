@@ -104,8 +104,8 @@ Using 5e4 two's-complement floating-point representation, normalise 000110010 an
   - 0.75 in [0.5, 1)
   - Mantissa = 0.75 = 01100
 - Exponent = 0010 = 2
-  - Mantissa was multiplied by 4, so subtract 4
-  - Exponent = -2 = 1110
+  - Mantissa was shifted by 2, so subtract 2
+  - Exponent = 0 = 0000
 - Normalised number: 011001110
 - Mantissa = 11100 = -0.25
   - -0.25 not in [-1, -0.5)
@@ -115,8 +115,8 @@ Using 5e4 two's-complement floating-point representation, normalise 000110010 an
   - -1 in [-1, -0.5)
   - Mantissa = -1 = 10000
 - Exponent = 1110 = -2
-  - Mantissa was multiplied by 4, so subtract 4
-  - Exponent = -6 = 1010
+  - Mantissa was shifted by 2, so subtract 2
+  - Exponent = -4 = 1100
 - Normalised number: 100001010
 
 Show the denary number -5.25 in two's-complement floating-point binary form, representing the mantissa and exponent in as few bits as possible
