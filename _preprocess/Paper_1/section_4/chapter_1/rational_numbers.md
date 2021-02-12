@@ -112,5 +112,5 @@ Using 5e4 two's-complement floating-point representation, normalise 000110010 an
 
 Show the denary number -5.25 in two's-complement floating-point binary form, representing the mantissa and exponent in as few bits as possible
 
-- 101.01 = 0.10101 × 2<sup>11</sup>
-- 01010111 (6.2)
+- -101.01 = 1010.11 = 1.01011 × 2<sup>11</sup>
+- 10101111 (6.2)
