@@ -26,7 +26,7 @@ A + B = (01011101 + 00011110)0111 = 01111011&#x200b;0111
 
     Add the following three numbers together and give the answer in the format described. You must show your working.
 
-    ```numbers
+    ```
     010100  0010
     011000  0001
     100010  0010
