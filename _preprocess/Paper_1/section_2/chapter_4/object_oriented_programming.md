@@ -6,7 +6,7 @@ An **object** has attributes and methods.
 **Method**: a function or procedure attached to a class that operates on an instance of the class  
 **Class**: a data structure consisting of attributes, and (optionally) methods
 
-```ocrpsc
+```
 class Monster
     private poisonous
     private strength
@@ -50,7 +50,7 @@ The *initialiser* (`new` in the OCR pseudocode) is used to instantiate a new obj
 
 `vampireTwo = new Vampire(false, 8.5, "Gordon")`
 
-```ocrpsc
+```
 class Goblin inherits Monster
     private gold_coins = 0
 
@@ -71,7 +71,7 @@ endclass
 
 **Polymorphism**: the ability to call a method of an object and have it do different things depending on the type of the object
 
-```ocrpsc
+```
 for monster of zoo
     monster.greet("Computer Science Students")
 endfor
@@ -79,7 +79,7 @@ endfor
 
 **Encapsulation**: the limitation of attribute access to within an instance's own methods only
 
-```ocrpsc
+```
 class Monster
     private poisonous
     private strength

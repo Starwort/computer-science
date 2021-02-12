@@ -33,7 +33,7 @@ ol ol ol {
         - `Magazine.name` as the name of a magazine is likely to be something that is looked up very frequently
 02. A college department wishes to create a database to hold information about students and the courses they take. The relationship between students and courses is shown in the following entity relationship diagram.
 
-    ```text
+    ```
     Student
        |
        | attends
@@ -113,7 +113,7 @@ ol ol ol {
         - All attributes should depend transitively on the primary key
 03. A museum has permanent displays but also runs a programme of special events. People may pay an annual fee to become Friends of the Museum. Friends can attend events, which they must book in advance. This, and other data about the museum, is stored in a relational database. Part of the entity-relationship (E-R) diagram is shown.
 
-    ```text
+    ```
     FRIEND
       |
      /|\
@@ -135,7 +135,7 @@ ol ol ol {
 
         Draw this initial E-R diagram with `FRIEND` and `EVENT` only.
 
-        - ```text
+        - ```
           FRIEND
            \|/
             |

@@ -22,7 +22,7 @@
     - Where an instance of the class is not required, but the process is related to the class: For example, generating a random sale price does not need a specific object to run, but it may be useful to a class designed to predict the sale prices and could therefore be a static method for that class.
 05. Using pseudocode, write a class with relevant attributes and methods to represent a digital clock object. It should represent the time as a 24-hour clock, and include methods to create a new object, set the time manually, display the time, and update the time at the end of each minute.
 
-    - ```psc
+    - ```
       class Clock {
           private int time
           Clock(int time) {

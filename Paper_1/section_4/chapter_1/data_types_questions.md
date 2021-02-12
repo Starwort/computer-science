@@ -103,7 +103,7 @@ ol ol ol {
 11. &#x200b;
     01. A simple program is shown below.
 
-        ```psc
+        ```
         //Program to calculate number of times
         //a number goes into 100
         count = 0

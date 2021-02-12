@@ -45,7 +45,7 @@ back_text: Back to Chapter 4
 
 ## Example Algorithm 1
 
-```ocrpsc
+```
 count = 0
 first = input('Please enter lower bound: ')
 last = input('Please enter upper bound: ')
@@ -61,7 +61,7 @@ print('Values divisible by 3 or 5: ' & count)
 
 ## Example Algorithm 2
 
-```ocrpsc
+```
 function calculatePoints(score)
     points = 0
     for n = 0 to score.length - 1
@@ -82,7 +82,7 @@ print('Points scored: ' & result)
 
 ## Example Algorithm 3
 
-```ocrpsc
+```
 function playerStats(names, scores)
     lowerCount = []
     for j = 0 to names.length - 1
@@ -168,7 +168,7 @@ next n
 
     The following algorithm has been written to output the play with the most votes.
 
-    ```ocrpsc
+    ```
     1 | if totalVotes[0] > totalVotes[1] then
     2 |     if totalVotes[0] > totalVotes[2] then
     3 |         print('Play A')

@@ -1,6 +1,6 @@
 # Draw adjacency matrix for
 
-```graph
+```
       B
      /|\
     A | D

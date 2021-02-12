@@ -49,7 +49,7 @@
         3. Accomodation price per night
         4. Owner
 
-2. ```psc
+2. ```
     // how dare you use 3-space indentation
     class Radio
         // instance variables
@@ -69,14 +69,14 @@
     endclass
     ```
 
-3. ```psc
+3. ```
     robertsRadio = new Radio(0.3, 88.2, false)
     philipsRadio = new Radio(0.6, 37.4, true)
     ```
 
 4. `squeak`
 
-5. ```psc
+5. ```
     class Rodent inherits Animal
         private colour
         public procedure new(aName, aPosition, aSize)
@@ -97,7 +97,7 @@
         1. JuniorMember
         2. SeniorMember
 
-  - ```psc
+  - ```
       class Member
           private memberNumber
           private firstname

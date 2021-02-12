@@ -17,7 +17,7 @@
         It recognises obstacles in the road and then classifies them.  
         The class for `Obstacle` is shown below.
 
-        ```ocrpsc
+        ```
         public class Obstacle
             private moving // bool
             private distance //real number in metres
@@ -47,7 +47,7 @@
 
         Complete the class `Person`.
 
-        - ```ocrpsc
+        - ```
           class Person inherits Obstacle
               public procedure updateDistance(givenDistance)
                   if givenDistance <= 5 then
@@ -73,7 +73,7 @@
 
     The game is coded using an object-oriented language. Below is the code for the lizard class:
 
-    ```ocrpsc
+    ```
     class Lizard
         private speed
         private mass

@@ -89,7 +89,7 @@ Example:
 - One-time pad (**+** in ASCII): `0101011`
 - XOR them
 
-```binary
+```
 1001101 M
 0101011 +
 - XOR - ⊻
@@ -98,7 +98,7 @@ Example:
 
 Encrypt `E` with key `w`
 
-```binary
+```
 01000101 E
 01110111 w
 -- XOR - ⊻

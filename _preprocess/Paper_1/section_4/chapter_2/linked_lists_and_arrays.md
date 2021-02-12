@@ -12,7 +12,7 @@
 01. &#x200b;
     01. An **array** is a static data structure which holds a collection of data of a single type.
 
-    02. ```psc
+    02. ```
         str[10] names
 
         for i of {0..9}
@@ -21,7 +21,7 @@
         next
         ```
 
-02. ```psc
+02. ```
     array totals[10]
     for row of data
         for i of {0..10}:
@@ -38,7 +38,7 @@
         Dimensions: 2  
         Most appropriate data type: `char[][]`
 
-    02. ```psc
+    02. ```
         PROCEDURE ClearDisplay
 
             FOR Row = 1 TO 3

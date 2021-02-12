@@ -32,7 +32,7 @@
 </style>
 # Chapter 48
 
-1.  ```psc
+1.  ```
     str[] items = ['hello world', 'out of cheese; redo from start', 'you sunk my battleship']
 
     search_term = input('enter search term: ')

@@ -82,7 +82,7 @@ def factorial_recursive(n):
 
 1. A recursive function, `generate`, is shown.
 
-  ```psc
+  ```
   function generate(num1:byVal)
       if num1 > 10 then
           return 10
@@ -94,7 +94,7 @@ def factorial_recursive(n):
 
   Trace the algorithm to show the value returned when generate(7) is called. Show each step of your working
 
-  > ```trace
+  > ```
   > generate(7)
   >   Return 7 + (generate(8) DIV 2)
   >   generate(8)

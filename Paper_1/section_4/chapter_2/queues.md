@@ -106,7 +106,7 @@ back_text: Back to Chapter 2
         return data
         ```
 
-  - ```text
+  - ```
          |<--- structure --->|
        | | |0|1|2|3|4|5|6|7| |
            ^ front         ^ next

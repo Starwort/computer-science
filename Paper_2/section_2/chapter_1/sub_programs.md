@@ -11,7 +11,7 @@ back_text: Back to Chapter 1
 
 ## Constructs
 
-1. ```psc
+1. ```
     global choice
     global cm
     global inches

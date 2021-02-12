@@ -47,7 +47,7 @@ back_text: Back to Subsection 1
 - Bottleneck has increased over time because processors have improved in speed but memory has not progressed as fast.
 - Some techniques to reduce the impact of the bottle neck are to keep memory in cache to minimise data movement
 
-```text
+```
 +---------+      +---------------+      +---------+
 |  Input  | ___\ | CPU  [CU ALU] | ___\ | Output  |
 | Devices |    / |  Memory Unit  |    / | Devices |
@@ -70,7 +70,7 @@ back_text: Back to Subsection 1
     - Strict separation between data and code
 - More complicated but removes the bottleneck that Von Neumann creates
 
-```text
+```
                            ALU
                             ^
                             v

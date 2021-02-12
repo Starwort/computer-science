@@ -2,7 +2,7 @@
 
 ## Constructs
 
-1. ```psc
+1. ```
     global choice
     global cm
     global inches

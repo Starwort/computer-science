@@ -42,7 +42,7 @@ code, pre {
     This code counts from the inputted number to 1 (including both endpoints), printing out the value at each step
 2. Write the assembly code in question 1 into a high-level language pseudocode
 
-    ```psc
+    ```
     for i of {input_int()..1} do
         print i
     end for
@@ -196,7 +196,7 @@ code, pre {
         ```
     4. Programs can also be written in high level languages. In pseudocode write a procedural program that takes in two numbers and outputs the higher of them.
 
-        ```psc
+        ```
         procedure max(a, b) as
             if a > b do
                 print a

@@ -9,7 +9,7 @@ back_text: Back to Programming Practice
 
 # Draw adjacency matrix for
 
-```graph
+```
       B
      /|\
     A | D

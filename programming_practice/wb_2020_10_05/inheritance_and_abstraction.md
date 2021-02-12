@@ -21,7 +21,7 @@ ol ol {
 
 02. Draw a diagram to show inheritance relationships between at least three things.
 
-    - ```text
+    - ```
             Computer
             /   |   \
       Desktop Phone Laptop
@@ -31,7 +31,7 @@ ol ol {
 
 03. Use the pseudocode below to answer the questions that follow:
 
-    ```psc
+    ```
     class Guitar
         private noOfStrings = 6
 

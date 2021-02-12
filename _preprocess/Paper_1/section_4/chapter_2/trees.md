@@ -16,7 +16,7 @@
 - Subtree: The set of nodes and edges comprised of a parent and all its descendants. A subtree may also be a single leaf
 - Leaf node: A node with no children.
 
-```graph
+```
               root
 subtree  ,--'      `--.
 /   parent     \     parent
@@ -50,7 +50,7 @@ This represents post-order traversal, and the output is `5,4,14,12,8,19,25,30,22
 
 ## Traversing a binary tree (algorithm)
 
-```psc
+```
 PROCEDURE preorder_traverse(NODE p) DO
     PRINT p.data
     IF p.left IS NOT NULL DO
@@ -86,7 +86,7 @@ END PROCEDURE
 
     `magpie`, `robin`, `chaffinch`, `linnet`, `thrush`, `blackbird`, `fieldfare`, `skylark`, `pigeon`
 
-    - ```graph
+    - ```
                    magpie
                  /        \
           chaffinch       robin
