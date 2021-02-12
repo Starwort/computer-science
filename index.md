@@ -180,6 +180,7 @@ location: .
       - <a href='./Paper_1/section_4/chapter_1/data_types_questions.html'><i title='MD file' class="material-icons">article</i>Data Types Questions</a>
       - <a href='./Paper_1/section_4/chapter_1/primitive_data_types.html'><i title='MD file' class="material-icons">article</i>Primitive Data Types</a>
       - <a href='./Paper_1/section_4/chapter_1/rational_numbers.html'><i title='MD file' class="material-icons">article</i>Rational Numbers</a>
+      - <a href='./Paper_1/section_4/chapter_1/rational_numbers_conversion_and_arithmetic.html'><i title='MD file' class="material-icons">article</i>Rational Numbers Conversion And Arithmetic</a>
 
       </details>
     - <details open><summary><a href='./Paper_1/section_4/chapter_2'>Chapter 2</a></summary>
