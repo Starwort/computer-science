@@ -26,6 +26,7 @@ location: ./Paper_1/section_2
   - <a href='./chapter_4/addressing.html'><i title='MD file' class="material-icons">article</i>Addressing</a>
   - <a href='./chapter_4/object_oriented_languages.html'><i title='MD file' class="material-icons">article</i>Object Oriented Languages</a>
   - <a href='./chapter_4/object_oriented_programming.html'><i title='MD file' class="material-icons">article</i>Object Oriented Programming</a>
+  - <a href='./chapter_4/types_of_programming_language.html'><i title='MD file' class="material-icons">article</i>Types Of Programming Language</a>
   - <a href='./chapter_4/wfh_oop_exam_questions.html'><i title='MD file' class="material-icons">article</i>Wfh Oop Exam Questions</a>
   - <a href='./chapter_4/wfh_oop_exam_questions.png'><i title='PNG file' class="material-icons">photo</i>Wfh Oop Exam Questions</a>
 
