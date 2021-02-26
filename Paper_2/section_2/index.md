@@ -12,6 +12,7 @@ location: ./Paper_2/section_2
 
 - <details open><summary><a href='./chapter_1'>Chapter 1</a></summary>
 
+  - <a href='./chapter_1/ide_fig_1.png'><i title='PNG file' class="material-icons">photo</i>Ide Fig 1</a>
   - <a href='./chapter_1/main_and_function'><i title=' file' class="material-icons">get_app</i>Main And Function</a>
   - <a href='./chapter_1/main_and_function.c'><i title='C file' class="material-icons">code</i>Main And Function</a>
   - <a href='./chapter_1/main_and_function.ocrpsc'><i title='OCRPSC file' class="material-icons">code</i>Main And Function</a>
