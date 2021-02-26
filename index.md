@@ -278,7 +278,6 @@ location: .
 
     - <details open><summary><a href='./Paper_2/section_2/chapter_1'>Chapter 1</a></summary>
 
-      - <a href='./Paper_2/section_2/chapter_1/.clang-format'><i title='CLANG-FORMAT file' class="material-icons">build</i>Clang Format</a>
       - <a href='./Paper_2/section_2/chapter_1/main_and_function'><i title=' file' class="material-icons">get_app</i>Main And Function</a>
       - <a href='./Paper_2/section_2/chapter_1/main_and_function.c'><i title='C file' class="material-icons">code</i>Main And Function</a>
       - <a href='./Paper_2/section_2/chapter_1/main_and_function.ocrpsc'><i title='OCRPSC file' class="material-icons">code</i>Main And Function</a>
@@ -287,6 +286,7 @@ location: .
       - <a href='./Paper_2/section_2/chapter_1/recursion.html'><i title='MD file' class="material-icons">article</i>Recursion</a>
       - <a href='./Paper_2/section_2/chapter_1/sub_programs.c'><i title='C file' class="material-icons">code</i>Sub Programs</a>
       - <a href='./Paper_2/section_2/chapter_1/sub_programs.html'><i title='MD file' class="material-icons">article</i>Sub Programs</a>
+      - <a href='./Paper_2/section_2/chapter_1/use_of_an_IDE.html'><i title='MD file' class="material-icons">article</i>Use Of An IDE</a>
 
       </details>
     - <details open><summary><a href='./Paper_2/section_2/classes_RENAME_LATER'>Classes RENAME LATER</a></summary>
@@ -523,6 +523,7 @@ location: .
   - <a href='./summer_homework/oop_img_1.png'><i title='PNG file' class="material-icons">photo</i>Oop Img 1</a>
 
   </details>
+- <a href='./.clang-format'><i title='CLANG-FORMAT file' class="material-icons">build</i>Clang Format</a>
 - <a href='./.gitignore'><i title='GITIGNORE file' class="material-icons">build</i>Gitignore</a>
 - <a href='./.pre-commit-config.yaml'><i title='YAML file' class="material-icons">view_list</i>Pre Commit Config</a>
 - <a href='./404.html'><i title='MD file' class="material-icons">article</i>404</a>

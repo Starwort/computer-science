@@ -12,7 +12,6 @@ location: ./Paper_2/section_2
 
 - <details open><summary><a href='./chapter_1'>Chapter 1</a></summary>
 
-  - <a href='./chapter_1/.clang-format'><i title='CLANG-FORMAT file' class="material-icons">build</i>Clang Format</a>
   - <a href='./chapter_1/main_and_function'><i title=' file' class="material-icons">get_app</i>Main And Function</a>
   - <a href='./chapter_1/main_and_function.c'><i title='C file' class="material-icons">code</i>Main And Function</a>
   - <a href='./chapter_1/main_and_function.ocrpsc'><i title='OCRPSC file' class="material-icons">code</i>Main And Function</a>
@@ -21,6 +20,7 @@ location: ./Paper_2/section_2
   - <a href='./chapter_1/recursion.html'><i title='MD file' class="material-icons">article</i>Recursion</a>
   - <a href='./chapter_1/sub_programs.c'><i title='C file' class="material-icons">code</i>Sub Programs</a>
   - <a href='./chapter_1/sub_programs.html'><i title='MD file' class="material-icons">article</i>Sub Programs</a>
+  - <a href='./chapter_1/use_of_an_IDE.html'><i title='MD file' class="material-icons">article</i>Use Of An IDE</a>
 
   </details>
 - <details open><summary><a href='./classes_RENAME_LATER'>Classes RENAME LATER</a></summary>
