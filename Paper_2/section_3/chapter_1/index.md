@@ -15,6 +15,7 @@ location: ./Paper_2/section_3/chapter_1
 - <a href='./dijkstra_graph_3.png'><i title='PNG file' class="material-icons">photo</i>Dijkstra Graph 3</a>
 - <a href='./dijkstra_graph_4.png'><i title='PNG file' class="material-icons">photo</i>Dijkstra Graph 4</a>
 - <a href='./dijkstra_graph_5.png'><i title='PNG file' class="material-icons">photo</i>Dijkstra Graph 5</a>
+- <a href='./optimisation_a*.html'><i title='MD file' class="material-icons">article</i>Optimisation A*</a>
 - <a href='./optimisation_dijkstra.html'><i title='MD file' class="material-icons">article</i>Optimisation Dijkstra</a>
 - <a href='./sorting_algorithms_theory.html'><i title='MD file' class="material-icons">article</i>Sorting Algorithms Theory</a>
 - <a href='./sorting_workshop.ipynb'><i title='IPYNB file' class="material-icons">integration_instructions</i>Sorting Workshop</a>
