@@ -127,6 +127,7 @@ location: ./Paper_1
     </details>
   - <details open><summary><a href='./section_2/chapter_2'>Chapter 2</a></summary>
 
+    - <a href='./section_2/chapter_2/applications_generation.html'><i title='MD file' class="material-icons">article</i>Applications Generation</a>
     - <a href='./section_2/chapter_2/nature_of_applications.html'><i title='MD file' class="material-icons">article</i>Nature Of Applications</a>
     - <a href='./section_2/chapter_2/programming_language_translators.html'><i title='MD file' class="material-icons">article</i>Programming Language Translators</a>
 
