@@ -27,7 +27,7 @@ BFS: A⇒B⇒C, (B)⇒D, (B)⇒E⇒F
   - Validity: 'Am I guaranteed to find the shortest route?'
   - Efficiency: 'Can I short-circuit useless searches?'
 
-## Optimisation algorithms
+## Algorithm optimisations
 
 | Algorithm                                   | DFS              | BFS                                  | Dijkstra | A*  |
 | ------------------------------------------- | ---------------- | ------------------------------------ | -------- | --- |
@@ -392,3 +392,5 @@ BFS: A⇒B⇒C, (B)⇒D, (B)⇒E⇒F
         | **C⇒F - 6** |       |         |
 
       </details>
+
+       - Shortest route is A⇒C⇒F
