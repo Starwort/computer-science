@@ -59,6 +59,72 @@ Many programming languages are multi-paradigm
 Python, for example, is multi-paradigm with procedural, OOP, or functional techniques  
 Java, however, is exclusively OOP
 
+### Exercises
+
+1. A high-level language states what is required but not how to do it. The statements do not have to be in a specific order. Identify the type of language described.
+
+   Declarative
+2. State one typical use for this type of language and give one reason for your choice
+
+   Database lookup - SQL is a declarative language that is commonly used to specify the result of the search, while allowing the database engine to optimise however it pleases.
+3. Some high-level languages are object-oriented. Describe three features of an object-oriented language.
+   1. Object-oriented languages use classes and objects to abstract away behaviours. These can be used to reduce the complexity of functions and increase readability, when using appropriately named classes and methods
+   2. Encapsulation, or data hiding, is used by object-oriented languages; this ensures that each class maintains its own internal state, and other classes interact with them only by sending messages through that class' methods
+   3. Polymorphism, a form of dynamic dispatch, is also very common in object-oriented languages. It is used to dispatch different methods under the same name, depending on the type of an object.
+4. The program, as shown below, is written in assembly code using the [Little Man Computer](https://starwort.github.io/lmc) instruction set. It is supposed to take in two numbers and output the higher.
+
+   ```
+           INP
+           STA     NUMA
+           INP
+           STA     NUMB
+           SUB     NUMA
+           BRP     NOTA
+           LDA     NUMB
+           BRA     QUIT
+   NOTA    LDA     NUMA
+   QUIT    OUT
+           HLT
+
+   NUMA    DAT
+   NUMB    DAT
+   ```
+
+   Programs can also be written in high-level languages. In pseudocode write a procedural program that takes in two numbers and outputs the higher of them.
+
+   ```
+   INPUT INT a
+   INPUT INT b
+   IF a > b THEN
+      OUTPUT $a
+   ELSE
+      OUTPUT $b
+   END IF
+   ```
+
+5. A procedural programming language may use procedures. Explain the term procedural programming language.
+
+   A procedural programming language is one in which instructions are written in the order the computer is expected to execute them. For example, a procedural programming language may tell the computer to make a sandwich by:
+   - placing a slice of bread on a plate
+   - spreading butter across the face of the slice
+   - placing/spreading, as appropriate, the filling on top of the buttered bread
+   - buttering an additional slice of bread
+   - placing it on top of the rest of the sandwich, buttered face down
+
+   The computer would then be expected to perform these actions in the order they are written to produce the expected output.
+6. The same variable name may be used in more than one procedure in a program. Explain how a variable named result may be used in different procedures without causing errors.
+
+   Most programming languages have a concept of *variable scope*. This means that a variable within one scope is contained entirely within that scope and cannot affect other scopes.
+
+   For example, each procedure has its own scope, and variables defined within that scope are inaccessible outside that scope; and the name is free to be rebound without affecting that procedure.
+7. Explain parameter passing.
+
+   Parameter passing is where a function or procedure is called, and values are given to the subroutine to determine how it executes. Subroutines can take any number of parameters, of any types they like, and these parameters are locally bound names which take values from the caller.
+
+   Variable names are not relevant when passing parameters; their contents are treated as values, which are passed to the function and then rebound to the names provided in the function signature.
+
+   The names specified in the function signature are defined in the scope of the function; i.e. they do not leak scope to outside the function.
+
 ## Low-level languages
 
 The lowest-level languages are:
