@@ -10,6 +10,7 @@ location: ./Paper_2/section_3/chapter_1
 
 # **Chapter 1**
 
+- <a href='./a*_graph_1.png'><i title='PNG file' class="material-icons">photo</i>A* Graph 1</a>
 - <a href='./dijkstra_graph_1.png'><i title='PNG file' class="material-icons">photo</i>Dijkstra Graph 1</a>
 - <a href='./dijkstra_graph_2.png'><i title='PNG file' class="material-icons">photo</i>Dijkstra Graph 2</a>
 - <a href='./dijkstra_graph_3.png'><i title='PNG file' class="material-icons">photo</i>Dijkstra Graph 3</a>
