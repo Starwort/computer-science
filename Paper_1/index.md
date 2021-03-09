@@ -67,6 +67,7 @@ location: ./Paper_1
   - <a href='./lmc/bundled_interpreter.py'><i title='PY file' class="material-icons">code</i>Bundled Interpreter</a>
   - <a href='./lmc/difference.lmc'><i title='LMC file' class="material-icons">code</i>Difference</a>
   - <a href='./lmc/equality.lmc'><i title='LMC file' class="material-icons">code</i>Equality</a>
+  - <a href='./lmc/exam_prep.html'><i title='MD file' class="material-icons">article</i>Exam Prep</a>
   - <a href='./lmc/inputting_and_storing_numbers.lmc'><i title='LMC file' class="material-icons">code</i>Inputting And Storing Numbers</a>
   - <a href='./lmc/interpreter.py'><i title='PY file' class="material-icons">code</i>Interpreter</a>
   - <a href='./lmc/medium_tasks.lmc'><i title='LMC file' class="material-icons">code</i>Medium Tasks</a>
