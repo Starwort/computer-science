@@ -16,6 +16,7 @@ location: ./Paper_2/section_2/chapter_1
 - <a href='./main_and_function.ocrpsc'><i title='OCRPSC file' class="material-icons">code</i>Main And Function</a>
 - <a href='./main_and_function.splw'><i title='SPLW file' class="material-icons">code</i>Main And Function</a>
 - <a href='./programming_techniques.html'><i title='MD file' class="material-icons">article</i>Programming Techniques</a>
+- <a href='./programming_techniques_ESQs.html'><i title='MD file' class="material-icons">article</i>Programming Techniques ESQs</a>
 - <a href='./recursion.html'><i title='MD file' class="material-icons">article</i>Recursion</a>
 - <a href='./sub_programs.c'><i title='C file' class="material-icons">code</i>Sub Programs</a>
 - <a href='./sub_programs.html'><i title='MD file' class="material-icons">article</i>Sub Programs</a>
