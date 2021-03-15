@@ -7,6 +7,8 @@ back_link: ./Paper_1/section_2/chapter_2
 back_text: Back to Chapter 2
 ---
 
+
+
 <style>
     :not(ul) + ol {
         counter-reset: list-ctr;
@@ -61,12 +63,13 @@ back_text: Back to Chapter 2
   - &#x200b;
     - Ubuntu (distribution of Linux)
     - Visual Studio Code (with which I am creating this file)
-| -                                                                           | Software                             | Category |
-| --------------------------------------------------------------------------- | ------------------------------------ |
-| Firewall software installed on the web server                               | Utility software                     |
-| Store's own online ordering system designed for their products and systems  | Bespoke software                     |
-| Graphics software to crop product images suitable for uploading to the site | General purpose application software |
-| Online payment verification software                                        | Special-purpose software             |
+
+      | Software                                                                    | Category                             |
+      | --------------------------------------------------------------------------- | ------------------------------------ |
+      | Firewall software installed on the web server                               | Utility software                     |
+      | Store's own online ordering system designed for their products and systems  | Bespoke software                     |
+      | Graphics software to crop product images suitable for uploading to the site | General purpose application software |
+      | Online payment verification software                                        | Special-purpose software             |
 - &#x200b;
   1. As it has already been made, the cost will be shared between all the users; and therefore will be cheaper to purchase
   2. It will have been well-tested meaning that there will be fewer bugs
