@@ -7,7 +7,7 @@
       Example:
 
       ```py
-      print("A random number is: 4")  # chosen by dice roll, guaranteed to be random
+      print("A random number is: 4")  # chosen by fair dice roll. guaranteed to be random.
       print("This is a second line of code")
       print("Is this a good enough example yet?")
       ```
@@ -111,7 +111,7 @@
    ```
 
    The developer needs to write procedures for the options play and read. Each of the options changes its corresponding value, and outputs the results to the screen.
-   1. Write a procedure, using pseudocode, to reset bored and output the new value in an appropriate message
+   1. Write a procedure, using pseudocode, to reset `bored` and output the new value in an appropriate message
 
       ```
       procedure play()
@@ -121,12 +121,12 @@
       endprocedure
       ```
 
-   2. Write a procedure, using pseudocode, to increase intelligence by 0.6% and output the new intelligence in an appropriate message
+   2. Write a procedure, using pseudocode, to increase `intelligence` by 0.6% and output the new intelligence in an appropriate message
 
       ```
       procedure read()
          global intelligence, name
-         intelligence = intelligence * 1.06
+         intelligence = intelligence * 1.006
          print(name + " learnt! (Intelligence: " + intelligence + ")")
       endprocedure
       ```

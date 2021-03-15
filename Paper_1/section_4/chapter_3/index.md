@@ -10,5 +10,6 @@ location: ./Paper_1/section_4/chapter_3
 
 # **Chapter 3**
 
+- <a href='./boolean_algebra_ESQs.html'><i title='MD file' class="material-icons">article</i>Boolean Algebra ESQs</a>
 - <a href='./gates.png'><i title='PNG file' class="material-icons">photo</i>Gates</a>
 - <a href='./logic_gates.html'><i title='MD file' class="material-icons">article</i>Logic Gates</a>
