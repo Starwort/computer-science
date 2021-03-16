@@ -128,5 +128,4 @@
 
    State the Boolean expression represented by the Karnaugh map above, in its smallest form
 
-   (¬A ∧ ¬C) ∨ (A ∧ ¬B ∧ ¬C ∧ ¬D) ∨ (A ∧ B ∧ C)  
-   or (¬A ∧ ¬C) ∨ (A ∧ (¬B ∧ ¬C ∧ ¬D ∨ A ∧ B ∧ C))
+   (¬A ∧ ¬C) ∨ (¬B ∧ ¬C ∧ ¬D) ∨ (A ∧ B ∧ C)
