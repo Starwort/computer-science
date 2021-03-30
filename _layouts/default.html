@@ -45,6 +45,10 @@
         <main id="content" class="main-content" role="main">
             {{ content }}
 
+            <script src="https://utteranc.es/client.js" repo="starwort/comments"
+                    issue-term="url" theme="github-dark" crossorigin="anonymous" async>
+                    </script>
+
             <footer class="site-footer">
                 <span class="site-footer-credits">
                     {{ page.autodoc_footer | markdownify }}

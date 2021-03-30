@@ -11,8 +11,10 @@ location: ./Paper_1/section_2/chapter_4
 # **Chapter 4**
 
 - <a href='./addressing.html'><i title='MD file' class="material-icons">article</i>Addressing</a>
+- <a href='./inheritance_diagram.png'><i title='PNG file' class="material-icons">photo</i>Inheritance Diagram</a>
 - <a href='./object_oriented_languages.html'><i title='MD file' class="material-icons">article</i>Object Oriented Languages</a>
 - <a href='./object_oriented_programming.html'><i title='MD file' class="material-icons">article</i>Object Oriented Programming</a>
+- <a href='./object_oriented_programming_redo.html'><i title='MD file' class="material-icons">article</i>Object Oriented Programming Redo</a>
 - <a href='./types_of_programming_language.html'><i title='MD file' class="material-icons">article</i>Types Of Programming Language</a>
 - <a href='./wfh_oop_exam_questions.html'><i title='MD file' class="material-icons">article</i>Wfh Oop Exam Questions</a>
 - <a href='./wfh_oop_exam_questions.png'><i title='PNG file' class="material-icons">photo</i>Wfh Oop Exam Questions</a>
