@@ -46,6 +46,7 @@ location: ./Paper_1/section_1
   - <a href='./subsection_1/chapter_5_questions.html'><i title='MD file' class="material-icons">article</i>Chapter 5 Questions</a>
   - <a href='./subsection_1/pipelining.html'><i title='MD file' class="material-icons">article</i>Pipelining</a>
   - <a href='./subsection_1/processor_architectures.html'><i title='MD file' class="material-icons">article</i>Processor Architectures</a>
+  - <a href='./subsection_1/revision.html'><i title='MD file' class="material-icons">article</i>Revision</a>
 
   </details>
 - <a href='./overview.html'><i title='MD file' class="material-icons">article</i>Overview</a>
